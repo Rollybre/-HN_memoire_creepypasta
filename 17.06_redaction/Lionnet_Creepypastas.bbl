@@ -1,0 +1,517 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{balanzategui_creepypasta_2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e14233ef3ae0a34c26ef1404a8521e2}{%
+           family={Balanzategui},
+           familyi={B\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{9e14233ef3ae0a34c26ef1404a8521e2}
+      \strng{fullhash}{9e14233ef3ae0a34c26ef1404a8521e2}
+      \strng{bibnamehash}{9e14233ef3ae0a34c26ef1404a8521e2}
+      \strng{authorbibnamehash}{9e14233ef3ae0a34c26ef1404a8521e2}
+      \strng{authornamehash}{9e14233ef3ae0a34c26ef1404a8521e2}
+      \strng{authorfullhash}{9e14233ef3ae0a34c26ef1404a8521e2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Throughout the past decade, a multimodal type of internet storytelling has developed that extends upon the early Web 2.0 viral narrative practices of chain emails as well as pre-digital folkloric storytelling traditions such as the ghost story and urban legend. This popular mode of digital storytelling, known broadly as ‘Creepypasta’, is produced and consumed according to folkloric practices that in turn shape its form and aesthetics. The author suggests that a precise genre has emerged out of the originally wide-ranging terrain of Creepypasta, a generic mode constituted of specific thematic preoccupations and aesthetics that she refers to as ‘the digital gothic’. Through analysis of the foundational story ‘Candle Cove’, the article outlines the digital gothic’s anxious preoccupation with dead and residual media, and with the interface between technological and personal change. She demonstrates how ‘Candle Cove’ deconstructs nostalgia in its tense negotiation of the relationship between analogue and digital cultures. The author’s analysis thus illuminates how vernacular online genres such as the digital gothic productively work through the aesthetic and conceptual tensions underpinning technological change in the networked digital era.}
+      \field{issn}{1470-4129, 1741-2994}
+      \field{journaltitle}{Journal of Visual Culture}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Creepypasta, ‘{Candle} {Cove}’, and the digital gothic}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{187\bibrangedash 208}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1177/1470412919841018
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/1470412919841018
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/1470412919841018
+      \endverb
+    \endentry
+    \entry{blank_slender_2018}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=e8a864a3e5b70a61a3246e456cfb018d}{%
+           family={Blank},
+           familyi={B\bibinitperiod},
+           given={Trevor\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=698a84b7d9285c52454e0da2b9c0da12}{%
+           family={McNeill},
+           familyi={M\bibinitperiod},
+           given={Lynne\bibnamedelima S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Logan}%
+      }
+      \list{publisher}{1}{%
+        {Utah State University Press}%
+      }
+      \strng{namehash}{62ee1a8ec4af3e899eaba3fcb9ff9784}
+      \strng{fullhash}{62ee1a8ec4af3e899eaba3fcb9ff9784}
+      \strng{bibnamehash}{62ee1a8ec4af3e899eaba3fcb9ff9784}
+      \strng{editorbibnamehash}{62ee1a8ec4af3e899eaba3fcb9ff9784}
+      \strng{editornamehash}{62ee1a8ec4af3e899eaba3fcb9ff9784}
+      \strng{editorfullhash}{62ee1a8ec4af3e899eaba3fcb9ff9784}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{"Exploring the menacing figure of Slender Man, the blank-faced, long-limbed bogeyman born of a Photoshop contest, who has appeared in horror stories circulated on- and offline among young people. An unprecedented folkloric take, analyzing him within contemporary legend studies, "creepypastas," folk belief, and children's culture"--Provided by publisher}
+      \field{isbn}{978-1-60732-780-6}
+      \field{shorttitle}{Slender {Man} is coming}
+      \field{title}{Slender {Man} is coming: creepypasta and contemporary legends on the {Internet}}
+      \field{year}{2018}
+      \keyw{Contagion (Social psychology),Folklore and the Internet,Horror tales,Memes,Slender Man,Urban folklore}
+    \endentry
+    \entry{cook_canonicity_2013}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=338d24292a72991dfd28d92a672521a8}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Roy\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{338d24292a72991dfd28d92a672521a8}
+      \strng{fullhash}{338d24292a72991dfd28d92a672521a8}
+      \strng{bibnamehash}{338d24292a72991dfd28d92a672521a8}
+      \strng{authorbibnamehash}{338d24292a72991dfd28d92a672521a8}
+      \strng{authornamehash}{338d24292a72991dfd28d92a672521a8}
+      \strng{authorfullhash}{338d24292a72991dfd28d92a672521a8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0021-8529}
+      \field{journaltitle}{The Journal of Aesthetics and Art Criticism}
+      \field{month}{8}
+      \field{number}{3}
+      \field{title}{Canonicity and {Normativity} in {Massive}, {Serialized}, {Collaborative} {Fiction}}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2022}
+      \field{volume}{71}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{271\bibrangedash 276}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1111/jaac.12021
+      \endverb
+      \verb{file}
+      \verb Cook_2013_Canonicity and Normativity in Massive, Serialized, Collaborative Fiction.pdf:/Users/rolly/Zotero/storage/DL5CQDTJ/Cook_2013_Canonicity and Normativity in Massive, Serialized, Collaborative Fiction.pdf:application/pdf;Snapshot:/Users/rolly/Zotero/storage/75VZZT8Y/5980378.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/jaac.12021
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/jaac.12021
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{dawkins_gene_2003}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e4bf161272e948cc189fac2d9b7415a5}{%
+           family={Dawkins},
+           familyi={D\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=15f8d6d1a973313ec536b653af0b8b51}{%
+           family={Ovion},
+           familyi={O\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {O. Jacob}%
+      }
+      \strng{namehash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{fullhash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{bibnamehash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{authorbibnamehash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{authornamehash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{authorfullhash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{translatorbibnamehash}{15f8d6d1a973313ec536b653af0b8b51}
+      \strng{translatornamehash}{15f8d6d1a973313ec536b653af0b8b51}
+      \strng{translatorfullhash}{15f8d6d1a973313ec536b653af0b8b51}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-7381-1243-9}
+      \field{number}{111}
+      \field{series}{Poches {Odile} {Jacob}}
+      \field{title}{Le gène égoïste}
+      \field{year}{2003}
+    \endentry
+    \entry{garcia_roca_creepypasta_2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74a86ef3860a4464b53d32b06340adcc}{%
+           family={García\bibnamedelima Roca},
+           familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Anastasio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {spa}%
+      }
+      \strng{namehash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{fullhash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{bibnamehash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{authorbibnamehash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{authornamehash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{authorfullhash}{74a86ef3860a4464b53d32b06340adcc}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Las nuevas tecnologías y la era del conocimiento han provocado que la escuela deje de ostentar el monopolio de la educación y surjan nuevos modelos y formatos de aprendizaje. Además, estas circunstancias han desembocado en una cultura de la infoxicación, desinformación y posverdad. En la red no existe el filtro de la información. Este contexto también ha favorecido la creación de nuevas textualidades digitales basadas en la creación colectiva. Entre ellos destacan los creepypasta (historias digitales de terror) como obras basadas en la hiperficción constructiva, inspiradas en las leyendas urbanas y relacionadas con las noticias falsas. Esta investigación tiene el objetivo de analizar los creepypasta como construcciones y modelos narrativos con el fin de aprovechar sus potencialidades en la educación formal. Para ello, se ha extraído y analizado un corpus de 68 obras ubicadas en la sección de Lecturas Sugeridas del espacio de afinidad relacionado con estos textos más importante de la red: creepypasta.fandom. Los resultados hallados muestran que se trata de relatos metaficcionales que utilizan una gran riqueza de técnicas y recursos narrativos. Se manipulan y resignifican imágenes, documentos, noticias y otros hechos documentos. Todo ello, posiciona a estos textos en un espacio privilegiado para el fomento de la lectura y alfabetización mediática e informacional. New technologies and the era of knowledge have caused the school to cease to hold a monopoly on education and to emerge new models and learning formats. Furthermore, these circumstances have led to a culture of infoxication, disinformation and post-truth. In the network there is no information filter. This context has also favored the creation of new digital textualities based on collective creation. Among them stand out the creepypasta (digital horror stories) as works based on constructive hyperfiction, inspired by urban legends and related to fake news. This research aims to analyze creepypasta as constructions and narrative models in order to take advantage of their potential in formal education. To do this, a corpus of 68 works located in the Suggested Reading section of the affinity space related to these most important texts on the web has been extracted and analyzed: creepypasta.fandom. The results found show that these are metafictional stories that use a great wealth of techniques and narrative resources. Images, documents, news and other document facts are manipulated and resignified. All this positions these texts in a privileged space for the promotion of reading and media and information literacy.}
+      \field{issn}{1577-6921}
+      \field{journaltitle}{Tonos digital: revista de estudios filológicos}
+      \field{note}{Publisher: Servicio de Publicaciones Section: Tonos digital: revista de estudios filológicos}
+      \field{number}{40}
+      \field{shorttitle}{Los creepypasta como textualidades metaficcionales}
+      \field{title}{Los creepypasta como textualidades metaficcionales: oportunidades formativas para la alfabetización mediática e informacional.}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/6CXL3NLU/articulo.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=7857341
+      \endverb
+      \verb{url}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=7857341
+      \endverb
+    \endentry
+    \entry{goudet_agentivite_2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f1605d7552129a40e2eb285e06e2df3}{%
+           family={Goudet},
+           familyi={G\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \strng{namehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{fullhash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{bibnamehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{authorbibnamehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{authornamehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{authorfullhash}{2f1605d7552129a40e2eb285e06e2df3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article is a study of the intertwining of narration between written digital narratives and video games, looking at horror narratives adapted for video games as well as video games that give birth to horror narratives. Adaptations from one medium to another show that these recombinant narratives are interwoven with narrative clichés and shared tropes, which are the subject of the second part of this exploration. Agency (and its absence) is central to understanding the narrative power dynamics at play.}
+      \field{note}{Artwork Size: 13 pages, pages 57-69 ISBN: 9782406125488 Medium: application/xhtml+xml,application/pdf,online,database,application/xhtml+xml ; application/pdf Publisher: [object Object]}
+      \field{title}{Agentivité de l’horreur, creepypastas et jeu vidéo}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{13 pages\bibrangessep pages 57\bibrangedash 69}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.48611/ISBN.978-2-406-12548-8.P.0057
+      \endverb
+      \verb{urlraw}
+      \verb https://classiques-garnier.com/doi/garnier?article=RomMS21_57
+      \endverb
+      \verb{url}
+      \verb https://classiques-garnier.com/doi/garnier?article=RomMS21_57
+      \endverb
+      \keyw{Agency,Agentivité,Creepypasta,Fanfiction,Horreur,Horror,Transfictionality,Transfictionnalité}
+    \endentry
+    \entry{jacobs_character_1990}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b2832aa95ef14c4d52d2c171ea411265}{%
+           family={Jacobs},
+           familyi={J\bibinitperiod},
+           given={Naomi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Carbondale}%
+      }
+      \list{publisher}{1}{%
+        {Southern Illinois University Press}%
+      }
+      \strng{namehash}{b2832aa95ef14c4d52d2c171ea411265}
+      \strng{fullhash}{b2832aa95ef14c4d52d2c171ea411265}
+      \strng{bibnamehash}{b2832aa95ef14c4d52d2c171ea411265}
+      \strng{authorbibnamehash}{b2832aa95ef14c4d52d2c171ea411265}
+      \strng{authornamehash}{b2832aa95ef14c4d52d2c171ea411265}
+      \strng{authorfullhash}{b2832aa95ef14c4d52d2c171ea411265}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-8093-1607-6}
+      \field{series}{Crosscurrents/modern critiques}
+      \field{shorttitle}{The character of truth}
+      \field{title}{The character of truth: historical figures in contemporary fiction}
+      \field{year}{1990}
+      \keyw{20th century,Characters and characteristics in literature,Fiction,Historical fiction,History and criticism,Literature and history}
+    \endentry
+    \entry{jenkins_convergence_2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d8f3cacffe52ab6b7c14855ebd78bb4}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {New York University Press}%
+      }
+      \strng{namehash}{4d8f3cacffe52ab6b7c14855ebd78bb4}
+      \strng{fullhash}{4d8f3cacffe52ab6b7c14855ebd78bb4}
+      \strng{bibnamehash}{4d8f3cacffe52ab6b7c14855ebd78bb4}
+      \strng{authorbibnamehash}{4d8f3cacffe52ab6b7c14855ebd78bb4}
+      \strng{authornamehash}{4d8f3cacffe52ab6b7c14855ebd78bb4}
+      \strng{authorfullhash}{4d8f3cacffe52ab6b7c14855ebd78bb4}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-8147-4281-5}
+      \field{note}{OCLC: ocm64594290}
+      \field{shorttitle}{Convergence culture}
+      \field{title}{Convergence culture: where old and new media collide}
+      \field{year}{2006}
+      \verb{file}
+      \verb Jenkins - 2006 - Convergence culture where old and new media colli.pdf:/Users/rolly/Zotero/storage/68RB2QKW/Jenkins - 2006 - Convergence culture where old and new media colli.pdf:application/pdf
+      \endverb
+      \keyw{Mass media and culture,Popular culture,United States}
+    \endentry
+    \entry{lata_du_2022}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f543587289e09efe08f6c30d7851aa86}{%
+           family={Lata},
+           familyi={L\bibinitperiod},
+           given={Marion},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d95569169c8dedbbef5acd41f17ca62c}{%
+           family={Baudoin},
+           familyi={B\bibinitperiod},
+           given={Anne-Catherine},
+           giveni={A\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Éditions Rue d’Ulm}%
+      }
+      \strng{namehash}{f543587289e09efe08f6c30d7851aa86}
+      \strng{fullhash}{f543587289e09efe08f6c30d7851aa86}
+      \strng{bibnamehash}{f543587289e09efe08f6c30d7851aa86}
+      \strng{authorbibnamehash}{f543587289e09efe08f6c30d7851aa86}
+      \strng{authornamehash}{f543587289e09efe08f6c30d7851aa86}
+      \strng{authorfullhash}{f543587289e09efe08f6c30d7851aa86}
+      \strng{editorbibnamehash}{d95569169c8dedbbef5acd41f17ca62c}
+      \strng{editornamehash}{d95569169c8dedbbef5acd41f17ca62c}
+      \strng{editorfullhash}{d95569169c8dedbbef5acd41f17ca62c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Cet article s’intéresse au cas particulier que représentent, du point de vue de l’autorité conférée aux textes, les fanfictions s’inspirant des œuvres du canon littéraire. Ces réécritures par des amateurs en ligne occupent en effet une place particulièrement marginale vis-à-vis de la littérature publiée, dans la mesure où elles ne sont que peu ou pas auctorialisées, leur diffusion se faisant gratuitement et sous couvert d’anonymat. Lorsque les fans choisissent de réécrire des classiques, l’écart de statut entre le texte source et sa réécriture est donc particulièrement important et engendre un certain nombre de tensions. Il s’agira d’identifier ce qui, dans la fanfiction, contraste avec le régime de sacralité propre aux œuvres littéraires du canon, et empêche que la réception de ces textes ne se fasse sous les mêmes auspices que celle des textes qu’ils réécrivent. Nous serons amenée à distinguer plusieurs « canons » au sein de l’univers fanfictionnel (canon interne, fanon), différant plus ou moins du canon littéraire consacré. C’est en effet à travers une diversification de la notion même de canon que les producteurs de fanfictions peuvent négocier pour leurs textes une légitimité seconde, se déployant à une échelle communautaire en marge des circuits littéraires institutionnels.}
+      \field{booktitle}{Sacré canon : {Autorité} et marginalité en littérature}
+      \field{isbn}{978-2-7288-0973-8}
+      \field{month}{1}
+      \field{note}{Code: Sacré canon : Autorité et marginalité en littérature}
+      \field{series}{Actes de la recherche à l’{ENS}}
+      \field{shorttitle}{Du canon au fanon}
+      \field{title}{Du canon au fanon : {Sacralités} multiples du canon littéraire dans la fanfiction}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{109\bibrangedash 122}
+      \range{pages}{14}
+      \verb{urlraw}
+      \verb http://books.openedition.org/editionsulm/4739
+      \endverb
+      \verb{url}
+      \verb http://books.openedition.org/editionsulm/4739
+      \endverb
+      \keyw{auteurs et artiste,autocanonisation,canon,classique littéraire,étude littéraire,évolution littéraire,génie littéraire,notion}
+    \endentry
+    \entry{mayer_autorite_2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2252c4869eaf83e871ff7083660a7f7f}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Ariane},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a52d5ddfb3226adc0bdcbf9303e5057}{%
+           family={Sauret},
+           familyi={S\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74482d17c3cc2f450e73f3e332cf6068}
+      \strng{fullhash}{74482d17c3cc2f450e73f3e332cf6068}
+      \strng{bibnamehash}{74482d17c3cc2f450e73f3e332cf6068}
+      \strng{authorbibnamehash}{74482d17c3cc2f450e73f3e332cf6068}
+      \strng{authornamehash}{74482d17c3cc2f450e73f3e332cf6068}
+      \strng{authorfullhash}{74482d17c3cc2f450e73f3e332cf6068}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Quaderni}
+      \field{month}{5}
+      \field{note}{Publisher: Éditions de la Maison des Sciences de l'Homme}
+      \field{number}{93}
+      \field{shorttitle}{L'autorité dans {Anarchy}. {Les} constructions de l'autorité et de l'auctorialité dans un dispositif de production littéraire collaborative}
+      \field{title}{L'autorité dans {Anarchy}. {Les} constructions de l'autorité et de l'auctorialité dans un dispositif de production littéraire collaborative : le cas de l'expérience transmédia {Anarchy}.fr}
+      \field{urlday}{13}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{63\bibrangedash 73}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.4000/quaderni.1078
+      \endverb
+      \verb{file}
+      \verb HAL PDF Full Text:/Users/rolly/Zotero/storage/9UUKP4XM/Mayer et Sauret - 2017 - L'autorité dans Anarchy. Les constructions de l'au.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.archives-ouvertes.fr/hal-02172717
+      \endverb
+      \verb{url}
+      \verb https://hal.archives-ouvertes.fr/hal-02172717
+      \endverb
+    \endentry
+    \entry{ondrak_spectres_2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=558c6e6f579f39a8698fe5bb9f32c8e3}{%
+           family={Ondrak},
+           familyi={O\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{558c6e6f579f39a8698fe5bb9f32c8e3}
+      \strng{fullhash}{558c6e6f579f39a8698fe5bb9f32c8e3}
+      \strng{bibnamehash}{558c6e6f579f39a8698fe5bb9f32c8e3}
+      \strng{authorbibnamehash}{558c6e6f579f39a8698fe5bb9f32c8e3}
+      \strng{authornamehash}{558c6e6f579f39a8698fe5bb9f32c8e3}
+      \strng{authorfullhash}{558c6e6f579f39a8698fe5bb9f32c8e3}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract Horror has always been adaptable to developments in media and technology; this is clear in horror tales from Gothic epistolary novels to the ‘found footage’ explosion of the early 2000s via phantasmagoria and chilling radio broadcasts such as Orson Welles’ infamous War of the Worlds (1938). It is no surprise, then, that the firm establishment of the digital age (i.e. the widespread use of Web2.0 spaces the proliferation of social media and its integration into everyday life) has created venues not just for interpersonal communication, shared interests and networking but also the potential for these venues to host a new type of horror fiction: creepypasta. However, much of the current academic attention enjoyed by digital horror fiction and creepypasta has focused on digital media’s ability to remediate a ‘folk-like’ storytelling style and an emulation of word-of-mouth communication primarily associated with urban legends and folk tales. Here, I intend to argue that creepypasta should primarily be considered a form of digital fiction due to its ability to spread narratives in a way distinct to digital textuality and intrinsically linked to the affordances of digital media. In this article, I will treat creepypasta narratives as a genre specific to the form of digital fiction – specifically a ‘fourth generation’ of digital fiction – in which ‘the [social media] platform is a significant part of the aesthetic expression and the meaning potential’ of these stories. I will argue that the affordances of social media, and the way in which they are taken advantage of by creepypasta narratives situate the phenomenon as an example of post-postmodern storytelling that embodies traits of Jeffrey Nealon’s ‘Post-postmodernism’, Alan Kirby’s ‘Digimodernism’ and Timotheus Vermeulen and Robin van den Akker’s ‘Metamodernism’. I will suggest that this postpostmodern cultural turn works hand in hand with the resurgence of a cultural ‘hauntology’ to coalesce in creepypasta as a unique type of text. While creepypasta’s hauntological qualities have previously been noted by Line Henriksen, this article will explore a relationship between creepypasta and post-postmodernism that has not yet been acknowledged. Ultimately, I will attest that the above theories describe (sometimes overlapping) symptoms of an emerging cultural period that relate to creepypasta’s meaning potential and its formal and aesthetic properties. Observations from all three theories of a post-postmodern age coalesce in creepypasta narratives, from the specific qualities of digital textuality and the unique properties of different social media platforms on which these narratives are hosted (YouTube, Reddit, webforums and so on) to the metatextuality of creepypasta works and how they depart from and retain a dialogue with postmodern horror narratives. While the cultural landscape is still in flux and what will come after postmodernism has yet to be determined, creepypasta narratives tell us that a post-postmodern age has already arrived.}
+      \field{issn}{2040-3275, 2040-3283}
+      \field{journaltitle}{Horror Studies}
+      \field{month}{10}
+      \field{number}{2}
+      \field{shorttitle}{Spectres des {Monstres}}
+      \field{title}{Spectres des {Monstres}: {Post}-postmodernisms, hauntology and creepypasta narratives as digital fiction}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{161\bibrangedash 178}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1386/host.9.2.161_1
+      \endverb
+      \verb{file}
+      \verb Version acceptée:/Users/rolly/Zotero/storage/SRNKQKH4/Ondrak - 2018 - Spectres des Monstres Post-postmodernisms, haunto.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://intellectdiscover.com/content/journals/10.1386/host.9.2.161_1
+      \endverb
+      \verb{url}
+      \verb https://intellectdiscover.com/content/journals/10.1386/host.9.2.161_1
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
