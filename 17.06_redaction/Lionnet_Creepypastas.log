@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  21 APR 2024 18:49
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  21 APR 2024 22:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1075,13 +1075,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
  []
 
 [12] [13] [14] [15] [16]
-Overfull \hbox (78.59702pt too wide) in paragraph at lines 224--224
+Overfull \hbox (78.59702pt too wide) in paragraph at lines 229--229
 \TU/lmr/m/n/12 dium : application/xhtml+xml,application/pdf,online,database,app
 lication/xhtml+xml ;
  []
 
 [17]
-Overfull \hbox (12.09816pt too wide) in paragraph at lines 224--224
+Overfull \hbox (12.09816pt too wide) in paragraph at lines 229--229
 [][][]\TU/lmr/m/sc/12 Mayer []\TU/lmr/m/n/12 (Ariane) et []\TU/lmr/m/sc/12 Saur
 et []\TU/lmr/m/n/12 (Nicolas), «   L’autorité dans Anarchy. Les construc-
  []
@@ -1089,11 +1089,6 @@ et []\TU/lmr/m/n/12 (Nicolas), «   L’autorité dans Anarchy. Les construc-
 [18] (./Lionnet_Creepypastas.aux)
 Package rerunfilecheck Info: File `Lionnet_Creepypastas.out' has not changed.
 (rerunfilecheck)             Checksum: A406BF24A4713D5D71A1CC57373D28F3;199.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'Lionnet_Creepypastas.run.xml'.
 \openout1 = `Lionnet_Creepypastas.run.xml'.
 
