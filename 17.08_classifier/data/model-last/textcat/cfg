@@ -3,6 +3,6 @@
     "fandom",
     "reddit"
   ],
-  "threshold":0.5,
+  "threshold":0.0,
   "positive_label":null
 }

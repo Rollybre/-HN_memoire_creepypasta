@@ -10,50 +10,55 @@
   "license":"",
   "spacy_git_version":"a89eae928",
   "vectors":{
-    "width":0,
-    "vectors":0,
-    "keys":0,
-    "name":null,
+    "width":300,
+    "vectors":20000,
+    "keys":514157,
+    "name":"en_vectors",
     "mode":"default"
   },
   "labels":{
+    "tok2vec":[
+
+    ],
     "textcat":[
       "fandom",
       "reddit"
     ]
   },
   "pipeline":[
+    "tok2vec",
     "textcat"
   ],
   "components":[
+    "tok2vec",
     "textcat"
   ],
   "disabled":[
 
   ],
   "performance":{
-    "cats_score":0.9849816025,
+    "cats_score":0.9981473794,
     "cats_score_desc":"macro F",
-    "cats_micro_p":0.985,
-    "cats_micro_r":0.985,
-    "cats_micro_f":0.985,
-    "cats_macro_p":0.9848363527,
-    "cats_macro_r":0.9851762821,
-    "cats_macro_f":0.9849816025,
-    "cats_macro_auc":0.9989983974,
+    "cats_micro_p":0.9981481481,
+    "cats_micro_r":0.9981481481,
+    "cats_micro_f":0.9981481481,
+    "cats_macro_p":0.9981132075,
+    "cats_macro_r":0.9981884058,
+    "cats_macro_f":0.9981473794,
+    "cats_macro_auc":0.9990736166,
     "cats_f_per_type":{
       "fandom":{
-        "p":0.9902912621,
-        "r":0.9807692308,
-        "f":0.9855072464
+        "p":1.0,
+        "r":0.9963768116,
+        "f":0.998185118
       },
       "reddit":{
-        "p":0.9793814433,
-        "r":0.9895833333,
-        "f":0.9844559585
+        "p":0.9962264151,
+        "r":1.0,
+        "f":0.9981096408
       }
     },
-    "cats_macro_auc_per_type":0.0,
-    "textcat_loss":0.0000300195
+    "tok2vec_loss":0.4440742673,
+    "textcat_loss":1.0226823195
   }
 }
