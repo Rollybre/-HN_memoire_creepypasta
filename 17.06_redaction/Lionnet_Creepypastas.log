@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  21 APR 2024 22:48
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  29 APR 2024 16:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1075,29 +1075,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
  []
 
 [12] [13] [14] [15] [16]
-Overfull \hbox (78.59702pt too wide) in paragraph at lines 229--229
+Overfull \hbox (78.59702pt too wide) in paragraph at lines 246--246
 \TU/lmr/m/n/12 dium : application/xhtml+xml,application/pdf,online,database,app
 lication/xhtml+xml ;
  []
 
 [17]
-Overfull \hbox (12.09816pt too wide) in paragraph at lines 229--229
+Overfull \hbox (12.09816pt too wide) in paragraph at lines 246--246
 [][][]\TU/lmr/m/sc/12 Mayer []\TU/lmr/m/n/12 (Ariane) et []\TU/lmr/m/sc/12 Saur
 et []\TU/lmr/m/n/12 (Nicolas), «   L’autorité dans Anarchy. Les construc-
  []
 
 [18] (./Lionnet_Creepypastas.aux)
 Package rerunfilecheck Info: File `Lionnet_Creepypastas.out' has not changed.
-(rerunfilecheck)             Checksum: A406BF24A4713D5D71A1CC57373D28F3;199.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Lionnet_Creepypastas.run.xml'.
 \openout1 = `Lionnet_Creepypastas.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35553 strings out of 476683
- 713217 string characters out of 5804047
+ 35547 strings out of 476683
+ 713141 string characters out of 5804047
  1859018 words of memory out of 5000000
- 55339 multiletter control sequences out of 15000+600000
+ 55333 multiletter control sequences out of 15000+600000
  516480 words of font info for 68 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,8n,89p,3169b,5347s stack positions out of 10000i,1000n,20000p,200000b,200000s
