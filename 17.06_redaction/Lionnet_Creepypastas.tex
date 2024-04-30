@@ -209,13 +209,24 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	A partir de cette page la méthode de récupération est la suivante: dans un premier temps on récupère l'ensemble des liens des pages, puis on récupère les données au sein des pages qui nous intéresse. 
 	Pour ce faire, les bibliothèques Python \emph{Selenium} et \emph{BeautifulSoup} ont été mobilisé: ces deux bibliothèques permettent respectivement de naviguer au sein des pages en simulant le comportement d'un utilisateur, et de récupérer les informations dans le code des pages. 
 	Afin de naviguer à travers la page de référence, il suffit de "cliquer" sur le bouton page suivante (action réalisée à l'aide de \emph{Selenium}). Une fois toutes les pages collectées, il faut récupérer la partie qui nous intéresse : le corps du texte. 
-	Nous avons utilisé la fonctionnalité d'édition du site à notre avantage: cette fonctionnaltié permet d'afficher le texte brut, sans mise en page. De plus, cette représentation place le texte dans une zone mieux délimité, tout en donnant accès à des informations moins accessibles : les catégories par exemple, mais aussi et surtout l'auteur s'il est mentionné. 
+	Nous avons utilisé la fonctionnalité d'édition du site à notre avantage: cette fonctionnalité permet d'afficher le texte brut, sans mise en page. De plus, cette représentation place le texte dans une zone mieux délimitée dans le code source, tout en donnant accès à des informations moins accessibles : les catégories par exemple, mais aussi et surtout l'auteur s'il est mentionné. 
 	[insérer illustrations]
 	
+	Une fois la récupération de donnée effectuée, les textes bruts et les métadonnées (date, catégories, auteur) sont structuré puis stocké dans un fichier à part, au format .csv .
 	
+	Pour ce qui est du subreddit, la marche à suivre pour récupérer les textes et les données associées est sensiblement différente. D'une part, \emph{reddit} dans son entiereté est un site à l'affichage dynamique : autrement dit, les données apparaissent au fur et à mesure que l'utilisateur progresse sur la page, et ne sont pas à une place défini. A cela s'ajoute une limite d'affichage arbitraire définie par le site (en l'occurence, il n'est pas possible d'afficher plus de 1000 publications à la fois). 
+	Outre la difficulté de récupération des données, ces limites ne permettent pas de saisir la taille réelle du subreddit\footnote{Les évolutions récentes de la politique de gestion des données de la plateform a rendu presque impossible la collecte automatique de données et de statistiques. Ainsi des sites spécialisés comme https://subredditstats.com ne sont plus à jour} : la seule donnée disponible est le nombre de membre du subreddit. Si cette donné est importante, elle n'est qu'une indication indirecte sur le nombre de publications (chaque membre ne publie pas nécésseraiement). 
+	Ce moissonage nous a permis de récupérer l'ensemble des production du site, soit près de 13000 publications (13128 pour être exact).
+		
+	Pour le premier moissonnage,nous avons décidé de récolter les publications au nombre de vote le plus élevé, indépendemment de la date. En effet, contrairement à la plateforme \textit{Fandom}, reddit dispose d'un indicateur quantitatif quant à la réception d'une publication : cette information nous permettra par la suite d'explorer les inférences entre réussite et forme.
+	De cette manière , nous avons récupéré un millier de pages. 
 	
+	S'il est possible de considérer que les presque 14000 produtions récupérées sont suffisantes, le désiquilibre important entre les corpus risque de biaiser les résultats. De plus, le fait d'avoir sélectionné les productions les mieux notées de la plateformer reddit est intéréssant, mais risque là encore de mener à un biais important quant à la cractérisation des corpus : on peut supposer que les caractéristiques textuelles des meilleures production ne refletenet pas nécéssairement les caractéristiques de toutes la plateforme.
 	
+	Une recherche plus approfondie nous a permis de découvrir la base de données Pushshift, base de données recensant les productions de l'ensemble des subreddit de 2005 à 2019\footnote{Je tiens à remercier particulièrement M. Armin Pournaki pour m'avoir aiguillé dans mes recherches}. Ainsi de 1000 publications, nous avons été capable de récupérer pas loin de 190000 publications\footnote{le total de publication s'élève dans les fait à 385668 productions. Néanmoins plus la moitié a été supprimé ou retiré de la plateforme.}, nous permettant par la même de déterminer le nombre de production totale sur cette période.
 	
+	La base de données se présente en premier lieu sous la forme d'une base SQL, que nous avons converti en un format tabulaire (csv à nouveau) pour une utilisation plus facile. 
+		
 	\section*{Premiers résultats}
 	
 	\subsubsection*{Exploration et visualisation}
@@ -223,12 +234,16 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	%Exploration
 	%% Nombre, répartitions, longueur moyenne, taille des phrase, évolution du nombre dans le temps. 
 	
+	% La taille comme élément distinctifs principal
 	%topic modelling
 	\subsubsection*{Topic Modelling}
 	
 	
 	% richesse lexicale et lisibilité
 	\subsubsection*{Richesse Lexicale et indice de lisibilité}
+	%Lisibilité stable au cours du temps, pas d'évolution de ce côté là
+	%Relativemetn peu de différence entre les plateformes
+	%Différence majuer avce un corpus du web
 	
 
 

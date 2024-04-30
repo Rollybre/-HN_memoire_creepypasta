@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  29 APR 2024 16:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  30 APR 2024 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1074,19 +1074,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 ][][][][] [] [][][] [] [][][][][] [] [] [] [][][][][][][][][][][] [] [][] []
  []
 
-[12] [13] [14] [15] [16]
-Overfull \hbox (78.59702pt too wide) in paragraph at lines 246--246
+[12] [13] [14] [15] [16] [17] [18]
+Overfull \hbox (78.59702pt too wide) in paragraph at lines 261--261
 \TU/lmr/m/n/12 dium : application/xhtml+xml,application/pdf,online,database,app
 lication/xhtml+xml ;
  []
 
-[17]
-Overfull \hbox (12.09816pt too wide) in paragraph at lines 246--246
+[19]
+Overfull \hbox (12.09816pt too wide) in paragraph at lines 261--261
 [][][]\TU/lmr/m/sc/12 Mayer []\TU/lmr/m/n/12 (Ariane) et []\TU/lmr/m/sc/12 Saur
 et []\TU/lmr/m/n/12 (Nicolas), «   L’autorité dans Anarchy. Les construc-
  []
 
-[18] (./Lionnet_Creepypastas.aux)
+[20] (./Lionnet_Creepypastas.aux)
 Package rerunfilecheck Info: File `Lionnet_Creepypastas.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Lionnet_Creepypastas.run.xml'.
@@ -1102,4 +1102,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  84i,8n,89p,3169b,5347s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Lionnet_Creepypastas.pdf (19 pages).
+Output written on Lionnet_Creepypastas.pdf (21 pages).
