@@ -19,6 +19,48 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{aron_litterature_1984}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fda7a4d69482951bc33e6978f7a57c4c}{%
+           family={Aron},
+           familyi={A\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b523df5e4ca0e89521e2269263939a75}{%
+           family={(France)},
+           familyi={(\bibinitperiod},
+           given={Groupe\bibnamedelimb de\bibnamedelimb recherches\bibnamedelimb en\bibnamedelimb linguistique\bibnamedelima et},
+           giveni={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim r\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim e\bibinitperiod},
+           givenun=0,
+           prefix={sémiotique},
+           prefixi={s\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de Franche-Comté}%
+      }
+      \strng{namehash}{b135620f0cc1247e0b0569d9df74c702}
+      \strng{fullhash}{b135620f0cc1247e0b0569d9df74c702}
+      \strng{bibnamehash}{b135620f0cc1247e0b0569d9df74c702}
+      \strng{authorbibnamehash}{b135620f0cc1247e0b0569d9df74c702}
+      \strng{authornamehash}{b135620f0cc1247e0b0569d9df74c702}
+      \strng{authorfullhash}{b135620f0cc1247e0b0569d9df74c702}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-251-60292-9}
+      \field{series}{Annales littéraires de l'université de {Franche}-{Comté}}
+      \field{title}{Littérature et littérarité: {Un} essai de mise au point}
+      \field{year}{1984}
+      \verb{urlraw}
+      \verb https://books.google.fr/books?id=CL24GEWr_SEC
+      \endverb
+      \verb{url}
+      \verb https://books.google.fr/books?id=CL24GEWr_SEC
+      \endverb
+    \endentry
     \entry{balanzategui_creepypasta_2019}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9e14233ef3ae0a34c26ef1404a8521e2}{%
@@ -101,7 +143,7 @@
       \field{shorttitle}{Slender {Man} is coming}
       \field{title}{Slender {Man} is coming: creepypasta and contemporary legends on the {Internet}}
       \field{year}{2018}
-      \keyw{Contagion (Social psychology),Folklore and the Internet,Horror tales,Memes,Slender Man,Urban folklore}
+      \keyw{Horror tales,Contagion (Social psychology),Folklore and the Internet,Memes,Slender Man,Urban folklore}
     \endentry
     \entry{cook_canonicity_2013}{article}{}
       \name{author}{1}{}{%
@@ -148,6 +190,88 @@
       \verb https://doi.org/10.1111/jaac.12021
       \endverb
       \keyw{notion}
+    \endentry
+    \entry{van_cranenburgh_identifying_2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=49ce779dc0d97d2a269e49c771deb0be}{%
+           family={Cranenburgh},
+           familyi={C\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=962a914923a9e0ebfb96cc1c9cd806f6}{%
+           family={Koolen},
+           familyi={K\bibinitperiod},
+           given={Corina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=58e56a7ba1c97db449eeafb959af18e5}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3b576e19f7299da7d40bcab4b2805b6b}{%
+           family={Kazantseva},
+           familyi={K\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=66c69b578d153a872931f14e927c824e}{%
+           family={Szpakowicz},
+           familyi={S\bibinitperiod},
+           given={Stan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=962a914923a9e0ebfb96cc1c9cd806f6}{%
+           family={Koolen},
+           familyi={K\bibinitperiod},
+           given={Corina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Denver, Colorado, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{75ecd4d3d54a1aa7b41cd82f7daf6db8}
+      \strng{fullhash}{75ecd4d3d54a1aa7b41cd82f7daf6db8}
+      \strng{bibnamehash}{75ecd4d3d54a1aa7b41cd82f7daf6db8}
+      \strng{authorbibnamehash}{75ecd4d3d54a1aa7b41cd82f7daf6db8}
+      \strng{authornamehash}{75ecd4d3d54a1aa7b41cd82f7daf6db8}
+      \strng{authorfullhash}{75ecd4d3d54a1aa7b41cd82f7daf6db8}
+      \strng{editorbibnamehash}{61c1cac72878df8f7f6d7539c2d70264}
+      \strng{editornamehash}{61c1cac72878df8f7f6d7539c2d70264}
+      \strng{editorfullhash}{8b4d76c1e7c4c26ee06c02ffbcc9a96b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {Fourth} {Workshop} on {Computational} {Linguistics} for {Literature}}
+      \field{month}{6}
+      \field{title}{Identifying {Literary} {Texts} with {Bigrams}}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{58\bibrangedash 67}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.3115/v1/W15-0707
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/rolly/Zotero/storage/7JXQJKKH/van Cranenburgh et Koolen - 2015 - Identifying Literary Texts with Bigrams.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://aclanthology.org/W15-0707
+      \endverb
+      \verb{url}
+      \verb https://aclanthology.org/W15-0707
+      \endverb
     \endentry
     \entry{dawkins_gene_2003}{book}{}
       \name{author}{1}{}{%
@@ -312,7 +436,7 @@
       \field{shorttitle}{The character of truth}
       \field{title}{The character of truth: historical figures in contemporary fiction}
       \field{year}{1990}
-      \keyw{20th century,Characters and characteristics in literature,Fiction,Historical fiction,History and criticism,Literature and history}
+      \keyw{History and criticism,20th century,Characters and characteristics in literature,Fiction,Historical fiction,Literature and history}
     \endentry
     \entry{jenkins_convergence_2006}{book}{}
       \name{author}{1}{}{%
@@ -351,6 +475,77 @@
       \verb Jenkins - 2006 - Convergence culture where old and new media colli.pdf:/Users/rolly/Zotero/storage/68RB2QKW/Jenkins - 2006 - Convergence culture where old and new media colli.pdf:application/pdf
       \endverb
       \keyw{Mass media and culture,Popular culture,United States}
+    \endentry
+    \entry{koolen_literary_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=962a914923a9e0ebfb96cc1c9cd806f6}{%
+           family={Koolen},
+           familyi={K\bibinitperiod},
+           given={Corina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef7d390798a8b6c196fc5963b7423110}{%
+           family={Dalen-Oskam},
+           familyi={D\bibinithyphendelim O\bibinitperiod},
+           given={Karina},
+           giveni={K\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=49ce779dc0d97d2a269e49c771deb0be}{%
+           family={Cranenburgh},
+           familyi={C\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=c17c14b2f18ccaaf69eca2d3ae045ae1}{%
+           family={Nagelhout},
+           familyi={N\bibinitperiod},
+           given={Erica},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2557cff3e05efc1cc467c9a09f5aff00}
+      \strng{fullhash}{781284b9de32e3c07c3416846f2e9c83}
+      \strng{bibnamehash}{2557cff3e05efc1cc467c9a09f5aff00}
+      \strng{authorbibnamehash}{2557cff3e05efc1cc467c9a09f5aff00}
+      \strng{authornamehash}{2557cff3e05efc1cc467c9a09f5aff00}
+      \strng{authorfullhash}{781284b9de32e3c07c3416846f2e9c83}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{What makes some novels literary? There is little agreement within literary studies on this question. The two main approaches focus either on text-intrinsic factors (e.g., aesthetic, stylistic), or text-extrinsic social factors (e.g., author prestige, critics). Until now, there has not been a comprehensive study taking both text-intrinsic and social factors into account. The project The Riddle of Literary Quality examines both factors by connecting literary texts to the appreciation of those texts: can we identify textual characteristics that are connected to readers’ literary appraisal of texts? In this paper, we describe the development of The National Reader Survey and present some results. The National Reader Survey is a large online survey of Dutch readers with about 14,000 respondents; its purpose is to collect readers’ literary appraisal of texts. We asked readers to rate both read and unread novels on a scale of 1–7 for their literary and overall quality. The agreement amongst respondents on which recent Dutch language novels are of high literary quality and which are not was greater than expected. Motivations respondents gave for their ratings show that the notion of literary quality is a familiar one and respondents most commonly relate it to two elements: the first is the text itself—style, structure, plot and layers; and the second is genre—if a novel is considered a ‘genre’ novel (e.g., suspense, romantic, fantasy), its chances of obtaining a high rating on literary quality are small. These results indicate how entwined social and text-intrinsic factors are. We also touch upon project results which make use of the survey data.}
+      \field{issn}{0304-422X}
+      \field{journaltitle}{Poetics}
+      \field{month}{4}
+      \field{shorttitle}{Literary quality in the eye of the {Dutch} reader}
+      \field{title}{Literary quality in the eye of the {Dutch} reader: {The} {National} {Reader} {Survey}}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{79}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{101439}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.poetic.2020.101439
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:/Users/rolly/Zotero/storage/6R3YFHGY/S0304422X1830278X.html:text/html;Texte intégral:/Users/rolly/Zotero/storage/249IH2L5/Koolen et al. - 2020 - Literary quality in the eye of the Dutch reader T.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304422X1830278X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304422X1830278X
+      \endverb
+      \keyw{Bestsellers,Literary quality,Popular fiction,Readers,Survey}
     \endentry
     \entry{lata_du_2022}{incollection}{}
       \name{author}{1}{}{%
@@ -408,7 +603,7 @@
       \verb{url}
       \verb http://books.openedition.org/editionsulm/4739
       \endverb
-      \keyw{auteurs et artiste,autocanonisation,canon,classique littéraire,étude littéraire,évolution littéraire,génie littéraire,notion}
+      \keyw{notion,auteurs et artiste,autocanonisation,canon,classique littéraire,étude littéraire,évolution littéraire,génie littéraire}
     \endentry
     \entry{mayer_autorite_2017}{article}{}
       \name{author}{2}{}{%

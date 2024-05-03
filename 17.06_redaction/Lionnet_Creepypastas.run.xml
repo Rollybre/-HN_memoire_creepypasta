@@ -79,7 +79,7 @@
       <file>Lionnet_Creepypastas.bcf</file>
     </requires>
     <requires type="editable">
-      <file>MASTER_ENC-Creepypasta.bib</file>
+      <file>bibliographie/Creepypasta.bib</file>
     </requires>
   </external>
 </requests>
