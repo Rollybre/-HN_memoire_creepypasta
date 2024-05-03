@@ -27,7 +27,7 @@ analyze_sentiment <- function(text) {
 
 
 # Chemin vers le dossier contenant les fichiers texte
-dossier <- "../17.04_txt/reddit_no_sleep/"
+dossier <- "/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.04_txt/corpus"
 
 # Liste des fichiers texte dans le dossier
 fichiers <- list.files(dossier, pattern = "\\.txt$", full.names = TRUE)
@@ -59,15 +59,7 @@ pb$close()
 max_sentiment <- max(unlist(lapply(resultats_sentiment, max)))
 min_sentiment <- min(unlist(lapply(resultats_sentiment, min)))
 
-# Tracé des graphiques
-par(mfrow=c(1,1)) # Ajustement de la disposition des graphiques
-colors <- rainbow(length(resultats_sentiment)) # Couleurs pour les différentes courbes
-legend_names <- c() # Initialisation pour stocker les noms des fichiers pour la légende
 
-
-plot(NULL, xlim = c(1, 100), ylim = c(0, 1), 
-     type = "l", main = "Analyse de sentiment", 
-     xlab = "Narrative Time", ylab = "Emotional Valence")
 
 resultats_sentiment_tr<-list()
 
@@ -76,12 +68,8 @@ for (i in 1:length(resultats_sentiment)) {
   tr_sentiment <- scale(tr_sentiment, center = min_sentiment, scale = max_sentiment - min_sentiment)
   resultats_sentiment_tr[[i]] <- tr_sentiment
   x <- 1:length(tr_sentiment)
-  lines(x, tr_sentiment, col = colors[i])
-  legend_names <- c(legend_names, basename(names(resultats_sentiment)[i]))
+
 }
-
-legend("topright", legend = legend_names, col = colors, lty = 1, cex = 0.8) # Ajouter une légende
-
 
 
 # Calcul des distances euclidiennes entre chaque paire de vecteurs
@@ -93,3 +81,14 @@ dist_matrix <- as.matrix(distances)
 # Tracez un histogramme des distances ou un graphique de densité
 plot(density(distances))
 
+vecteur_moyen <- numeric(length(resultats_sentiment_tr[[1]]))
+
+# Calculer la somme des vecteurs
+for (v in resultats_sentiment_tr) {
+  vecteur_moyen <- vecteur_moyen + v
+}
+
+# Diviser par le nombre total de vecteurs
+vecteur_moyen <- vecteur_moyen / length(resultats_sentiment_tr)
+
+print("Vecteur moyen :", vecteur_moyen)
