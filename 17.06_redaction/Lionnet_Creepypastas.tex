@@ -227,7 +227,7 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	Une recherche plus approfondie nous a permis de découvrir la base de données Pushshift, base de données recensant les productions de l'ensemble des subreddit de 2005 à 2019\footnote{Je tiens à remercier particulièrement M. Armin Pournaki pour m'avoir aiguillé dans mes recherches}. Ainsi de 1000 publications, nous avons été capable de récupérer pas loin de 190000 publications\footnote{le total de publication s'élève dans les fait à 385668 productions. Néanmoins plus la moitié a été supprimé ou retiré de la plateforme.}, nous permettant par la même de déterminer le nombre de production totale sur cette période.
 	
 	La base de données se présente en premier lieu sous la forme d'une base SQL, que nous avons converti en un format tabulaire (csv à nouveau) pour une utilisation plus facile. 
-	\og
+
 		
 	\section*{Premiers résultats}
 	
@@ -280,23 +280,79 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	%Relativemetn peu de différence entre les plateformes
 	
 	%Différence majuer avec un corpus du web
-	
+	\begin{figure}
+		\centering
+		\begin{minipage}[b]{0.45\textwidth}
+			\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/indice_lisibilite_source.png}
+			\caption{Comparaison des indices de lisibilité en fonction de la plateforme}
+			\label{fig:image1}
+		\end{minipage}
+		\hfill
+		\begin{minipage}[b]{0.45\textwidth}
+			\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/indice_richess_lexicale_source.png}
+			\caption{Comparaison des indices de richesse lexicale en fonction de la plateforme}
+			\label{fig:image2}
+		\end{minipage}
+	\end{figure}
 	% La richesse lexicale
-	
+	\begin{figure}
+		\centering
+		\begin{minipage}[b]{0.45\textwidth}
+			\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/indice_lisibilite_historique.png}
+			\caption{Comparaison des indices de lisibilité en fonction de la viralité}
+			\label{fig:image1}
+		\end{minipage}
+		\hfill
+		\begin{minipage}[b]{0.45\textwidth}
+			\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/indice_richess_lexicale_historique.png}
+			\caption{Comparaison des indices de richesse lexicale en fonction de la viralité}
+			\label{fig:image2}
+		\end{minipage}
+	\end{figure}
 
+\begin{figure}
+	\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/comparaison_lisibilité_web.png}
+	\caption{Comparaison des indices de lisibilité entre les CP et un corpus Web}
+\end{figure}
 
 
 	%A faire  
 	% En prenant certaine CP voir si on peut noter une plus grande proiximité entre les textes produit au même moment et les autres 
 	% Histoire de voire leur influence sur les productions (ou l'absence d'influence directe???)
 	
-	
+	\pagebreak
 
 	\section{Annexe}
 	\subsubsection{Les indices de lisibilité}
+\begin{itemize}
+		
+	\item **Flesch Reading Ease** : Évalue la facilité de lecture en se basant sur le nombre de mots par phrase et de syllabes par mot. Un score élevé (de 0 à 100) indique une lecture plus facile, tandis qu'un score bas indique un texte plus difficile.
 	
+	\item**Flesch-Kincaid Grade Level** : Exprime le niveau de lecture en termes de grade scolaire aux États-Unis. Plus le score est bas, plus le texte est facile à lire.
+	
+	\item **Gunning Fog Index** : Mesure la difficulté d'un texte en fonction du nombre de mots par phrase et du pourcentage de mots polysyllabiques. Il fournit un niveau de lecture approximatif.
+	
+	\item**SMOG Index** : Évalue la complexité d'un texte en comptant le nombre de mots polysyllabiques dans un échantillon de texte. Le score indique le niveau de lecture estimé.
+	
+	\item**Automated Readability Index** : Calculé en fonction du nombre moyen de lettres par mot et du nombre moyen de mots par phrase. Plus le score est bas, plus le texte est facile à lire.
+	
+	\item**Coleman-Liau Index** : Détermine la facilité de lecture en évaluant le nombre de lettres par mot et le nombre de phrases par 100 mots. Il fournit un niveau de lecture estimé.
+	
+	\item**Dale-Chall Readability Score** : Évalue la lisibilité en fonction du nombre de mots difficiles à comprendre dans un texte. Il est adapté pour les textes destinés à des lecteurs peu expérimentés.
+	
+	\item**Indice Lix** : Mesure la complexité d'un texte en évaluant le nombre de mots longs par phrase et le pourcentage de mots courts. Plus le score est élevé, plus le texte est difficile à lire.
+
+\end{itemize}	
+
 	\subsubsection{Les indices de richesse lexicale}
 	
+	- **Ratio Types/Tokens** : Évalue la richesse lexicale en comparant le nombre total de mots distincts au nombre total de mots. Un ratio élevé indique une plus grande variété de mots utilisés.
+
+- **Hapax Legomena** : Nombre de mots n'apparaissant qu'une seule fois dans un texte, indiquant la variété du vocabulaire et la rareté des mots utilisés.
+
+- **Densité Lexicale** : Mesure la proportion de mots uniques dans un texte par rapport au nombre total de mots. Une densité plus élevée indique une plus grande variété lexicale.
+
+- **Indice Honore's R** : Calculé en divisant le nombre de mots uniques par la racine carrée du nombre total de mots, pour évaluer la richesse lexicale ajustée à la longueur du texte.
 
 			\pagebreak
 	\printbibliography
