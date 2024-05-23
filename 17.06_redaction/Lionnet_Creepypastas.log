@@ -1,6 +1,6 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  3 MAY 2024 14:31
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  23 MAY 2024 10:24
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **Lionnet_Creepypastas.tex
 (./Lionnet_Creepypastas.tex
@@ -1122,22 +1122,22 @@ comparaison_lisibilité_web.png>
 [19] [20] [21]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 326.
+(hyperref)                than one, level fixed on input line 331.
 
 
-Overfull \hbox (0.44003pt too wide) in paragraph at lines 343--344
-[]\TU/lmr/m/n/12 **Indice Lix** : Mesure la complexité d’un texte en évaluant l
-e nombre
+Overfull \hbox (4.69603pt too wide) in paragraph at lines 346--347
+[]\TU/lmr/m/n/12 Dale-Chall Readability Score : Évalue la lisibilité en fonctio
+n du nombre
  []
 
 [22] [23]
-Overfull \hbox (78.59702pt too wide) in paragraph at lines 359--359
+Overfull \hbox (78.59702pt too wide) in paragraph at lines 367--367
 \TU/lmr/m/n/12 dium : application/xhtml+xml,application/pdf,online,database,app
 lication/xhtml+xml ;
  []
 
 [24]
-Overfull \hbox (12.09816pt too wide) in paragraph at lines 359--359
+Overfull \hbox (12.09816pt too wide) in paragraph at lines 367--367
 [][][]\TU/lmr/m/sc/12 Mayer []\TU/lmr/m/n/12 (Ariane) et []\TU/lmr/m/sc/12 Saur
 et []\TU/lmr/m/n/12 (Nicolas), «   L’autorité dans Anarchy. Les construc-
  []
