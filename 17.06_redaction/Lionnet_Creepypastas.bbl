@@ -19,6 +19,37 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{alex_kister_mandela_2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ea3ff1955ed6a18c98b1d893d30f2819}{%
+           family={{Alex Kister}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea3ff1955ed6a18c98b1d893d30f2819}
+      \strng{fullhash}{ea3ff1955ed6a18c98b1d893d30f2819}
+      \strng{bibnamehash}{ea3ff1955ed6a18c98b1d893d30f2819}
+      \strng{authorbibnamehash}{ea3ff1955ed6a18c98b1d893d30f2819}
+      \strng{authornamehash}{ea3ff1955ed6a18c98b1d893d30f2819}
+      \strng{authorfullhash}{ea3ff1955ed6a18c98b1d893d30f2819}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{The {Mandela} {Catalogue} {Vol}. 1}
+      \field{urlday}{13}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=C8d12w6pMos
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=C8d12w6pMos
+      \endverb
+    \endentry
     \entry{aron_litterature_1984}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=fda7a4d69482951bc33e6978f7a57c4c}{%
@@ -60,6 +91,42 @@
       \verb{url}
       \verb https://books.google.fr/books?id=CL24GEWr_SEC
       \endverb
+    \endentry
+    \entry{bacon_evolution_2023}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b880313c1e54cd651aded11a53008c8}{%
+           family={Bacon},
+           familyi={B\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Lanham}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{8b880313c1e54cd651aded11a53008c8}
+      \strng{fullhash}{8b880313c1e54cd651aded11a53008c8}
+      \strng{bibnamehash}{8b880313c1e54cd651aded11a53008c8}
+      \strng{editorbibnamehash}{8b880313c1e54cd651aded11a53008c8}
+      \strng{editornamehash}{8b880313c1e54cd651aded11a53008c8}
+      \strng{editorfullhash}{8b880313c1e54cd651aded11a53008c8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"The Evolution of Horror in the Twenty-First Century explores the many aspects of the horror genre across thematics and media in the 2020s. Consisting of 21 chapters by experts in the field, this book examines how horror reveals the anxieties around our current cultural moment and how that might develop in the future"--}
+      \field{isbn}{978-1-79364-340-7}
+      \field{series}{Lexington {Books} horror studies}
+      \field{title}{The evolution of horror in the twenty-first century}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{file}
+      \verb Bacon_2023_The evolution of horror in the twenty-first century.pdf:/Users/rolly/Zotero/storage/PKRLDJXE/Bacon_2023_The evolution of horror in the twenty-first century.pdf:application/pdf
+      \endverb
+      \keyw{History and criticism,History,21st century,Horror films,Horror in mass media,Horror tales,Horror television programs}
     \endentry
     \entry{balanzategui_creepypasta_2019}{article}{}
       \name{author}{1}{}{%
@@ -107,6 +174,342 @@
       \verb http://journals.sagepub.com/doi/10.1177/1470412919841018
       \endverb
     \endentry
+    \entry{barre_operationalizing_2023-1}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e353f6a44189c8c08ffa82ce813ca560}{%
+           family={Barré},
+           familyi={B\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16d4f02e5493261103bfb3611317d21d}{%
+           family={Camps},
+           familyi={C\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c933b283c1d58d5ab7644f32fb5713be}{%
+           family={Poibeau},
+           familyi={P\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{fullhash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{bibnamehash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{authorbibnamehash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{authornamehash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{authorfullhash}{3a682a9c1e558e134895de877d9c1ff3}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article delves into the literary canon, a concept shaped by social biases and influenced by successive receptions. The canonization process is a multifaceted phenomenon, emerging from the intricate interplay of sociological, economic, and political factors. Our objective is to detect the underlying textual dynamics that grant certain works exceptional longevity while jeopardizing the transmission of the majority. Drawing on various criteria, we present an operational framework for defining the French literary canon, centered on its contemporary reception and emphasizing the role of institutions, particularly schools, in its formation. Leveraging natural language processing and machine learning techniques, we unveil an intrinsic norm inherent to the literary canon. Through statistical modeling, we achieve predictive outcomes with accuracy ranging from 70\% to 74\%, contingent on the chosen scale of canonicity. We believe that these findings detect what Charles Altieri calls a “cultural grammar”, referring to the idea that canonical works in literature serve as foundational texts that shape the norms, values, and conventions of a particular cultural tradition. We posit that this linguistic norm arises from biased latent selection mechanisms linked to the role of the educational system in the canon-formation process.}
+      \field{journaltitle}{Journal of Cultural Analytics}
+      \field{note}{Publisher: Department of Languages, Literatures, and Cultures at McGill University}
+      \field{number}{1}
+      \field{title}{Operationalizing {Canonicity}}
+      \field{urlday}{3}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{88113}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.22148/001c.88113
+      \endverb
+      \verb{file}
+      \verb HAL PDF Full Text:/Users/rolly/Zotero/storage/CF2WNQ2H/Barré et al. - 2023 - Operationalizing Canonicity.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.science/hal-04252997
+      \endverb
+      \verb{url}
+      \verb https://hal.science/hal-04252997
+      \endverb
+      \keyw{Canon studies,Computational Literary Studies,distant reading,French Literature,Literary history,machine learning,natural language processing,stylometry,text mining}
+    \endentry
+    \entry{barre_operationalizing_2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e353f6a44189c8c08ffa82ce813ca560}{%
+           family={Barré},
+           familyi={B\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16d4f02e5493261103bfb3611317d21d}{%
+           family={Camps},
+           familyi={C\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c933b283c1d58d5ab7644f32fb5713be}{%
+           family={Poibeau},
+           familyi={P\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{fullhash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{bibnamehash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{authorbibnamehash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{authornamehash}{3a682a9c1e558e134895de877d9c1ff3}
+      \strng{authorfullhash}{3a682a9c1e558e134895de877d9c1ff3}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article delves into the literary canon, a concept shaped by social biases and influenced by successive receptions. The canonization process is a multifaceted phenomenon, emerging from the intricate interplay of sociological, economic, and political factors. Our objective is to detect the underlying textual dynamics that grant certain works exceptional longevity while jeopardizing the transmission of the majority. Drawing on various criteria, we present an operational framework for defining the French literary canon, centered on its contemporary reception and emphasizing the role of institutions, particularly schools, in its formation. Leveraging natural language processing and machine learning techniques, we unveil an intrinsic norm inherent to the literary canon. Through statistical modeling, we achieve predictive outcomes with accuracy ranging from 70\% to 74\%, contingent on the chosen scale of canonicity. We believe that these findings detect what Charles Altieri calls a “cultural grammar”, referring to the idea that canonical works in literature serve as foundational texts that shape the norms, values, and conventions of a particular cultural tradition. We posit that this linguistic norm arises from biased latent selection mechanisms linked to the role of the educational system in the canon-formation process.}
+      \field{issn}{2371-4549}
+      \field{journaltitle}{Journal of Cultural Analytics}
+      \field{month}{10}
+      \field{number}{3}
+      \field{shorttitle}{Operationalizing {Canonicity}}
+      \field{title}{Operationalizing {Canonicity}: {A} {Quantitative} {Study} of {French} 19th and 20th {Century} {Literature}}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.22148/001c.88113
+      \endverb
+      \verb{file}
+      \verb Barré et al. - 2023 - Operationalizing Canonicity A Quantitative Study .pdf:/Users/rolly/Zotero/storage/8PRF3LED/Barré et al. - 2023 - Operationalizing Canonicity A Quantitative Study .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://culturalanalytics.org/article/88113-operationalizing-canonicity-a-quantitative-study-of-french-19th-and-20th-century-literature
+      \endverb
+      \verb{url}
+      \verb https://culturalanalytics.org/article/88113-operationalizing-canonicity-a-quantitative-study-of-french-19th-and-20th-century-literature
+      \endverb
+    \endentry
+    \entry{barre_beyond_nodate}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e353f6a44189c8c08ffa82ce813ca560}{%
+           family={Barré},
+           familyi={B\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c933b283c1d58d5ab7644f32fb5713be}{%
+           family={Poibeau},
+           familyi={P\bibinitperiod},
+           given={Thierry},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{8640385bbd3fc828196e53bf530684b2}
+      \strng{fullhash}{8640385bbd3fc828196e53bf530684b2}
+      \strng{bibnamehash}{8640385bbd3fc828196e53bf530684b2}
+      \strng{authorbibnamehash}{8640385bbd3fc828196e53bf530684b2}
+      \strng{authornamehash}{8640385bbd3fc828196e53bf530684b2}
+      \strng{authorfullhash}{8640385bbd3fc828196e53bf530684b2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study o昀昀ers a fresh perspective on the Canon/Archive problem in literature through computational analysis. Following Tynianov’s understanding of literature, we adopt a dynamic approach to literature by proposing a model of literary variability using the Kullback-Leibler divergence. We retrieve key authors and works that shape the broad outlines of literary change. Our aim is to evaluate the importance of canonical authors on literary variability. We opt for a cohort-driven setup to analyze the variability contributed by a given text, focusing on speci昀椀c formal and semantic aspects of texts such as topics, lexicon, characterization, and chronotope. The 昀椀ndings reveal that canonical authors tend to contribute slightly more to literary change than those from the archive.}
+      \field{title}{Beyond {Canonicity}: {Modeling} {Canon}/{Archive} {Literary} {Change} in {French} {Fiction}}
+      \true{nocite}
+      \verb{file}
+      \verb Barré et Poibeau - Beyond Canonicity Modeling CanonArchive Literary.pdf:/Users/rolly/Zotero/storage/YMZCXFUM/Barré et Poibeau - Beyond Canonicity Modeling CanonArchive Literary.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{baumgartner_pushshift_2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=6ef481d9e391ee2d66ae33b31a13edcf}{%
+           family={Baumgartner},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db4a9460f26f889dd7daa7b06ea91b41}{%
+           family={Zannettou},
+           familyi={Z\bibinitperiod},
+           given={Savvas},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6592f79cbd7c81640f51f4f067ad9455}{%
+           family={Keegan},
+           familyi={K\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f945f9b20d802b2f47e7b63fe127b742}{%
+           family={Squire},
+           familyi={S\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8a519bc70e04e7629dd1ea8243dae7f}{%
+           family={Blackburn},
+           familyi={B\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ac93a9289aadff535b1c0939826a7a53}
+      \strng{fullhash}{3dccbbdb780c60a301dab946379fe880}
+      \strng{bibnamehash}{ac93a9289aadff535b1c0939826a7a53}
+      \strng{authorbibnamehash}{ac93a9289aadff535b1c0939826a7a53}
+      \strng{authornamehash}{ac93a9289aadff535b1c0939826a7a53}
+      \strng{authorfullhash}{3dccbbdb780c60a301dab946379fe880}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Pushshift Reddit Dataset We provide a small sample of the Pushshift Reddit dataset. The sample consists of two files: RS\_2019-04.zst: All Reddit submissions that were posted during April 2019. RC\_2019-04.zst: All Reddit comments that were posted during April 2019. The full dataset can be downloaded from: https://files.pushshift.io/reddit/submissions/ for submissions and https://files.pushshift.io/reddit/comments/ for comments. In the website, you can find a file for each month of our data collection. Each file is a newline delimited json (ndjson) file , where each line contains the json object of a submission or a comment.}
+      \field{month}{1}
+      \field{note}{Publisher: [object Object]}
+      \field{title}{The {Pushshift} {Reddit} {Dataset}}
+      \field{urlday}{30}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/ZENODO.3608134
+      \endverb
+      \verb{urlraw}
+      \verb https://zenodo.org/record/3608134
+      \endverb
+      \verb{url}
+      \verb https://zenodo.org/record/3608134
+      \endverb
+      \keyw{pushshift,reddit}
+    \endentry
+    \entry{bernard_goncourt_2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ddbac30efb8e6a71880c5356eb768a01}{%
+           family={Bernard},
+           familyi={B\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ddbac30efb8e6a71880c5356eb768a01}
+      \strng{fullhash}{ddbac30efb8e6a71880c5356eb768a01}
+      \strng{bibnamehash}{ddbac30efb8e6a71880c5356eb768a01}
+      \strng{authorbibnamehash}{ddbac30efb8e6a71880c5356eb768a01}
+      \strng{authornamehash}{ddbac30efb8e6a71880c5356eb768a01}
+      \strng{authorfullhash}{ddbac30efb8e6a71880c5356eb768a01}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2736-2337}
+      \field{journaltitle}{Humanités numériques}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shorttitle}{Goncourt 2020}
+      \field{title}{Goncourt 2020 : mais qu’a-t-il de plus que les autres ?}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.4000/revuehn.2297
+      \endverb
+      \verb{file}
+      \verb Texte intégral:/Users/rolly/Zotero/storage/E3TGG4XT/Bernard - 2021 - Goncourt 2020 mais qu’a-t-il de plus que les aut.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.openedition.org/revuehn/2297
+      \endverb
+      \verb{url}
+      \verb http://journals.openedition.org/revuehn/2297
+      \endverb
+    \endentry
+    \entry{blank_folklore_2009}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e8a864a3e5b70a61a3246e456cfb018d}{%
+           family={Blank},
+           familyi={B\bibinitperiod},
+           given={Trevor\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {University Press of Colorado}%
+      }
+      \strng{namehash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{fullhash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{bibnamehash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{authorbibnamehash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{authornamehash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{authorfullhash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A pioneering examination of the folkloric qualities of the World Wide Web, e-mail, and related digital media. These stuidies show that folk culture, sustained by a new and evolving vernacular, has been a key, since the Internet's beginnings, to language, practice, and interaction online. Users of many sorts continue to develop the Internet as a significant medium for generating, transmitting, documenting, and preserving folklore. In a set of new, insightful essays, contributors Trevor J. Blank, Simon J. Bronner, Robert Dobler, Russell Frank, Gregory Hansen, Robert Glenn Howard, Lynne S. McNeill, Elizabeth Tucker, and William Westerman showcase ways the Internet both shapes and is shaped by folklore}
+      \field{isbn}{978-1-4571-7474-2}
+      \field{month}{9}
+      \field{note}{Google-Books-ID: bc69AwAAQBAJ}
+      \field{shorttitle}{Folklore and the {Internet}}
+      \field{title}{Folklore and the {Internet}: {Vernacular} {Expression} in a {Digital} {World}}
+      \field{year}{2009}
+      \true{nocite}
+      \keyw{Computers / Internet / General,Social Science / Folklore \& Mythology,Social Science / General}
+    \endentry
+    \entry{blank_toward_2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e8a864a3e5b70a61a3246e456cfb018d}{%
+           family={Blank},
+           familyi={B\bibinitperiod},
+           given={Trevor\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {University Press of Colorado}%
+      }
+      \strng{namehash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{fullhash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{bibnamehash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{authorbibnamehash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{authornamehash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \strng{authorfullhash}{e8a864a3e5b70a61a3246e456cfb018d}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Trevor Blank broke new ground for the field of folklore studies in this essay by rationalizing the study of the internet as an important area of expressive vernacular culture. Pushing back against traditionalists who dismissed the digital as simply the domain of technicians and mass media, Blank argues that "from the earliest moments of the modern Internet’s existence, folklore was a central component of the domain, moderating the intersection of computer professionals with hackers, newfangled lingo, and the dispersal of stories, pranks, and legends." With this essay and the volume it introduces, Blank theorizes the internet as an important analytic venue for folklorists, and sets the agenda for digital folklore research. Utah State University Press’s Current Arguments in Folklore is a series of thought-provoking, short-form, digital publications made up of provocative original material and selections from foundational titles by leading thinkers in the field. Perfect for the folklore classroom as well as the professional collection, this series provides access to important introductory content as well as innovative new work intended to stimulate scholarly conversation.}
+      \field{isbn}{978-0-87421-945-6}
+      \field{month}{6}
+      \field{note}{Google-Books-ID: RnPgCwAAQBAJ}
+      \field{title}{Toward a {Conceptual} {Framework} for the {Study} of {Folklore} and the {Internet}}
+      \field{year}{2014}
+      \true{nocite}
+      \keyw{Social Science / Folklore \& Mythology,Social Science / General}
+    \endentry
     \entry{blank_slender_2018}{book}{}
       \name{editor}{2}{}{%
         {{un=0,uniquepart=base,hash=e8a864a3e5b70a61a3246e456cfb018d}{%
@@ -144,6 +547,248 @@
       \field{title}{Slender {Man} is coming: creepypasta and contemporary legends on the {Internet}}
       \field{year}{2018}
       \keyw{Horror tales,Contagion (Social psychology),Folklore and the Internet,Memes,Slender Man,Urban folklore}
+    \endentry
+    \entry{brzostek_praktyka_2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f8d0042d1f2aa7f0f7285ce9d6ab5d3d}{%
+           family={Brzostek},
+           familyi={B\bibinitperiod},
+           given={Dariusz},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f8d0042d1f2aa7f0f7285ce9d6ab5d3d}
+      \strng{fullhash}{f8d0042d1f2aa7f0f7285ce9d6ab5d3d}
+      \strng{bibnamehash}{f8d0042d1f2aa7f0f7285ce9d6ab5d3d}
+      \strng{authorbibnamehash}{f8d0042d1f2aa7f0f7285ce9d6ab5d3d}
+      \strng{authornamehash}{f8d0042d1f2aa7f0f7285ce9d6ab5d3d}
+      \strng{authorfullhash}{f8d0042d1f2aa7f0f7285ce9d6ab5d3d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0024-4708}
+      \field{journaltitle}{Literatura Ludowa}
+      \field{month}{5}
+      \field{number}{3}
+      \field{shorttitle}{Praktyka grozy i praktyki narracyjne. {Creepypasta}}
+      \field{title}{Praktyka grozy i praktyki narracyjne. {Creepypasta}: niesamowitości (w) sieci}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{53}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.12775/LL.3.2016.005
+      \endverb
+      \verb{file}
+      \verb Brzostek_2016_Praktyka grozy i praktyki narracyjne.pdf:/Users/rolly/Zotero/storage/YF26GK8H/Brzostek_2016_Praktyka grozy i praktyki narracyjne.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://apcz.umk.pl/czasopisma/index.php/LL/article/view/LL.3.2016.005
+      \endverb
+      \verb{url}
+      \verb http://apcz.umk.pl/czasopisma/index.php/LL/article/view/LL.3.2016.005
+      \endverb
+    \endentry
+    \entry{cafiero_rise_nodate}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2d2f433a9d358886dc3eb6813d034fd3}{%
+           family={Cafiero},
+           familyi={C\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fe1ec35c644906499707ac25bc7780b}{%
+           family={Gabay},
+           familyi={G\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d422b38dc8f40e1e45c293d3d2b7784c}
+      \strng{fullhash}{d422b38dc8f40e1e45c293d3d2b7784c}
+      \strng{bibnamehash}{d422b38dc8f40e1e45c293d3d2b7784c}
+      \strng{authorbibnamehash}{d422b38dc8f40e1e45c293d3d2b7784c}
+      \strng{authornamehash}{d422b38dc8f40e1e45c293d3d2b7784c}
+      \strng{authorfullhash}{d422b38dc8f40e1e45c293d3d2b7784c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rise and {Fall} of {Theatrical} {Genres} in {Early} {Modern} {France}}
+      \true{nocite}
+      \verb{file}
+      \verb Cafiero et Gabay - Rise and Fall of Theatrical Genres in Early Modern.pdf:/Users/rolly/Zotero/storage/DBM8RMS5/Cafiero et Gabay - Rise and Fall of Theatrical Genres in Early Modern.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{cavaletti_dinamica_2021}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5c99acd471fe28e6de68527c307ffcd4}{%
+           family={Cavaletti},
+           familyi={C\bibinitperiod},
+           given={Federica},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42f63c0e6920f644d8615c1f049a7e31}{%
+           family={Toniolo},
+           familyi={T\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {it}%
+      }
+      \list{publisher}{1}{%
+        {University of Salento}%
+      }
+      \strng{namehash}{7aa5bbe358ba332507a702aaeacac257}
+      \strng{fullhash}{7aa5bbe358ba332507a702aaeacac257}
+      \strng{bibnamehash}{7aa5bbe358ba332507a702aaeacac257}
+      \strng{authorbibnamehash}{7aa5bbe358ba332507a702aaeacac257}
+      \strng{authornamehash}{7aa5bbe358ba332507a702aaeacac257}
+      \strng{authorfullhash}{7aa5bbe358ba332507a702aaeacac257}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the last decades, immersivity has gained increasing importance in the audiovisual imaginary. In this paper, we propose to take a different route and to explore to what extent the dynamics of gazes – and particularly the direct address – can promote "emersive" strategies that challenge the dominant imaginary, with specific reference to creepypastas and horror video games. First, we trace back the origins of the emersive route to Bertolt Brecht, showing that his theory can be adapted to videogames. Second, we provide a survey of some of the types of gaze that actively involve the player in horror videogames. Then, we focus on creepypastas to demonstrate that the gaze is key to their aim of circumventing the players' character, in order to get in touch with the players themselves. Finally, we analyze a specific creepypasta-based game: Doki Doki Literature Club!. Based on this analysis, we draw the main lines of what, in our view, represents a key modification of contemporary horror imaginary.}
+      \field{title}{Una dinamica degli sguardi dall'immaginario creepypasta all'horror videoludico = {A} dynamics of gazes from the creepypasta imaginary to horror videogames}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1285/I22840753N19P71
+      \endverb
+      \verb{file}
+      \verb Cavaletti et Toniolo - 2021 - Una dinamica degli sguardi dall'immaginario creepy.pdf:/Users/rolly/Zotero/storage/8AW8NV4W/Cavaletti et Toniolo - 2021 - Una dinamica degli sguardi dall'immaginario creepy.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://siba-ese.unisalento.it/index.php/h-ermes/article/view/24079/20092
+      \endverb
+      \verb{url}
+      \verb http://siba-ese.unisalento.it/index.php/h-ermes/article/view/24079/20092
+      \endverb
+      \keyw{creepypasta,direct address,Doki Doki Literature Club!,fourth wall,gaze,horror}
+    \endentry
+    \entry{chevalier_dictionnaire_1990}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d71bba17bd80b4f8efc1a2bd50e53803}{%
+           family={Chevalier},
+           familyi={C\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9b63ea1fb056160a2f883031c4e5199}{%
+           family={Gheerbrant},
+           familyi={G\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Laffont \& Jupiter}%
+      }
+      \strng{namehash}{32b9ee0e78fc7baf1eb9350e9ea0d495}
+      \strng{fullhash}{32b9ee0e78fc7baf1eb9350e9ea0d495}
+      \strng{bibnamehash}{32b9ee0e78fc7baf1eb9350e9ea0d495}
+      \strng{authorbibnamehash}{32b9ee0e78fc7baf1eb9350e9ea0d495}
+      \strng{authornamehash}{32b9ee0e78fc7baf1eb9350e9ea0d495}
+      \strng{authorfullhash}{32b9ee0e78fc7baf1eb9350e9ea0d495}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{11. réimpr., éd. revue et augmentee}
+      \field{isbn}{978-2-221-50319-5}
+      \field{series}{Bouquins}
+      \field{shorttitle}{Dictionnaire des symboles}
+      \field{title}{Dictionnaire des symboles: mythes, rêves, coutumes, gestes, formes, figures, couleurs, nombres}
+      \field{year}{1990}
+      \true{nocite}
+    \endentry
+    \entry{chornobylskyi_social_2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5bf28c7ffdbf30a4f84cac9b8d18072a}{%
+           family={Chornobylskyi},
+           familyi={C\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6913ba0574b0b5a0aa67bedff6884bba}{%
+           family={Kyrylova},
+           familyi={K\bibinitperiod},
+           given={Oksana},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=941d23f51505c80d33cd5e248e5e3076}{%
+           family={Krupskyi},
+           familyi={K\bibinitperiod},
+           given={Oleksandr},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cda851518ba6862283869e403323567}{%
+           family={Khotiun},
+           familyi={K\bibinitperiod},
+           given={Liudmyla},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4dcb87e316b6b5e447a90e81f8c8c60d}
+      \strng{fullhash}{c2148eccf51ebf5ef55e1dc92c97d30e}
+      \strng{bibnamehash}{4dcb87e316b6b5e447a90e81f8c8c60d}
+      \strng{authorbibnamehash}{4dcb87e316b6b5e447a90e81f8c8c60d}
+      \strng{authornamehash}{4dcb87e316b6b5e447a90e81f8c8c60d}
+      \strng{authorfullhash}{c2148eccf51ebf5ef55e1dc92c97d30e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As part of this study, it was suggested that, like other social media, Reddit allows to embody models of communicative interaction in a digital environment. The comments under three creepypastas published on the subreddit NoSleep were selected as the object of the study. To prove the original thesis, the comments were analyzed from the perspective of social sharing of emotions (SSE) — a process characteristic of real interpersonal communication. The comments were studied manually using the method of intentional analysis. As a result of the study, the main intentional categories characteristic of the social sharing of emotions in the comments on NoSleep were established. It was concluded that SSE in the comments under creepypastas generally coincides with the existing models, and the differences found can be explained by the specifics of the digital environment and the concrete features of Reddit as social media.}
+      \field{issn}{2783-6207}
+      \field{journaltitle}{Information \& Media}
+      \field{month}{5}
+      \field{title}{Social {Sharing} of {Emotions} in {Social} {Media} {System} on the {Example} of {Creepypasta} on {Reddit}}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{96}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{65\bibrangedash 79}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.15388/Im.2023.96.66
+      \endverb
+      \verb{file}
+      \verb Chornobylskyi et al. - 2023 - Social Sharing of Emotions in Social Media System .pdf:/Users/rolly/Zotero/storage/ZCUQ4GZ6/Chornobylskyi et al. - 2023 - Social Sharing of Emotions in Social Media System .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.journals.vu.lt/IM/article/view/28545
+      \endverb
+      \verb{url}
+      \verb https://www.journals.vu.lt/IM/article/view/28545
+      \endverb
     \endentry
     \entry{cook_canonicity_2013}{article}{}
       \name{author}{1}{}{%
@@ -190,6 +835,53 @@
       \verb https://doi.org/10.1111/jaac.12021
       \endverb
       \keyw{notion}
+    \endentry
+    \entry{cowdell_slender_2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b370a9f334ec8af6e5c531eb4efe4991}{%
+           family={Cowdell},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b370a9f334ec8af6e5c531eb4efe4991}
+      \strng{fullhash}{b370a9f334ec8af6e5c531eb4efe4991}
+      \strng{bibnamehash}{b370a9f334ec8af6e5c531eb4efe4991}
+      \strng{authorbibnamehash}{b370a9f334ec8af6e5c531eb4efe4991}
+      \strng{authornamehash}{b370a9f334ec8af6e5c531eb4efe4991}
+      \strng{authorfullhash}{b370a9f334ec8af6e5c531eb4efe4991}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0015-587X, 1469-8315}
+      \field{journaltitle}{Folklore}
+      \field{month}{7}
+      \field{number}{3}
+      \field{shorttitle}{Slender {Man} is {Coming}}
+      \field{title}{Slender {Man} is {Coming}: {Creepypasta} and {Contemporary} {Legends} on the {Internet}: {Edited} by {Trevor} {J}. {Blank} and {Lynne} {S}. {McNeill}. {Logan}: {Utah} {State} {University} {Press}, 2018. 187 pp. {Illus}. \$24.95 (pbk). {ISBN} 978-1-60732-780-6}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{131}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{320\bibrangedash 322}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1080/0015587X.2019.1684728
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/0015587X.2019.1684728
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/0015587X.2019.1684728
+      \endverb
     \endentry
     \entry{van_cranenburgh_identifying_2015}{inproceedings}{}
       \name{author}{2}{}{%
@@ -273,6 +965,62 @@
       \verb https://aclanthology.org/W15-0707
       \endverb
     \endentry
+    \entry{dancygier_internet_2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=26b6a6f3e9148faaa1163c7867a1fbbc}{%
+           family={Dancygier},
+           familyi={D\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f502b944ceecad15123fb14f5e187726}{%
+           family={Vandelanotte},
+           familyi={V\bibinitperiod},
+           given={Lieven},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{87fea7a5ae683301345b1296f6ecc3ab}
+      \strng{fullhash}{87fea7a5ae683301345b1296f6ecc3ab}
+      \strng{bibnamehash}{87fea7a5ae683301345b1296f6ecc3ab}
+      \strng{authorbibnamehash}{87fea7a5ae683301345b1296f6ecc3ab}
+      \strng{authornamehash}{87fea7a5ae683301345b1296f6ecc3ab}
+      \strng{authorfullhash}{87fea7a5ae683301345b1296f6ecc3ab}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper considers a range of so-called image macro Internet memes and describes them as emerging multimodal constructions relying as much on image as on text, and apportioning roles to images much like constructional slots, for instance to fill in a subject role in a subjectless clause, or even to provide the main clause content to a textually given when-clause. In addition to existing or partially altered linguistic constructions, many examples also rely on specific top text/bottom text division of labor, and crucially depend on frame metonymy, with limited formal means quickly cueing richly detailed frames (for instance by using iconic images). The popularity of memes, forming series and cycles of iterations and remixes, and their role in establishing and maintaining discourse communities seems to be driven by a need to express and reconstrue viewpoints, often starting from ideas, affects or stereotypes assumed to be intersubjectively shared with viewers, whose responses they solicit. This paper argues that a proper description of Internet memes of the type considered requires a construction grammar approach, complemented by an understanding of viewpoint dynamics in terms of a Discourse Viewpoint Space regulating the network of spaces and viewpoints.}
+      \field{issn}{0936-5907, 1613-3641}
+      \field{journaltitle}{Cognitive Linguistics}
+      \field{month}{8}
+      \field{number}{3}
+      \field{title}{Internet memes as multimodal constructions}
+      \field{urlday}{27}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{28}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{565\bibrangedash 598}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1515/cog-2017-0074
+      \endverb
+      \verb{file}
+      \verb Dancygier et Vandelanotte - 2017 - Internet memes as multimodal constructions.pdf:/Users/rolly/Zotero/storage/4QBQGXWI/Dancygier et Vandelanotte - 2017 - Internet memes as multimodal constructions.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.degruyter.com/document/doi/10.1515/cog-2017-0074/html
+      \endverb
+      \verb{url}
+      \verb https://www.degruyter.com/document/doi/10.1515/cog-2017-0074/html
+      \endverb
+    \endentry
     \entry{dawkins_gene_2003}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e4bf161272e948cc189fac2d9b7415a5}{%
@@ -317,6 +1065,275 @@
       \field{title}{Le gène égoïste}
       \field{year}{2003}
     \endentry
+    \entry{noauthor_rumeur_nodate}{misc}{}
+      \list{language}{1}{%
+        {fr}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Martine Roberge est connue comme ethnographe et historienne. Consultante sur Canal “D” pour la série télévisée sur es légendes urbaines. Style très accessible. Même à l’heure d’Internet et des nouvelles technologies, les légendes ne sont pas aussi nouvelles qu’elles paraissent. Petit livre pour ceux et celles qui veulent en savoir plus sur ce que sont ces légendes urbaines, agrémenté d’un petit catalogue des légendes.}
+      \field{journaltitle}{Presse de l'Université Laval}
+      \field{title}{De la rumeur à la légende urbaine}
+      \field{urlday}{13}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/I64W3LSQ/de-la-rumeur-a-la-legende-urbaine.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pulaval.com/livres/de-la-rumeur-a-la-legende-urbaine
+      \endverb
+      \verb{url}
+      \verb https://www.pulaval.com/livres/de-la-rumeur-a-la-legende-urbaine
+      \endverb
+    \endentry
+    \entry{duncan_human_2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f826fa493768f7b6fcdc62f5b1bb263b}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f826fa493768f7b6fcdc62f5b1bb263b}
+      \strng{fullhash}{f826fa493768f7b6fcdc62f5b1bb263b}
+      \strng{bibnamehash}{f826fa493768f7b6fcdc62f5b1bb263b}
+      \strng{authorbibnamehash}{f826fa493768f7b6fcdc62f5b1bb263b}
+      \strng{authornamehash}{f826fa493768f7b6fcdc62f5b1bb263b}
+      \strng{authorfullhash}{f826fa493768f7b6fcdc62f5b1bb263b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This essay examines three contemporary genre narratives that explore the concept of life after death: an amateur digital “creepypasta” posted on Reddit, an episode of the television series Black Mirror, and Paul La Farge’s 2017 novel The Night Ocean. Using these narratives to explore nearfuture death rituals, transhumanist consciousness preservation, and the role of genre fiction in exposing the instability of narratives and the distributed nature of agency in digital environments, I argue that coping with the unprecedented complexity of life in the digital age requires a reevaluation of what constitutes the self, the human, and the extent to which the narratives that inform these boundaries are permeable and capable of acting with their own agency.}
+      \field{issn}{2386-0316, 1581-8918}
+      \field{journaltitle}{ELOPE: English Language Overseas Perspectives and Enquiries}
+      \field{month}{6}
+      \field{number}{1}
+      \field{shorttitle}{Human “ish”}
+      \field{title}{Human “ish”: {Voices} from {Beyond} the {Grave} in {Contemporary} {Narratives}}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{15}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{83\bibrangedash 97}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.4312/elope.15.1.83-97
+      \endverb
+      \verb{file}
+      \verb Duncan_2018_Human “ish”.pdf:/Users/rolly/Zotero/storage/553VPTSG/Duncan_2018_Human “ish”.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.uni-lj.si/elope/article/view/7849
+      \endverb
+      \verb{url}
+      \verb https://journals.uni-lj.si/elope/article/view/7849
+      \endverb
+    \endentry
+    \entry{fedina_creepypasta_2021}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b7c945a28d5f1e02f156a65ce4c8ef0}{%
+           family={Fedina},
+           familyi={F\bibinitperiod},
+           given={Olga\bibnamedelima V.},
+           giveni={O\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b7c945a28d5f1e02f156a65ce4c8ef0}
+      \strng{fullhash}{6b7c945a28d5f1e02f156a65ce4c8ef0}
+      \strng{bibnamehash}{6b7c945a28d5f1e02f156a65ce4c8ef0}
+      \strng{authorbibnamehash}{6b7c945a28d5f1e02f156a65ce4c8ef0}
+      \strng{authornamehash}{6b7c945a28d5f1e02f156a65ce4c8ef0}
+      \strng{authorfullhash}{6b7c945a28d5f1e02f156a65ce4c8ef0}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{month}{12}
+      \field{shorttitle}{“{Creepypasta}”}
+      \field{title}{“{Creepypasta}”: {Images} {Of} {Waiting} {For} {Death} {And} {Danger} {In} {The} {Online} {Space}}
+      \field{urlday}{24}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{667\bibrangedash 673}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.15405/epsbs.2021.12.03.89
+      \endverb
+      \verb{file}
+      \verb Texte intégral:/Users/rolly/Zotero/storage/CLLAK4MU/Fedina - 2021 - “Creepypasta” Images Of Waiting For Death And Dan.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.europeanproceedings.com/article/10.15405/epsbs.2021.12.03.89
+      \endverb
+      \verb{url}
+      \verb https://www.europeanproceedings.com/article/10.15405/epsbs.2021.12.03.89
+      \endverb
+    \endentry
+    \entry{fialkova_ghosts_2001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2be6a3dcbb1958c6633fc3bf358dbcf4}{%
+           family={Fialkova},
+           familyi={F\bibinitperiod},
+           given={Larisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f31c9da1e8ff5deac97ac9d203653e1f}{%
+           family={Yelenevskaya},
+           familyi={Y\bibinitperiod},
+           given={Maria\bibnamedelima N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a3f44943354c1ca0412db09040741ec3}
+      \strng{fullhash}{a3f44943354c1ca0412db09040741ec3}
+      \strng{bibnamehash}{a3f44943354c1ca0412db09040741ec3}
+      \strng{authorbibnamehash}{a3f44943354c1ca0412db09040741ec3}
+      \strng{authornamehash}{a3f44943354c1ca0412db09040741ec3}
+      \strng{authorfullhash}{a3f44943354c1ca0412db09040741ec3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0014-6242, 1613-0464}
+      \field{journaltitle}{Fabula}
+      \field{month}{9}
+      \field{number}{2}
+      \field{title}{Ghosts in the {Cyber} {World}. {An} {Analysis} of {Folklore} {Sites} on the {Internet}}
+      \field{urlday}{16}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{42}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{64\bibrangedash 89}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1515/fabl.2001.011
+      \endverb
+      \verb{file}
+      \verb Fialkova_Yelenevskaya_2001_Ghosts in the Cyber World.pdf:/Users/rolly/Zotero/storage/8W3DP2A6/Fialkova_Yelenevskaya_2001_Ghosts in the Cyber World.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.degruyter.com/document/doi/10.1515/fabl.2001.011/html
+      \endverb
+      \verb{url}
+      \verb https://www.degruyter.com/document/doi/10.1515/fabl.2001.011/html
+      \endverb
+    \endentry
+    \entry{froissart_rumeurs_2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06c2443bde4406ee23e2e36e788b97c5}{%
+           family={Froissart},
+           familyi={F\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \strng{namehash}{06c2443bde4406ee23e2e36e788b97c5}
+      \strng{fullhash}{06c2443bde4406ee23e2e36e788b97c5}
+      \strng{bibnamehash}{06c2443bde4406ee23e2e36e788b97c5}
+      \strng{authorbibnamehash}{06c2443bde4406ee23e2e36e788b97c5}
+      \strng{authornamehash}{06c2443bde4406ee23e2e36e788b97c5}
+      \strng{authorfullhash}{06c2443bde4406ee23e2e36e788b97c5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Un spectre parcourt le monde, qui a pris la forme d’un spectacle. Outre le dommage, le « terrorisme » produit un message. C’est la propagande par le fait ou la pédagogie par le meurtre. C’est une proclamation visuelle qui vise, par sa mise en scène, à faire impression. De là, une scénographie, une rhétorique, une économie des signes, une stratégie de l’image. Voilà qui appelait une médiologie puisqu’il en va, au-delà des actes, de ce qui leur permet d’agir sur les esprits. Par quels voies et moyens, cette efficacité symbolique ? Les formes du terrorisme, qu’il soit de résistance ou d’État, ne dépendent pas moins des moyens de propagation des messages que des moyens de destruction physique. Ce numéro voudrait mettre au jour ces correspondances cachées, sur la longue durée, depuis l’invention du terme de « terrorisme » (1794). Pas seulement pour le plaisir de comprendre, mais avec l’envie de prévenir. Car la médiologie du terrorisme introduit lucidement au paradoxe des violences politiques à venir : proliférer partout, ne triompher nulle part et partout renaître.}
+      \field{issn}{1270-0665}
+      \field{journaltitle}{Les cahiers de médiologie}
+      \field{note}{Place: Paris Publisher: Gallimard}
+      \field{number}{1}
+      \field{title}{Rumeurs sur {Internet}}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{13}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{201\bibrangedash 204}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.3917/cdm.013.0201
+      \endverb
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/2IS8MY4P/article.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cairn.info/revue-les-cahiers-de-mediologie-2002-1-page-201.htm
+      \endverb
+      \verb{url}
+      \verb https://www.cairn.info/revue-les-cahiers-de-mediologie-2002-1-page-201.htm
+      \endverb
+    \endentry
+    \entry{garcia_roca_fundacion_2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74a86ef3860a4464b53d32b06340adcc}{%
+           family={García\bibnamedelima Roca},
+           familyi={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Anastasio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {spa}%
+      }
+      \strng{namehash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{fullhash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{bibnamehash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{authorbibnamehash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{authornamehash}{74a86ef3860a4464b53d32b06340adcc}
+      \strng{authorfullhash}{74a86ef3860a4464b53d32b06340adcc}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article analyses the international creative writing project SCP Foundation as a constructive hyperfiction based on the creation of fictional scientific articles. The objective of this study is to specify the formative aspects of this literary practice and explore the implications for planning innovative educational activities in the classroom. To do this, a selection has been made based on the relevance principle - the 25 SCPs with the highest impact and the best scores - and a qualitative analysis has been performed employing thick description and textual analysis. The findings show that the SCP Foundation is an affinity space in which important literacy-based learning is developed. In addition, it is noteworthy that a highly heterogeneous formal-academic linguistic register is used in the selection of the topics, the resources employed, the complex hypertext structures and the multimodal elements. Furthermore, in this literary practice, information disorders such as fake news, data manipulation, research ethics and aspects related to literary reading, like urban legends and creative writing, generally converge. Therefore, these are unique texts that promote Media and Information Literacy in informal contexts as well as being works that have the educational potential to encourage reading. En este artículo se ha analizado el proyecto internacional de escritura creativa Fundación SCP en tanto que hiperficción constructiva basada en la creación de artículos científicos de carácter ficcional. El objetivo del presente estudio se ha centrado en concretar los aspectos formativos de esta práctica letrada y explorar las implicaciones para el planteamiento de actividades de innovación educativa en las aulas. Para ello, se ha realizado una selección basada en el principio de relevancia: los 25 SCPs con mayor impacto y mejor puntuados y se ha realizado un análisis cualitativo a través de una descripción densa y análisis textual. Los resultados hallados muestran que se trata de un espacio de afinidad en el que se desarrollan importantes aprendizajes vinculados a la alfabetización. Además, es destacable el uso de un registro lingüístico formal-académico con una gran heterogeneidad en la selección de temáticas, recursos empleados, complejas estructuras hipertextuales y elementos multimodales. En esta práctica letrada, además, convergen trastornos de la información como fake-news, manipulación de datos, ética de la investigación y aspectos relacionados con la lectura literaria como leyendas urbanas y escritura creativa en general. Se trata, por lo tanto, de textos únicos que promueven la Alfabetización Mediática e Informacional en contextos informales y son obras con potencial formativo para el fomento de la lectura. 本文分析了SCP基金会推广的，基于虚构科学文章创作建设性超小说的创意写作国际项目。 本研究的目的在于详细说明该实践的培养形成方面，并探索对课堂教育创新活动规划的影响。为此，我们根据相关性原则对SCP进行了选择：对影响力最高、得分最高的 25 个 SCP通过密集描述和文本研究进行了定性分析。 结果表明，这是一个亲和空间，其中发展了与识字相关的重要学习。 此外，值得注意的是，在选择主题、使用的资源、复杂的超文本结构和多模态元素方面，正式学术语言语域的使用具有很大的异质性。在这种法律实践中，假新闻、数据操纵、研究伦理等信息紊乱以及与文学阅读相关的方面，如都市传说和创意写作等普遍融合。 因此，它们是在非正式环境中促进媒体和信息素养的独特文本，并且具有促进阅读的教育潜力。 В данной статье анализируется международный творческий писательский проект Fundación SCP как конструктивный гипервымысел, основанный на создании вымышленных научных статей. Цель данного исследования заключалась в уточнении формирующих аспектов этой правовой практики и изучении последствий для планирования образовательной инновационной деятельности в классе. Для этого был произведен отбор по принципу релевантности: 25 SCP с наибольшим влиянием и наилучшими показателями, и проведен качественный анализ с помощью плотного описания и текстового анализа. Полученные результаты показывают, что речь идет о пространстве близости, в котором развивается важное обучение, связанное с грамотностью. Кроме того, следует отметить использование формально-академического лингвистического регистра с большой неоднородностью в выборе тем, используемых ресурсов, сложных гипертекстовых структур и мультимодальных элементов. В этой правовой практике сходятся такие информационные нарушения, как фальшивые новости, манипулирование данными, исследовательская этика и аспекты, связанные с литературным чтением, такие как городские легенды и творческое письмо в целом. Таким образом, это уникальные тексты, способствующие развитию медийной и информационной грамотности (МИГ) в неформальных контекстах, и произведения с образовательным потенциалом для продвижения чтения.}
+      \field{issn}{1577-4147}
+      \field{journaltitle}{Publicaciones: Facultad de Educación y Humanidades del Campus de Melilla}
+      \field{note}{Publisher: Facultad de Educación y Humanidades Section: Publicaciones: Facultad de Educación y Humanidades del Campus de Melilla}
+      \field{number}{1}
+      \field{title}{La {Fundación} {SCP} en el desarrollo de la alfabetización académica, fomento de la lectura y la escritura creativa}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{51}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{15\bibrangedash 42}
+      \range{pages}{28}
+      \verb{file}
+      \verb Full Text PDF:/Users/rolly/Zotero/storage/5QX3WVPU/García Roca - 2021 - La Fundación SCP en el desarrollo de la alfabetiza.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=8160835
+      \endverb
+      \verb{url}
+      \verb https://dialnet.unirioja.es/servlet/articulo?codigo=8160835
+      \endverb
+    \endentry
     \entry{garcia_roca_creepypasta_2021}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=74a86ef3860a4464b53d32b06340adcc}{%
@@ -335,6 +1352,7 @@
       \strng{authorbibnamehash}{74a86ef3860a4464b53d32b06340adcc}
       \strng{authornamehash}{74a86ef3860a4464b53d32b06340adcc}
       \strng{authorfullhash}{74a86ef3860a4464b53d32b06340adcc}
+      \field{extraname}{2}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{author}
@@ -363,6 +1381,30 @@
       \verb https://dialnet.unirioja.es/servlet/articulo?codigo=7857341
       \endverb
     \endentry
+    \entry{noauthor_golem_nodate}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Digital Humanities research project about the cultural evolution of online fiction}
+      \field{title}{{GOLEM} - {Graphs} and {Ontologies} for {Literary} {Evolution} {Models}}
+      \field{urlday}{8}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/3BUQQ9UZ/golemlab.eu.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://golemlab.eu/
+      \endverb
+      \verb{url}
+      \verb https://golemlab.eu/
+      \endverb
+    \endentry
     \entry{goudet_agentivite_2021}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2f1605d7552129a40e2eb285e06e2df3}{%
@@ -381,6 +1423,7 @@
       \strng{authorbibnamehash}{2f1605d7552129a40e2eb285e06e2df3}
       \strng{authornamehash}{2f1605d7552129a40e2eb285e06e2df3}
       \strng{authorfullhash}{2f1605d7552129a40e2eb285e06e2df3}
+      \field{extraname}{1}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{author}
@@ -405,6 +1448,214 @@
       \verb https://classiques-garnier.com/doi/garnier?article=RomMS21_57
       \endverb
       \keyw{Agency,Agentivité,Creepypasta,Fanfiction,Horreur,Horror,Transfictionality,Transfictionnalité}
+    \endentry
+    \entry{laura_goudet_memes_2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f1605d7552129a40e2eb285e06e2df3}{%
+           family={Goudet},
+           familyi={G\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{fullhash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{bibnamehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{authorbibnamehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{authornamehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{authorfullhash}{2f1605d7552129a40e2eb285e06e2df3}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{note}{Medium: text/html Publisher: [object Object]}
+      \field{title}{Mèmes 2 - le côté obscur -mais parfois mince- de la force (mémétique)}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.58079/QOZ6
+      \endverb
+      \verb{urlraw}
+      \verb https://lac.hypotheses.org/57
+      \endverb
+      \verb{url}
+      \verb https://lac.hypotheses.org/57
+      \endverb
+    \endentry
+    \entry{goudet_memes_2012}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f1605d7552129a40e2eb285e06e2df3}{%
+           family={Goudet},
+           familyi={G\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fr-FR}%
+      }
+      \strng{namehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{fullhash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{bibnamehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{authorbibnamehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{authornamehash}{2f1605d7552129a40e2eb285e06e2df3}
+      \strng{authorfullhash}{2f1605d7552129a40e2eb285e06e2df3}
+      \field{extraname}{3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Après le copypasta, vient le creepypasta, ou “on reprend les mêmes[1] et on recommence”.  Le creepypasta, c’est le copier-coller (“copy-paste”) mais en effrayant (“creepy”). En bonne amatrice d’horreur en général, je ne pouvais pas passer à côté d’une description un peu scientifique de ce genre de mèmes. Le but premier du creepypasta, c’est de faire … Continuer la lecture de Mèmes 2 – le côté obscur -mais parfois mince- de la force (mémétique) →}
+      \field{journaltitle}{Mes langues aux chats}
+      \field{month}{11}
+      \field{title}{Mèmes 2 – le côté obscur -mais parfois mince- de la force (mémétique)}
+      \field{type}{Billet}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/2S3IDYMB/57.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://lac.hypotheses.org/57
+      \endverb
+      \verb{url}
+      \verb https://lac.hypotheses.org/57
+      \endverb
+    \endentry
+    \entry{henriksen_spread_2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6f6d021d2476a0bdead9847811e181a}{%
+           family={Henriksen},
+           familyi={H\bibinitperiod},
+           given={Line},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{fullhash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{bibnamehash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{authorbibnamehash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{authornamehash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{authorfullhash}{b6f6d021d2476a0bdead9847811e181a}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{According to Internet legend, a cursed JPEG file circulates online, featuring an image of a dog with a much too human grin. If you happen to see this image, the dog will haunt your dreams, asking you to “spread the word” by showing its picture to someone else, thereby passing on the curse. The story of Smile.dog, which is the demon dog's name, is a so-called creepypasta – that is, a digital urban legend. Its curse is therefore a playful one, meant to be circulated as a hoax, but it is also a productive, yet challenging, place to ruminate upon ethics in an era of digital media. Through the lens of Jacques Derrida's concept of hauntology – a haunted ontology – this article explores what digital monsters and curses might teach us about ethics as a question of responding to that which haunts and hoaxes.}
+      \field{issn}{0042-0247, 1712-5278}
+      \field{journaltitle}{University of Toronto Quarterly}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shorttitle}{“{Spread} the {Word}”}
+      \field{title}{“{Spread} the {Word}”: {Creepypasta}, {Hauntology}, and an {Ethics} of the {Curse}}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{87}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{266\bibrangedash 280}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.3138/utq.87.1.266
+      \endverb
+      \verb{urlraw}
+      \verb https://utpjournals.press/doi/10.3138/utq.87.1.266
+      \endverb
+      \verb{url}
+      \verb https://utpjournals.press/doi/10.3138/utq.87.1.266
+      \endverb
+    \endentry
+    \entry{henriksen_here_2013}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6f6d021d2476a0bdead9847811e181a}{%
+           family={Henriksen},
+           familyi={H\bibinitperiod},
+           given={Line},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{fullhash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{bibnamehash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{authorbibnamehash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{authornamehash}{b6f6d021d2476a0bdead9847811e181a}
+      \strng{authorfullhash}{b6f6d021d2476a0bdead9847811e181a}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0740-770X, 1748-5819}
+      \field{journaltitle}{Women \& Performance: a journal of feminist theory}
+      \field{month}{11}
+      \field{number}{3}
+      \field{shorttitle}{Here be monsters}
+      \field{title}{Here be monsters: a choreomaniac's companion to the \textit{danse macabre}}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{23}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{414\bibrangedash 423}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/0740770X.2013.857082
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/0740770X.2013.857082
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/0740770X.2013.857082
+      \endverb
+    \endentry
+    \entry{noauthor_how_2023}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{💬 Speaker: Kirill Maslinsky 🏛 Affiliation: 1, INALCO, Paris; 2, Institute of Russian Literature (Pushkin House), Saint Petersburg Title: How Exactly does Literary Content Depend on Genre? A Case Study of Animals in Children’s Literature Abstract: The content of literary fiction at least partly depends on literary tradition. The dependence is attested quantitatively in the association of genre with lexical statistical patterns. This short paper is a st...}
+      \field{journaltitle}{Computational Humanities Research}
+      \field{month}{11}
+      \field{shorttitle}{How {Exactly} does {Literary} {Content} {Depend} on {Genre}?}
+      \field{title}{How {Exactly} does {Literary} {Content} {Depend} on {Genre}? {A} {Case} {Study} of {Animals} in {Children}’s {Literature} - {CHR2023} / chr23-paper}
+      \field{urlday}{8}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/DMCLWFQK/2048.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://discourse.computational-humanities-research.org/t/how-exactly-does-literary-content-depend-on-genre-a-case-study-of-animals-in-children-s-literature/2048
+      \endverb
+      \verb{url}
+      \verb https://discourse.computational-humanities-research.org/t/how-exactly-does-literary-content-depend-on-genre-a-case-study-of-animals-in-children-s-literature/2048
+      \endverb
     \endentry
     \entry{jacobs_character_1990}{book}{}
       \name{author}{1}{}{%
@@ -475,6 +1726,72 @@
       \verb Jenkins - 2006 - Convergence culture where old and new media colli.pdf:/Users/rolly/Zotero/storage/68RB2QKW/Jenkins - 2006 - Convergence culture where old and new media colli.pdf:application/pdf
       \endverb
       \keyw{Mass media and culture,Popular culture,United States}
+    \endentry
+    \entry{kane_pixels_backrooms_2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=82f63162ec30c7bb3f89f6834db68ea2}{%
+           family={{Kane Pixels}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{82f63162ec30c7bb3f89f6834db68ea2}
+      \strng{fullhash}{82f63162ec30c7bb3f89f6834db68ea2}
+      \strng{bibnamehash}{82f63162ec30c7bb3f89f6834db68ea2}
+      \strng{authorbibnamehash}{82f63162ec30c7bb3f89f6834db68ea2}
+      \strng{authornamehash}{82f63162ec30c7bb3f89f6834db68ea2}
+      \strng{authorfullhash}{82f63162ec30c7bb3f89f6834db68ea2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{September 23, 1996    • Mar11\_90\_ARCHIVE.tar   https://ko-fi.com/kanepixels}
+      \field{month}{1}
+      \field{title}{The {Backrooms} ({Found} {Footage})}
+      \field{urlday}{13}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=H4dGpz6cnHo
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=H4dGpz6cnHo
+      \endverb
+    \endentry
+    \entry{koiva_contemporary_nodate}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=11398ca0c487a5457e268c5d161751c8}{%
+           family={Kõiva},
+           familyi={K\bibinitperiod},
+           given={Mare},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0870ba9c70222783be845287d73c265}{%
+           family={Vesik},
+           familyi={V\bibinitperiod},
+           given={Liisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{6d79cfe92b27a97bf5f607187bb74601}
+      \strng{fullhash}{6d79cfe92b27a97bf5f607187bb74601}
+      \strng{bibnamehash}{6d79cfe92b27a97bf5f607187bb74601}
+      \strng{authorbibnamehash}{6d79cfe92b27a97bf5f607187bb74601}
+      \strng{authornamehash}{6d79cfe92b27a97bf5f607187bb74601}
+      \strng{authorfullhash}{6d79cfe92b27a97bf5f607187bb74601}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Contemporary {Folklore}, {Internet} and {Communities} at the beginning of the 21st {Century}}
+      \true{nocite}
+      \verb{file}
+      \verb Kõiva et Vesik - Contemporary Folklore, Internet and Communities at.pdf:/Users/rolly/Zotero/storage/F3E8658F/Kõiva et Vesik - Contemporary Folklore, Internet and Communities at.pdf:application/pdf
+      \endverb
     \endentry
     \entry{koolen_literary_2020}{article}{}
       \name{author}{4}{}{%
@@ -547,6 +1864,47 @@
       \endverb
       \keyw{Bestsellers,Literary quality,Popular fiction,Readers,Survey}
     \endentry
+    \entry{lamont_raped_2022}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=21669dd49de23ead9d901ff04cb36b1a}{%
+           family={Lamont},
+           familyi={L\bibinitperiod},
+           given={Bethany\bibnamedelima Rose},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{21669dd49de23ead9d901ff04cb36b1a}
+      \strng{fullhash}{21669dd49de23ead9d901ff04cb36b1a}
+      \strng{bibnamehash}{21669dd49de23ead9d901ff04cb36b1a}
+      \strng{authorbibnamehash}{21669dd49de23ead9d901ff04cb36b1a}
+      \strng{authornamehash}{21669dd49de23ead9d901ff04cb36b1a}
+      \strng{authorfullhash}{21669dd49de23ead9d901ff04cb36b1a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article examines the development of the Ruined Childhood genre of online comedy from 2001 to the early to mid 2010s. This cross-media genre of internet humour, and horror, hinges on the corruption of American childhood media for the nostalgic, and often white, masculinist coded, adult fan. This subject is explored with the intention of understanding how an aesthetic of exaggerated negative affect is both identified and expressed within a parodic online context, before situating such performances within wider systems of power, commercial identity and nationalism. This is identified as a percussor to later media panics surrounding ‘cancel culture’ and childhood media. The article then explains how an analogue aesthetic of disrupted nostalgia can be analysed and understood through Simon Reynolds and Mark Fisher’s theory of hauntology. Key examples in the explored in the article include the Photoshop contests on Something Awful, Cracked Listicles, and Creepypasta lost episodes.}
+      \field{issn}{1396-0466}
+      \field{journaltitle}{First Monday}
+      \field{month}{6}
+      \field{shorttitle}{From raped childhood to ruined childhood}
+      \field{title}{From raped childhood to ruined childhood: {Developing} an aesthetic of childhood trauma in digital culture from 2001 to 2018}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5210/fm.v27i6.11615
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.uic.edu/ojs/index.php/fm/article/view/11615
+      \endverb
+      \verb{url}
+      \verb https://journals.uic.edu/ojs/index.php/fm/article/view/11615
+      \endverb
+    \endentry
     \entry{lata_du_2022}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f543587289e09efe08f6c30d7851aa86}{%
@@ -605,6 +1963,55 @@
       \endverb
       \keyw{notion,auteurs et artiste,autocanonisation,canon,classique littéraire,étude littéraire,évolution littéraire,génie littéraire}
     \endentry
+    \entry{mao_peurs_2022}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=47cc2faad97a8aec4c61c781188ccfc9}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Caroline\bibnamedelima Le},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae6536da8d691f7e9c9345a09805d7de}{%
+           family={Chassaigne},
+           familyi={C\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e4647c214b7e7784158b6f0d46c1991}{%
+           family={Delaporte},
+           familyi={D\bibinitperiod},
+           given={Adèle},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \list{publisher}{1}{%
+        {HAL-SHS : histoire}%
+      }
+      \strng{namehash}{f623ef21f349f66521a3ca7b3676e53d}
+      \strng{fullhash}{f623ef21f349f66521a3ca7b3676e53d}
+      \strng{bibnamehash}{f623ef21f349f66521a3ca7b3676e53d}
+      \strng{authorbibnamehash}{f623ef21f349f66521a3ca7b3676e53d}
+      \strng{authornamehash}{f623ef21f349f66521a3ca7b3676e53d}
+      \strng{authorfullhash}{f623ef21f349f66521a3ca7b3676e53d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{La notion de "peurs urbaines" n'est pas neuve, loin de là, mais est à ranger au nombre de celles qui peuvent être examinées avec des questionnements renouvelés. Depuis les années 2000, nous sommes passés des questions d'insécurité à une perspective beaucoup plus large de la "gamme" des peurs urbaines. Par cette expression, nous entendons des sentiments collectifs d'anxiété, dans les populations urbaines, devant des événements se produisant ou susceptibles de se produire dans la ville où ils vivent, et durant suffisamment longtemps pour ne pas être considérés comme anecdotiques. Bien d'autres événements sont en effet intervenus depuis. La crainte du terrorisme n'était pas inconnue en 2000, mais les attentats du 11 septembre, suivis par d'autres, ont porté les peurs à un niveau bien plus élevé. La thématique classique des "classes dangereuses" s'est transformée avec la multiplication des émeutes urbaines ou des manifestations qui débouchent sur des violences extrêmes plus ou moins spontanées. De nouveaux questionnements sont apparus ou ont été réactivés, comme les peurs des catastrophes naturelles, les peurs climatiques ou environnementales, épidémiques, les destructions, les peurs alimentaires, depuis les disettes ou famines de l'époque moderne jusqu'aux psychoses du début du XXIe siècle. Ce volume élargit aussi la réflexion aux peurs irrationnelles, aux rumeurs et légendes urbaines, certaines intemporelles (les enlèvements de personnes perpétrées par des Juifs à l'époque médiévale aux 'rumeurs' de type Orléans), d'autres plus circonscrites dans le temps et l'espace (des "piqueurs" de femmes dans le Paris de la Restauration aux "voleurs de sexe" dans les villes d'Afrique occidentale), sans oublier les peurs anticipées, à l'instar des Californiens appréhendant la survenue du séisme du "Big One". On s'inscrit ici dans une démarche nouvellement engagée d'une approche "émotionnelle" de la ville, ou d'une historicisation des émotions des habitants des villes, elles-mêmes artefacts culturels de l'homme.}
+      \field{isbn}{979-10-353-1892-5}
+      \field{note}{Publication Title: HAL-SHS : histoire}
+      \field{shorttitle}{Peurs urbaines}
+      \field{title}{Peurs urbaines : {XVIe}-{XXIe} siècle}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{mayer_autorite_2017}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=2252c4869eaf83e871ff7083660a7f7f}{%
@@ -656,6 +2063,221 @@
       \verb https://hal.archives-ouvertes.fr/hal-02172717
       \endverb
     \endentry
+    \entry{mirvoda_fears_2021}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0abac050d67f80457e60a60ad45ec7f7}{%
+           family={Mirvoda},
+           familyi={M\bibinitperiod},
+           given={T.\bibnamedelimi A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=672e5c702c00bc0d44325162f3f72cee}{%
+           family={Stroganov},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6cca056f036a28d5a7f05efd076f3ea}{%
+           family={{A. M. Gorky Institute of World literature of the RAS}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e1ab22973df15295184989123f3a8f5d}{%
+           family={{Russian State University named after A. N. Kosygin (Technologies. Design. Art)}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9b3be28f7a660ea56af34c54d32f17f}
+      \strng{fullhash}{4c30a3af9920a90a82e807cb7b16d6df}
+      \strng{bibnamehash}{f9b3be28f7a660ea56af34c54d32f17f}
+      \strng{authorbibnamehash}{f9b3be28f7a660ea56af34c54d32f17f}
+      \strng{authornamehash}{f9b3be28f7a660ea56af34c54d32f17f}
+      \strng{authorfullhash}{4c30a3af9920a90a82e807cb7b16d6df}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{(Discussion based on the materials of the defense of T. A. Mirvoda’s PhD thesis “Poetics of a modern children’s “scary” narrative in oral tradition and the Internet”)Within the framework of the conversation, the article discusses psychological background of the emergence and existence of scary stories in the modern online space which are being accompanied with audio-visual objects and ritual practices, which on a par with the oral folk art of similar themes form the network mythology of horrors (the creepypasta). The principles of genre stratification of children’s «scary» narrative folklore and the creation of a corresponding index of characters and plots, as well as the differentiation of scary stories and evocations, proposed in the dissertation research by T. A. Mirvoda, are highlighted.}
+      \field{issn}{23054077}
+      \field{journaltitle}{Culture and Text}
+      \field{number}{44}
+      \field{title}{{FEARS} {AND} {SCARY} {NARRATIVES} {OF} {CHILDREN} {IN} {THE} {ERA} {OF} {THE} {INTERNET}}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{129\bibrangedash 147}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.37386/2305-4077-2021-1-129-147
+      \endverb
+      \verb{file}
+      \verb Mirvoda et al_2021_FEARS AND SCARY NARRATIVES OF CHILDREN IN THE ERA OF THE INTERNET.pdf:/Users/rolly/Zotero/storage/N23JPHX2/Mirvoda et al_2021_FEARS AND SCARY NARRATIVES OF CHILDREN IN THE ERA OF THE INTERNET.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journal-altspu.ru/wp-content/uploads/2021/03/129-147.pdf
+      \endverb
+      \verb{url}
+      \verb https://journal-altspu.ru/wp-content/uploads/2021/03/129-147.pdf
+      \endverb
+    \endentry
+    \entry{noauthor_modeling_2023}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{abstract}{💬 Speaker: Andrew Piper, Hao Xu and Eric D. Kolaczyk 🏛 Affiliation: McGill University, Montreal, QC H3A 2M7, CANADA Title: Modeling Narrative Revelation Abstract: A core aspect of human storytelling is the element of narrative time. In this paper, we propose a model of narrative revelation using the information-theoretic concept of relative entropy, which has been used in a variety of settings to understand textual similarity, along with methods in time-seri...}
+      \field{journaltitle}{Computational Humanities Research}
+      \field{month}{11}
+      \field{title}{Modeling {Narrative} {Revelation} - {CHR2023} / chr23-paper}
+      \field{urlday}{8}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/998ANGY6/2073.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://discourse.computational-humanities-research.org/t/modeling-narrative-revelation/2073
+      \endverb
+      \verb{url}
+      \verb https://discourse.computational-humanities-research.org/t/modeling-narrative-revelation/2073
+      \endverb
+    \endentry
+    \entry{morin_why_2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=959d077afa1f31ff07c0f16cff1369cf}{%
+           family={Morin},
+           familyi={M\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=140185da7e6cbe4ae3b56515bad18f64}{%
+           family={Sobchuk},
+           familyi={S\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en-us}%
+      }
+      \strng{namehash}{cef438bebc7b61dce3e04e9fc2d9a3b2}
+      \strng{fullhash}{cef438bebc7b61dce3e04e9fc2d9a3b2}
+      \strng{bibnamehash}{cef438bebc7b61dce3e04e9fc2d9a3b2}
+      \strng{authorbibnamehash}{cef438bebc7b61dce3e04e9fc2d9a3b2}
+      \strng{authornamehash}{cef438bebc7b61dce3e04e9fc2d9a3b2}
+      \strng{authorfullhash}{cef438bebc7b61dce3e04e9fc2d9a3b2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Monsters and other imaginary animals have been conjured up by a wide range of cultures. Can their popularity be explained, and can their properties be predicted? These were long-standing questions for structuralist or cognitive anthropology, as well as literary studies and cultural evolution. The task is to solve the puzzle raised by the popularity of extraordinary imaginary animals, and to explain some cross-cultural regularities that such animals present — traits like hybridity or dangerousness. The standard approach to this question was to first investigate how human imagination deals with actually existing animals. Structuralist theory held that some animals are particularly "good to think with”. According to Mary Douglas’s influential hypothesis, this was chiefly true of animals that disrupt intuitive classifications of species— the “monsters-as-anomalies” account. But this hypothesis is problematic, as ethnobiology shows that folk classifications of biological species are so plastic that classificatory anomalies can be disregarded. This led cognitive anthropologists to propose alternative versions of the “monsters as anomalies” account. Parallel to this, a second account of monsters —“monsters-as-predators”— starts from the importance of predator detection to our past survival and reproduction, and argues that dangerous features make animals “good to think with”, and should be over-represented in imaginary animals. This paper argues that both accounts understand something about monsters that the other account cannot explain. We propose a synthesis of these two accounts, which attempts to explain why the two most characteristic aspects of monsters, anomalousness and predatoriness, tend to go together.}
+      \field{month}{12}
+      \field{note}{Publisher: OSF}
+      \field{title}{Why monsters are dangerous}
+      \field{urlday}{8}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.31235/osf.io/t7pnf
+      \endverb
+      \verb{file}
+      \verb Morin_Sobchuk_2023_Why monsters are dangerous.pdf:/Users/rolly/Zotero/storage/CTGI5R5J/Morin_Sobchuk_2023_Why monsters are dangerous.pdf:application/pdf;Snapshot:/Users/rolly/Zotero/storage/ID7U6J7W/t7pnf.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://osf.io/t7pnf
+      \endverb
+      \verb{url}
+      \verb https://osf.io/t7pnf
+      \endverb
+    \endentry
+    \entry{myrick_blair_1999}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=620ad3fa2018dd2e00b563db18b48552}{%
+           family={Myrick},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4db3ea5e9893c89a8343f9718c8d95a}{%
+           family={Sanchez},
+           familyi={S\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Alliance Atlantis Vivafilm}%
+      }
+      \strng{namehash}{7f570f4fe36e4c848d95e222e80a4132}
+      \strng{fullhash}{7f570f4fe36e4c848d95e222e80a4132}
+      \strng{bibnamehash}{7f570f4fe36e4c848d95e222e80a4132}
+      \strng{authorbibnamehash}{7f570f4fe36e4c848d95e222e80a4132}
+      \strng{authornamehash}{7f570f4fe36e4c848d95e222e80a4132}
+      \strng{authorfullhash}{7f570f4fe36e4c848d95e222e80a4132}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {Blair} {Witch} {Project}}
+      \field{year}{1999}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_nosleep_nodate}{misc}{}
+      \field{sortinit}{n}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{title}{nosleep}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb nosleep:/Users/rolly/Zotero/storage/7YE4TDPC/nosleep.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.reddit.com/r/nosleep/
+      \endverb
+      \verb{url}
+      \verb https://www.reddit.com/r/nosleep/
+      \endverb
+    \endentry
+    \entry{noauthor_not_2023}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{💬 Speaker: Pascale Feldkamp Moreira, Yuri Bizzoni, Emily Öhman and Kristoffer L. Nielbo 🏛 Affiliation: 1, Center for Humanities Computing, Aarhus University, Aarhus, Denmark; 2, School of International Liberal Studies, Waseda University, Tokyo, Japan Title: Not just Plot(ting): A Comparison of Two Approaches for Understanding Narrative Text Dynamics Abstract: This paper presents the outcomes of a study that leverages emotion \%classification annotation to i...}
+      \field{journaltitle}{Computational Humanities Research}
+      \field{month}{11}
+      \field{shorttitle}{Not just {Plot}(ting)}
+      \field{title}{Not just {Plot}(ting): {A} {Comparison} of {Two} {Approaches} for {Understanding} {Narrative} {Text} {Dynamics} - {CHR2023} / chr23-paper}
+      \field{urlday}{8}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/KN8JVYMG/2049.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://discourse.computational-humanities-research.org/t/not-just-plot-ting-a-comparison-of-two-approaches-for-understanding-narrative-text-dynamics/2049
+      \endverb
+      \verb{url}
+      \verb https://discourse.computational-humanities-research.org/t/not-just-plot-ting-a-comparison-of-two-approaches-for-understanding-narrative-text-dynamics/2049
+      \endverb
+    \endentry
     \entry{ondrak_spectres_2018}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=558c6e6f579f39a8698fe5bb9f32c8e3}{%
@@ -704,6 +2326,712 @@
       \endverb
       \verb{url}
       \verb https://intellectdiscover.com/content/journals/10.1386/host.9.2.161_1
+      \endverb
+    \endentry
+    \entry{pattee__2022}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a9da13b95b57106f4044089986a0a149}{%
+           family={Pattee},
+           familyi={P\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a9da13b95b57106f4044089986a0a149}
+      \strng{fullhash}{a9da13b95b57106f4044089986a0a149}
+      \strng{bibnamehash}{a9da13b95b57106f4044089986a0a149}
+      \strng{authorbibnamehash}{a9da13b95b57106f4044089986a0a149}
+      \strng{authornamehash}{a9da13b95b57106f4044089986a0a149}
+      \strng{authorfullhash}{a9da13b95b57106f4044089986a0a149}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{“Creepypasta,” short works of original horror fiction and frightening images created primarily by amateurs and shared in online communities of like-minded readers and writers, use the language of horror to encode and offer commentary on issues of contemporary concern. A close reading of an exemplary text, “Candle Cove,” demonstrates how this and other similarly themed creepypasta represent vernacular contributions to discussions of young people’s interactions with mass media that reflect a popular interest in both securing and disrupting the figure of the child constructed in media discourse.}
+      \field{issn}{0907-5682, 1461-7013}
+      \field{journaltitle}{Childhood}
+      \field{month}{5}
+      \field{number}{2}
+      \field{shorttitle}{“[{A}] story about a child is scarier than one about an adult roughly 80\% of the time”}
+      \field{title}{“[{A}] story about a child is scarier than one about an adult roughly 80\% of the time”: {Creepypasta}, {Children}’s media, and the child in media discourse}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{29}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{204\bibrangedash 218}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1177/09075682221093843
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/09075682221093843
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/09075682221093843
+      \endverb
+    \endentry
+    \entry{renard_rumeurs_2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f15069fbde263d4922eed706ff2a2d9}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={Jean-Bruno},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \strng{namehash}{2f15069fbde263d4922eed706ff2a2d9}
+      \strng{fullhash}{2f15069fbde263d4922eed706ff2a2d9}
+      \strng{bibnamehash}{2f15069fbde263d4922eed706ff2a2d9}
+      \strng{authorbibnamehash}{2f15069fbde263d4922eed706ff2a2d9}
+      \strng{authornamehash}{2f15069fbde263d4922eed706ff2a2d9}
+      \strng{authorfullhash}{2f15069fbde263d4922eed706ff2a2d9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cet exposé va traiter des rumeurs et d’Internet, sous deux aspects: Internet comme objet de rumeurs et Internet comme moyen de diffusion des rumeurs. On définira les rumeurs au sens large comme des informations non vérifiées qui circulent dans un groupe social, et au sens strict comme des informations fausses auxquelles des gens croient. La légende urbaine, ou légende contemporaine, est une rumeur narrative, une anecdote de la vie quotidienne, fausse ou douteuse, mais à laquelle on croit parce qu’elle est vraisemblable et qu’elle véhicule un message moral.}
+      \field{journaltitle}{HAL-SHS : sociologie}
+      \field{note}{Publisher: HAL-SHS : sociologie}
+      \field{title}{Les rumeurs et internet}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{renard_legendes_1992}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2f15069fbde263d4922eed706ff2a2d9}{%
+           family={Renard},
+           familyi={R\bibinitperiod},
+           given={Jean-Bruno},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e13314bd3be0565f3c85528ed7f082b}{%
+           family={Campion-Vincent},
+           familyi={C\bibinithyphendelim V\bibinitperiod},
+           given={Véronique},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \list{publisher}{1}{%
+        {HAL-SHS : sociologie}%
+      }
+      \strng{namehash}{0f36c67c9764a6766a4a69a93d22c9ca}
+      \strng{fullhash}{0f36c67c9764a6766a4a69a93d22c9ca}
+      \strng{bibnamehash}{0f36c67c9764a6766a4a69a93d22c9ca}
+      \strng{authorbibnamehash}{0f36c67c9764a6766a4a69a93d22c9ca}
+      \strng{authornamehash}{0f36c67c9764a6766a4a69a93d22c9ca}
+      \strng{authorfullhash}{0f36c67c9764a6766a4a69a93d22c9ca}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{International audience}
+      \field{note}{Publication Title: HAL-SHS : sociologie}
+      \field{shorttitle}{Légendes urbaines}
+      \field{title}{Légendes urbaines: {Rumeurs} d'aujourd'hui}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{1992}
+      \field{urldateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{noauthor_rumeurs_nodate}{misc}{}
+      \list{language}{1}{%
+        {fr}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ce numéro sera consacré au thème « Rumeurs, légendes urbaines et théories du complot au prisme des sciences sociales. Enjeux, méthodes, perspectives ». Ce numéro de la revue Émulations se propose d...}
+      \field{title}{Rumeurs, légendes urbaines et théories du complot au prisme des sci...}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/FGAP7D6G/391424.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://calenda.org/391424
+      \endverb
+      \verb{url}
+      \verb https://calenda.org/391424
+      \endverb
+    \endentry
+    \entry{sade-beck_internet_2004}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5adcf9ee5397ab02c36d106aef00228c}{%
+           family={Sade-Beck},
+           familyi={S\bibinithyphendelim B\bibinitperiod},
+           given={Liav},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5adcf9ee5397ab02c36d106aef00228c}
+      \strng{fullhash}{5adcf9ee5397ab02c36d106aef00228c}
+      \strng{bibnamehash}{5adcf9ee5397ab02c36d106aef00228c}
+      \strng{authorbibnamehash}{5adcf9ee5397ab02c36d106aef00228c}
+      \strng{authornamehash}{5adcf9ee5397ab02c36d106aef00228c}
+      \strng{authorfullhash}{5adcf9ee5397ab02c36d106aef00228c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article proposes a new methodology for qualitative research on the Internet, based on the integration of qualitative data-gathering methodologies both online and offline. This combination enables the creation of rich ethnography or, as Geertz (1973) has called it, “thick description,” not limited to the Internet alone. The importance of this article lies in its contribution to a better understanding of the research potential of the Internet and its implementation in qualitative research methodologies.}
+      \field{issn}{1609-4069, 1609-4069}
+      \field{journaltitle}{International Journal of Qualitative Methods}
+      \field{month}{6}
+      \field{number}{2}
+      \field{shorttitle}{Internet {Ethnography}}
+      \field{title}{Internet {Ethnography}: {Online} and {Offline}}
+      \field{urlday}{16}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{3}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{45\bibrangedash 51}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1177/160940690400300204
+      \endverb
+      \verb{file}
+      \verb Sade-Beck - 2004 - Internet Ethnography Online and Offline.pdf:/Users/rolly/Zotero/storage/3IZ42ZLP/Sade-Beck - 2004 - Internet Ethnography Online and Offline.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/160940690400300204
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/160940690400300204
+      \endverb
+    \endentry
+    \entry{sanchez_folklore_2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9982444a2d47aba88683a8cbd082562b}{%
+           family={Sánchez},
+           familyi={S\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {es}%
+      }
+      \strng{namehash}{9982444a2d47aba88683a8cbd082562b}
+      \strng{fullhash}{9982444a2d47aba88683a8cbd082562b}
+      \strng{bibnamehash}{9982444a2d47aba88683a8cbd082562b}
+      \strng{authorbibnamehash}{9982444a2d47aba88683a8cbd082562b}
+      \strng{authornamehash}{9982444a2d47aba88683a8cbd082562b}
+      \strng{authorfullhash}{9982444a2d47aba88683a8cbd082562b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The aim of this research is to relieve the genre variances and invariances of the creepypasta to establish the distinctive traits of this genre in Argentina. Our theoretical framework is taken from Discourse Analysis and recent works about mediation and platforms by Oscar Traversa (2009), studies about the culture of connectivity by José Van Dijck (2016) and works about Urban legends by Jan Harold Brunvand (2011). We believe that this popular literature in digital form generates spaces of collective and collaborative writing where short versions or adaptations of urban legends are shared with the purpose of generating fear in the readers. In Argentina the creepypasta presents a stylistic challenge: to be creative in the production of regional variants of several classical stories. This research, thus, serves as a contribution for the studies of digital folklore in our country. But moreover, we believe that teachers can enrich themselves with this knowledge because the students who were or are still administrators, readers or producers of creepypasta, participate in a “group or group network that generates particular forms of production, interpretation and circulation of discourse” (Maingueneau, 2004. our translation). The users of this and other platforms, acquire ?due to frequency? the genre features and restrictions that correspond to these texts. Using the abilities and previous knowledge of the students may be productive to overcome some of the difficulties that students face in their own written productions, not to mention the competences they acquire in the use and manipulation of illustrations, images, videos and audios.}
+      \field{issn}{2618-2726}
+      \field{journaltitle}{Heterotopías}
+      \field{month}{6}
+      \field{note}{Number: 1}
+      \field{number}{1}
+      \field{shorttitle}{Folklore digital}
+      \field{title}{Folklore digital: la vigencia de las leyendas urbanas en los creepypastas}
+      \field{urlday}{11}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{1}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Full Text PDF:/Users/rolly/Zotero/storage/ZNPPPFQ6/Sánchez - 2018 - Folklore digital la vigencia de las leyendas urba.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://revistas.unc.edu.ar/index.php/heterotopias/article/view/19993
+      \endverb
+      \verb{url}
+      \verb https://revistas.unc.edu.ar/index.php/heterotopias/article/view/19993
+      \endverb
+      \keyw{creepypasta,collaborative writing,digital folklore,discourse analysis}
+    \endentry
+    \entry{noauthor_selenium_nodate}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{Selenium with {Python} — {Selenium} {Python} {Bindings} 2 documentation}
+      \field{urlday}{21}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Selenium with Python — Selenium Python Bindings 2 documentation:/Users/rolly/Zotero/storage/WBH4GKJC/selenium-python.readthedocs.io.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://selenium-python.readthedocs.io/
+      \endverb
+      \verb{url}
+      \verb https://selenium-python.readthedocs.io/
+      \endverb
+    \endentry
+    \entry{shifman_memes_2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16f5b168efe97282b6998d9b12fc1bff}{%
+           family={Shifman},
+           familyi={S\bibinitperiod},
+           given={Limor},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{16f5b168efe97282b6998d9b12fc1bff}
+      \strng{fullhash}{16f5b168efe97282b6998d9b12fc1bff}
+      \strng{bibnamehash}{16f5b168efe97282b6998d9b12fc1bff}
+      \strng{authorbibnamehash}{16f5b168efe97282b6998d9b12fc1bff}
+      \strng{authornamehash}{16f5b168efe97282b6998d9b12fc1bff}
+      \strng{authorfullhash}{16f5b168efe97282b6998d9b12fc1bff}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In December 2012, the exuberant video "Gangnam Style" became the first YouTube clip to be viewed more than one billion times. Thousands of its viewers responded by creating and posting their own variations of the video: "Mitt Romney Style," "NASA Johnson Style," "Egyptian Style," and many others. "Gangnam Style" (and its attendant parodies, imitations, and derivations) is one of the most famous examples of an Internet meme: a piece of digital content that spreads quickly around the Web in various iterations and becomes a shared cultural experience. In this book, the author investigates Internet memes and what they tell us about digital culture. She discusses a series of well-known Internet memes, including "Leave Britney Alone," the pepper-spraying cop, LOLCats, Scumbag Steve, and Occupy Wall Street's "We Are the 99 Percent." She offers a novel definition of Internet memes: digital content units with common characteristics, created with awareness of each other, and circulated, imitated, and transformed via the Internet by many users. She differentiates memes from virals; analyzes what makes memes and virals successful; describes popular meme genres; discusses memes as new modes of political participation in democratic and nondemocratic regimes; and examines memes as agents of globalization. Memes, the author argues, encapsulate some of the most fundamental aspects of the Internet in general and of the participatory Web 2.0 culture in particular. Internet memes may be entertaining, but in this book the author makes a compelling argument for taking them seriously. -- Publisher's description}
+      \field{isbn}{978-0-262-52543-5}
+      \field{series}{The {MIT} {Press} essential knowledge series}
+      \field{title}{Memes in digital culture}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{file}
+      \verb Shifman - 2014 - Memes in digital culture.pdf:/Users/rolly/Zotero/storage/URRU33PH/Shifman - 2014 - Memes in digital culture.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{skyyart_introduction_2009}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e701d6325629f10d62d80326153c8f15}{%
+           family={{Skyyart}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e701d6325629f10d62d80326153c8f15}
+      \strng{fullhash}{e701d6325629f10d62d80326153c8f15}
+      \strng{bibnamehash}{e701d6325629f10d62d80326153c8f15}
+      \strng{authorbibnamehash}{e701d6325629f10d62d80326153c8f15}
+      \strng{authornamehash}{e701d6325629f10d62d80326153c8f15}
+      \strng{authorfullhash}{e701d6325629f10d62d80326153c8f15}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{0}
+      \field{month}{6}
+      \field{title}{Introduction}
+      \field{urlday}{13}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=Wmhfn3mgWUI
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=Wmhfn3mgWUI
+      \endverb
+    \endentry
+    \entry{noauthor_t5_2023}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{💬 Speaker: Rebecca M. M. Hicke and David Mimno 🏛 Affiliation: 1, Department of Computer Science, Cornell University, USA; 2, Department of Information Science, Cornell University, USA Title: T5 meets Tybalt: Author Attribution in Early Modern English Drama Using Large Language Models Abstract: Large language models have shown breakthrough potential in many NLP domains. Here we consider their use for stylometry, specifically authorship identification in Early...}
+      \field{journaltitle}{Computational Humanities Research}
+      \field{month}{11}
+      \field{shorttitle}{T5 meets {Tybalt}}
+      \field{title}{T5 meets {Tybalt}: {Author} {Attribution} in {Early} {Modern} {English} {Drama} {Using} {Large} {Language} {Models} - {CHR2023} / chr23-paper}
+      \field{urlday}{8}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/RE4VHL2F/2055.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://discourse.computational-humanities-research.org/t/t5-meets-tybalt-author-attribution-in-early-modern-english-drama-using-large-language-models/2055
+      \endverb
+      \verb{url}
+      \verb https://discourse.computational-humanities-research.org/t/t5-meets-tybalt-author-attribution-in-early-modern-english-drama-using-large-language-models/2055
+      \endverb
+    \endentry
+    \entry{taecharungroj_humour_2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ec56ddc3335db92e4692fbc70cd961c4}{%
+           family={Taecharungroj},
+           familyi={T\bibinitperiod},
+           given={Viriya},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e0d1ef234bf3f22e65cff6e7cb738be}{%
+           family={Nueangjamnong},
+           familyi={N\bibinitperiod},
+           given={Pitchanut},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{963b966a32a6615bae97c1c2337b50c3}
+      \strng{fullhash}{963b966a32a6615bae97c1c2337b50c3}
+      \strng{bibnamehash}{963b966a32a6615bae97c1c2337b50c3}
+      \strng{authorbibnamehash}{963b966a32a6615bae97c1c2337b50c3}
+      \strng{authornamehash}{963b966a32a6615bae97c1c2337b50c3}
+      \strng{authorfullhash}{963b966a32a6615bae97c1c2337b50c3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This research analyzes the communication process of humorous memes in the most vibrant online phenomenon, Facebook. Through quantitative and qualitative content analysis of 1,000 memes shared on a Facebook page, this research tests the effect of various styles and types of humour on the virality of memes. Self-defeating is the most effective style of humour although it is not the most frequently used. By applying the typology used in the context of broadcast and print media, this study shows that although sarcasm and silliness are the two most prevalent types of humour used in Internet memes, no obvious differences can be observed in the effects of seven types of humour—comparison, personification, exaggeration, pun, sarcasm, silliness and surprise—on virality. Nevertheless, the authors develop the framework for humorous memes in social media communications by combining established communication models with the concepts and theories of humour and virality. The findings of this research may benefit practitioners who are involved in humour communications on social media. The framework and insights on the styles and types of humour in social media memes may also be helpful for researchers aiming to further explore the relevant topics.}
+      \field{issn}{0973-2586, 0973-2594}
+      \field{journaltitle}{Journal of Creative Communications}
+      \field{month}{11}
+      \field{number}{3}
+      \field{shorttitle}{Humour 2.0}
+      \field{title}{Humour 2.0: {Styles} and {Types} of {Humour} and {Virality} of {Memes} on {Facebook}}
+      \field{urlday}{27}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{288\bibrangedash 302}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1177/0973258615614420
+      \endverb
+      \verb{file}
+      \verb Taecharungroj et Nueangjamnong - 2015 - Humour 2.0 Styles and Types of Humour and Viralit.pdf:/Users/rolly/Zotero/storage/3AD8YDFS/Taecharungroj et Nueangjamnong - 2015 - Humour 2.0 Styles and Types of Humour and Viralit.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/0973258615614420
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/0973258615614420
+      \endverb
+    \endentry
+    \entry{noauthor_backrooms_nodate}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{The {Backrooms} {Wiki} - {The} {Backrooms}}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb The Backrooms Wiki - The Backrooms:/Users/rolly/Zotero/storage/TMXWPYF3/backrooms-wiki.wikidot.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://backrooms-wiki.wikidot.com/
+      \endverb
+      \verb{url}
+      \verb http://backrooms-wiki.wikidot.com/
+      \endverb
+    \endentry
+    \entry{noauthor_slender_nodate}{misc}{}
+      \list{language}{1}{%
+        {en}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{The {Slender} {Man} {Wiki}}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/PR7UAXHD/The_Slender_Man_Wiki.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://theslenderman.fandom.com/wiki/The_Slender_Man_Wiki
+      \endverb
+      \verb{url}
+      \verb https://theslenderman.fandom.com/wiki/The_Slender_Man_Wiki
+      \endverb
+    \endentry
+    \entry{todorov_introductin_1992}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eda0cab55cb1d5efa208513b9b9e0b8e}{%
+           family={Todorov},
+           familyi={T\bibinitperiod},
+           given={Cvetan},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Ed. du seuil}%
+      }
+      \strng{namehash}{eda0cab55cb1d5efa208513b9b9e0b8e}
+      \strng{fullhash}{eda0cab55cb1d5efa208513b9b9e0b8e}
+      \strng{bibnamehash}{eda0cab55cb1d5efa208513b9b9e0b8e}
+      \strng{authorbibnamehash}{eda0cab55cb1d5efa208513b9b9e0b8e}
+      \strng{authornamehash}{eda0cab55cb1d5efa208513b9b9e0b8e}
+      \strng{authorfullhash}{eda0cab55cb1d5efa208513b9b9e0b8e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Repr}
+      \field{isbn}{978-2-02-002035-0}
+      \field{series}{Collection {Poétique}}
+      \field{title}{Introductin à la littérature fantastique}
+      \field{year}{1992}
+      \true{nocite}
+    \endentry
+    \entry{tripathy_towards_2013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4d60322140a7b7e2cb2efb295c3be0f7}{%
+           family={Tripathy},
+           familyi={T\bibinitperiod},
+           given={Rudra\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44391a655b231c9f97ce7304d9e932ab}{%
+           family={Bagchi},
+           familyi={B\bibinitperiod},
+           given={Amitabha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb378fc897441f58f0b87c994b6cf0c3}{%
+           family={Mehta},
+           familyi={M\bibinitperiod},
+           given={Sameep},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{50541c29d7e5f693794258a5fa7885dd}
+      \strng{fullhash}{50541c29d7e5f693794258a5fa7885dd}
+      \strng{bibnamehash}{50541c29d7e5f693794258a5fa7885dd}
+      \strng{authorbibnamehash}{50541c29d7e5f693794258a5fa7885dd}
+      \strng{authornamehash}{50541c29d7e5f693794258a5fa7885dd}
+      \strng{authorfullhash}{50541c29d7e5f693794258a5fa7885dd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Rumor is a potentially harmful social phenomenon that has been observed in all human societies in all times. Social networking sites provide a platform for the rapid interchange of information and hence, for the rapid dissemination of unsubstantiated}
+      \field{issn}{1088-467X}
+      \field{journaltitle}{Intelligent Data Analysis}
+      \field{month}{1}
+      \field{note}{Publisher: IOS Press}
+      \field{number}{1}
+      \field{shorttitle}{Towards combating rumors in social networks}
+      \field{title}{Towards combating rumors in social networks: {Models} and metrics}
+      \field{urlday}{13}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{volume}{17}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{149\bibrangedash 175}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.3233/IDA-120571
+      \endverb
+      \verb{file}
+      \verb Tripathy et al. - 2013 - Towards combating rumors in social networks Model.pdf:/Users/rolly/Zotero/storage/62FHQZ6G/Tripathy et al. - 2013 - Towards combating rumors in social networks Model.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://content.iospress.com/articles/intelligent-data-analysis/ida00571
+      \endverb
+      \verb{url}
+      \verb https://content.iospress.com/articles/intelligent-data-analysis/ida00571
+      \endverb
+    \endentry
+    \entry{tudor_why_1997}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc8d33f86067e3e4c73891274af37643}{%
+           family={Tudor},
+           familyi={T\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fc8d33f86067e3e4c73891274af37643}
+      \strng{fullhash}{fc8d33f86067e3e4c73891274af37643}
+      \strng{bibnamehash}{fc8d33f86067e3e4c73891274af37643}
+      \strng{authorbibnamehash}{fc8d33f86067e3e4c73891274af37643}
+      \strng{authornamehash}{fc8d33f86067e3e4c73891274af37643}
+      \strng{authorfullhash}{fc8d33f86067e3e4c73891274af37643}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0950-2386, 1466-4348}
+      \field{journaltitle}{Cultural Studies}
+      \field{month}{10}
+      \field{number}{3}
+      \field{shorttitle}{{WHY} {HORROR}?}
+      \field{title}{{WHY} {HORROR}? {THE} {PECULIAR} {PLEASURES} {OF} {A} {POPULAR} {GENRE}}
+      \field{urlday}{9}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{volume}{11}
+      \field{year}{1997}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{443\bibrangedash 463}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1080/095023897335691
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/095023897335691
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/095023897335691
+      \endverb
+    \endentry
+    \entry{van_de_winkel_ragots_2014}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4ed7ff8a8d059f332921e0e8fe2df759}{%
+           family={Van\bibnamedelimb de\bibnamedelima Winkel},
+           familyi={V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Aurore},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51868a4bb74256a5a6f7c2a23735dd33}{%
+           family={Reilly},
+           familyi={R\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \strng{namehash}{64fea51dca34c617b430485965c7864c}
+      \strng{fullhash}{64fea51dca34c617b430485965c7864c}
+      \strng{bibnamehash}{64fea51dca34c617b430485965c7864c}
+      \strng{authorbibnamehash}{64fea51dca34c617b430485965c7864c}
+      \strng{authornamehash}{64fea51dca34c617b430485965c7864c}
+      \strng{authorfullhash}{64fea51dca34c617b430485965c7864c}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This essay examines the ubiquity of cultural forms such as gossip, rumours, urban legends, and hoaxes. This study addresses each cultural form as genre, pointing to their overlapping features and characteristics. In what follows, the authors explore each genre’s key practices, practitioners, motivations, and social settings in the interests of unravelling of the oft misunderstood relationships among these and other related forms. The essay situates these forms and practices as vibrant, compelling, and complex forms of discourse that initiate dialogue and deliberation in numerous settings to a broad (if amorphous) public.}
+      \field{issn}{2292-2261}
+      \field{journaltitle}{Nouvelle Revue Synergies Canada}
+      \field{note}{Publisher: University of Guelph, School of Languages and Literatures}
+      \field{number}{7}
+      \field{shorttitle}{Ragots, rumeurs, légendes urbaines, et e-canulars}
+      \field{title}{Ragots, rumeurs, légendes urbaines, et e-canulars : vers un éclaircissement des genres}
+      \field{urlday}{13}
+      \field{urlmonth}{10}
+      \field{urlyear}{2023}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.21083/nrsc.v0i7.3029
+      \endverb
+      \verb{file}
+      \verb Snapshot:/Users/rolly/Zotero/storage/GIJINNKI/1089208ar.html:text/html;Texte intégral:/Users/rolly/Zotero/storage/4LGZLVM3/Van de Winkel et Reilly - 2014 - Ragots, rumeurs, légendes urbaines, et e-canulars .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.erudit.org/en/journals/nrsc/2014-n7-nrsc07020/1089208ar/
+      \endverb
+      \verb{url}
+      \verb https://www.erudit.org/en/journals/nrsc/2014-n7-nrsc07020/1089208ar/
+      \endverb
+      \keyw{Genre,Gossip,Media Hoaxing,Rumours,Urban Legends}
+    \endentry
+    \entry{wiggins_discursive_2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c899b3c28413adc8450d45b192a2cfb}{%
+           family={Wiggins},
+           familyi={W\bibinitperiod},
+           given={Bradley\bibnamedelima E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {New York London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6c899b3c28413adc8450d45b192a2cfb}
+      \strng{fullhash}{6c899b3c28413adc8450d45b192a2cfb}
+      \strng{bibnamehash}{6c899b3c28413adc8450d45b192a2cfb}
+      \strng{authorbibnamehash}{6c899b3c28413adc8450d45b192a2cfb}
+      \strng{authornamehash}{6c899b3c28413adc8450d45b192a2cfb}
+      \strng{authorfullhash}{6c899b3c28413adc8450d45b192a2cfb}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-138-58840-0 978-0-367-66133-5}
+      \field{number}{45}
+      \field{series}{Routledge studies in new media and cyberculture}
+      \field{shorttitle}{The discursive power of memes in digital culture}
+      \field{title}{The discursive power of memes in digital culture: ideology, semiotics, and intertextuality}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{file}
+      \verb Wiggins - 2019 - The discursive power of memes in digital culture .pdf:/Users/rolly/Zotero/storage/IP4V9ZBC/Wiggins - 2019 - The discursive power of memes in digital culture .pdf:application/pdf
       \endverb
     \endentry
   \enddatalist

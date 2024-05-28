@@ -1,17 +1,22 @@
-\documentclass[12pt,a4paper,oneside,titlepage]{article} %appel de classe
+\documentclass[12pt,a4paper,oneside,titlepage]{book} %appel de classe
 %appel des packages:
 \usepackage{fontspec} %package pour gérer les fontes
 \usepackage{xunicode} %package pour gérer l'unicode
 \usepackage{hyperref}
 \usepackage[french]{babel}
 \usepackage[style=enc]{biblatex}
-\usepackage{setspace}
 \usepackage{csquotes}
 \usepackage{graphicx} 
 \usepackage{caption}
 \usepackage{wrapfig}
 \usepackage{parskip}
+\usepackage{lettrine}
 
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+\setlength{\parindent}{1cm}
+\onehalfspacing
+\hyphenation{}
 
 \usepackage{tikz}
 
@@ -27,19 +32,106 @@
 
 
 
-\setcounter{secnumdepth}{4}
-\titleformat{\paragraph}
-{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
-\titlespacing*{\paragraph}
-{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
-
 
 \setstretch{1,5}
 \begin{document}
 
-\maketitle
+%Page de titre
+\begin{titlepage}
+	\begin{center}
+		
+		\bigskip
+		
+		\begin{large}
+			UNIVERSITÉ PARIS, SCIENCES \& LETTRES
+		\end{large}
+		%TODO: nom établissement de préparation
+		\begin{center}\rule{2cm}{0.02cm}\end{center}
+		
+		\bigskip
+		\bigskip
+		\bigskip
+		\begin{Large}
+			\textbf{Alexandre Lionnet-Rollin}\\
+		\end{Large}
+		\begin{normalsize} \textit{licencié ès lettres modernes}\\
+			
+		\end{normalsize}
+		
+		\bigskip
+		\bigskip
+		\bigskip
+		
+		\begin{Huge}
+			\textbf{Définition et caractérisation d'un genre de littérature numérique : les Creepypastas}\\
+		\end{Huge}
+		\bigskip
+		\bigskip
+		\begin{LARGE}
+		\textbf{Exploration du rapport entre littérarité et viralité}\\
+		\end{LARGE}
+		
+		\bigskip
+		\bigskip
+		\bigskip
+		\begin{large}
+		\end{large}
+		\vfill
+		
+		\begin{large}
+			Mémoire de première année de master\\
+			\og Humanités numériques et computationnelles \fg{} \\
+			\bigskip
+			2024
+		\end{large}
+		
+	\end{center}
+\end{titlepage}
 
-\section*{Introduction}
+\thispagestyle{empty}
+
+\cleardoublepage
+
+\section*{Résumé}
+\addcontentsline{toc}{chapter}{Résumé}
+
+Résumé d'une trentaine de lignes à placer en tête du mémoire, accompagné d'une dizaine de mots-clés destinés à décrire le mémoire et des informations bibliographiques nécessaires pour le citer. Ce résumé et ces mots-clés sont destinés à compléter la notice bibliographique du mémoire dans la future bibliothèque numérique des mémoires.\\
+N.B.: ne pas dépasser, au grand maximum, une page pour le tout.
+
+\medskip
+
+\textbf{Mots-clés:} Creepypasta, viralité, TAL, littérarité, 
+
+\textbf{Informations bibliographiques:} Alexandre Lionnet-Rollin, \textit{Titre du mémoire: sous-titre}, mémoire de master 1 \og Humanités numériques et computationnelles\fg{}, dir. Florian Cafiero et Valérie Beaudouin, Université Paris, Sciences \& Lettres, 2024.
+
+%TODO: demander résumé et mots-clés en anglais.
+
+\section*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+
+Same abstract, but in English this time.
+
+\medskip
+
+\textbf{Keywords:} Liste d'une dizaine de mots-clés, séparés par des points-virgules.
+
+\textbf{Bibliographic Information:} Forename Last-Name, \textit{Title: Subtitle}, M.A. thesis \og Digital and computational humanities\fg{}, dir. John Smith  and Marie Schmitt, Université Paris, Sciences \& Lettres, 2018.
+
+
+\clearpage
+\thispagestyle{empty}
+\cleardoublepage
+
+
+\section*{Remerciements}
+\addcontentsline{toc}{chapter}{Remerciements}
+
+\lettrine{M}{es remerciements} vont tout d'abord…
+
+\clearpage
+\thispagestyle{empty}
+\cleardoublepage
+\chapter*{Introduction}
 	Le début des années 2000 marque l'entrée d'Internet dans la seconde phase de son existence : le Web 2.0 correspond à une période de développement sans pareils pour l'époque de nouveaux canaux de communication. L'avènement des grands réseaux sociaux tout comme les grandes plateformes d'hébergement et de partage de contenus vont permettre une nouvelle façon de dialoguer. Et parmi les nouvelles pratiques permises par ceux-ci, on trouve de nouvelles formes d'écriture, qui renouvellent aussi bien la façon d’écrire que le but des productions : écriture collaborative, écriture fragmentaire, mais aussi une écriture qui peut, à la manière d'une trainée de poudre, se répandre bien au-delà de leurs sphères de productions. Parmi celle-ci, on trouve une écriture simple, et relativement courte, prenant la forme d'un court témoignage, qui rapidement vire au cauchemar : les creepypastas. 
 	
 
@@ -57,7 +149,8 @@
 	\par
 	Cette première définition permet de souligner la dualité intrinsèque des CP : d'une part elles sont définies par leur aptitude à effrayer le lecteur (le caractère horrifique), et d'autre part par leur capacité à être transmise sur différents canaux. 
 	
-\section*{I.	Les caractéristiques formelles des CP}
+\part{Qu'est-ce-qu'une Creepypasta ?}
+\chapter{Un genre hybride}
 	
 \par
 D’un point de vue formel, il est possible d’identifier deux caractéristiques prédominantes des CP : ce sont des productions écrites courtes et qui appuient leur narration sur la première personne. Le récit des CP prend souvent la forme d’un témoignage, d’une histoire rapportée, justifiant le rapprochement avec le folklore et les légendes urbaines\footcite{blank_slender_2018}. L’usage de la première personne est d’autant plus important car, à l’instar du folklore ou de la légende urbaine, l’histoire, et sa narration, joue avec la frontière située entre la fiction et la réalité. 
@@ -115,10 +208,10 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 
 
 
-\section*{II.Les CP,du pareil au mème ?  :  un genre aux trajectoire multiples}
+\chapter[Les CP : du pareil au mème ? ]{Les CP, du pareil au mème ?  :  un genre aux trajectoire multiples}
 	
 	Cette notion de parcours, de trajectoire nous permet de revenir au second élément de définition d’une CP. Nous avons mentionné jusqu’ici l’importance de la forme, du caractère terrifiant, percutant et facilement réplicable. Ce dernier élément rentre dans les faits à son tour dans une définition des CP comme une production qui est faite pour être partagé et copié. Cette définition d’un élément textuel ou plus globalement culturel qui existe dans le but d’être copié, est celle d’un même comme défini par Richard Dawkins dans les années 1970.\footcite{dawkins_gene_2003}
-	\subsection*{Les CP comme mème}
+	\section{Les CP comme mème}
 	R.Dawkins définit le mème en étendant la conception du gène à un élément culturel, et non plus simplement biologique : le mème à l’instar du gène, est un réplicateur, qui ne se transmet non pas par les gamètes, mais par imitation d’un autre membre du groupe d’appartenance. Pour ce qui est d’une CP, il est difficile de ne pas la concevoir comme un mème tant sa raison d’être est d’être imité, comme l’origine du mot le laisse sous-entendre. 
 	Ainsi, il convient de se demander à l’instar d’un gène, comment une CP survie dans le ‘pool de CP’(sic) pour reprendre l’expression de Dawkins ? 
 	Les 3 caractéristique que souligne l’auteur sont : la longévité, la fécondité, et la fidélité de copie. Parmi ces caractéristiques, R. Dawkins exclut rapidement la première, en considérant que la question de la longévité importe peu : tant qu’une copie existe qu’importe la durée de vie d’une copie\footnote{« La longévité de n’importe quelle copie d’un mème est probablement relativement peu importante, comme c’est le cas pour n’importe quelle copie d’un gène. » \cite[voir p.218]{dawkins_gene_2003}}. Néanmoins dans notre cas, la question de la longévité est cruciale : Internet n’agit pas comme une archive sans fin. Au contraire, il est assez fréquent que des productions nativement numériques disparaissent\footnote{C'est le cas par exemple de l'\emph{ARG} \emph{This house has people in it}, jeu de piste en ligne dont la grande majorité des ressources sont aujourd'hui indisponibles}. 
@@ -127,13 +220,13 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 
  Les deux autres caractéristiques sont toutes aussi importantes : est-il possible de mesurer cette fécondité ? Si la fécondité d’un mème scientifique est mesurée par son nombre de citation, est-il possible d’identifier de quoi quantifier cette fécondité pour les CP ? De même pour la fidélité, il serait intéressant de voir comment une ou plusieurs CP ont pu subir transformations et changements au cours de leur existence. Enfin, toujours dans le cadre théorique du mème, il serait intéressant de voir si la fécondité est liée à certaines caractéristiques textuelles. Autrement dit, il serait intéressant de voir s’il existe certains tropes ou façon de faire d’un point de vue littéraire qui agissent sur la survie ou réussite d’une CP.
 	
-	\subsubsection*{Les différentes trajectoire d'une CP}
+	\subsection{Les différentes trajectoire d'une CP}
 	
 	Ces 3 caractéristiques constituent une première base, mais ne représente pas une fin en soi. En effet, ces caractéristiques assez générales ne permettent pas de rendre compte de la diversité des trajectoires potentielles d’un mème et par extension d’une CP .
 	
 	Par définition, la CP est transmise par simple copier-coller : une fois produite sur un forum donné (par exemple \emph{4Chan}), celle-ci se retrouve copiée puis collée sur le même forum, ou dans le cas échéant sur d’autres forums. Cette forme de transmission (forme historique du genre) était particulièrement pertinente à une époque où les forums ne pouvaient archiver indéfiniment les publications (c’est le cas de \emph{4Chan}, berceau de bon nombre de CP devenue aujourd’hui incontournable, où les posts, après 24h d'inactivité, se voient supprimé) : le copier-coller était donc un moyen de survie pour les CP. 
 	
-	\paragraph*{Les super CP}
+	\subsubsection{Les super CP}
 	
 	Afin d'illustrer ce principe, prenons l'exemple d'une des CP les plus emblématiques : SCP-173\footnote{\url{http://fondationscp.wikidot.com/scp-173}}
 	
@@ -162,7 +255,7 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	Il n'existe que trois exemples de cette trajectoire : SCP-173 et la \emph{Fondation SCP}, les \emph{Backrooms} et \emph{Slenderman}. 
 	Ces trois cas suivent une trajectoire similaire: une première publication sur un forum (respectivement \emph{4Chan} et \emph{SomethingAwful}), une vague importante de réaction sur ce même forum, puis une "exportation" vers une plateforme dédiée. Si la trajectoire globale est la même, chacune de ces CP a des caractéristiques formelles et "trajectorielle" propre (changement de forme et/ou de média).
 	
-	\paragraph*{Les CP historiques}
+	\subsubsection{Les CP historiques}
 	
 	Alors que toutes les CP ne suivent pas la même trajectoire qui restent largement exceptionnelles, certaines productions, dès les débuts de ce genre, ont laissé une empreinte indélébile sur le lectorat. Elles se sont hissées au rang de références, d'histoires marquantes qui ont contribué à définir le genre. 
 	
@@ -170,7 +263,7 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	\textit{Ben Drowned}, que nous avons mentionné plus tôt, est un exemple de cette trajectoire : en plus de sa navigation sur différents forums, de nombreux utilisateurs, sur Youtube par exemple, utilise les images du jeux présentes dans la CP originale pour illustrer tout en narrant l'histoire associée\footnote{Voir par exemple \url{https://www.youtube.com/watch?v=2o7lcKHjdoQ\&pp=ygULYmVuIGRyb3duZWQ\%3D}}, ou ont cherché à expliquer, approfondir l'expérience\footnote{\url{https://www.youtube.com/watch?v=QJlqY1O4B00}}.
 	On peut citer, à titre d'exemple, les CP \emph{le syndrome de Lavanville} \footnote{\url{https://creepypasta.fandom.com/wiki/Lavender_Town_Syndrome}} qui évoque une rumeur sur la musique d'une version d'un jeu Pokémon, ou encore \emph{Squidward's Suicide} \footnote{\url{https://creepypasta.fandom.com/wiki/Squidward\%27s_Suicide}}, histoire d'un épisode disparu du dessin-animé \emph{Bob l'Éponge}.
 
-	\paragraph*{Le reste des productions}
+	\subsubsection{Le reste des productions}
 	
 	Aujourd’hui néanmoins les différentes plateformes ne sont plus assujetties à une telle limite : ce faisant le mode de production et de diffusion des CP a évolué.
 	Désormais, l’écrasante majorité des CP est produite sur des forums et sites dédiés (sans que cela soit néanmoins nécessaire, comme le montre l'exemple récent des \emph{Backrooms}, apparu la première fois sur \emph{4Chan}). Les deux pôles principaux de productions de CP sont aujourd'hui le \emph{subreddit} r/nosleep \footnote{\url{https://www.reddit.com/r/nosleep/}} et le fandom Creepypasta \footnote{\url{https://creepypasta.fandom.com/}}. 
@@ -185,7 +278,7 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	Avant de rentrer dans la description des règles de ces plateformes, l'existence même de celles-ci est intéressante : il existe désormais une attente liée à la littérarité des CP. Cette littérarité, comme nous l'avons laissé sous-entendre, n'est pas évidente : des productions anonymes sur des canaux de diffusion nouveaux et souffrant encore d'un manque de légitimité sont autant d'indice quant à un décalage entre les productions littéraires patrimoniales et les productions numériques.
 	
 	La question de la littérarité ("c'est-à-dire ce qui fait d'une œuvre donnée une œuvre littéraire" \footcite{aron_litterature_1984}) est, d'un point de vue quantitatif (et donc du point de vue de la forme et non du fond), définissable sous différentes formes: le but est de mettre en avant une complexité textuelle caractéristique des œuvres littéraires, des caractéristiques qui différencieraient les textes de simple publication sur un forum.
-	De précédentes recherches ont montré à la fois la capacité à modéliser la littérarité\footcite{koolen_literary_2020} et quels éléments du texte pouvaient servir à l'évaluation de la littérarité\footcite{van_cranenburgh_identifying_2015}. Dans le cadre de notre étude, nous commencerons par voir si des indices plus simples et plus facilement obtenables suffisent à caractériser le caractère littéraire des productions, sans exclure la possibilité future d'appliquer les dotes méthodes.
+	De précédentes recherches ont montré à la fois la capacité à modéliser la littérarité\footcite{koolen_literary_2020} et quels éléments du texte pouvaient servir à l'évaluation de la littérarité\footcite{van_cranenburgh_identifying_2015}. Dans le cadre de notre étude, nous commencerons par voir si des indices plus simples et plus facilement obtenables suffisent à caractériser le caractère littéraire des productions, sans exclure la possibilité future d'appliquer les dites méthodes.
 
 	La première hypothèse qu'il est possible d'émettre tiens à la sédimentation du genre : avec l'apparition d'attentes liées à la qualité, on peut conjecturer l'apparition ou la croissance de la littérarité des textes avec le temps.
 	
@@ -198,8 +291,10 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	En plus de l'étude de l'évolution dans le temps, il peut être intéressant de déterminer si ces différents indices de littérarité évoluent ou sont présents/absents de la même manière sur les différentes plateformes : cette analyse permettra de dresser la présence ou l'absence de similarité dans la forme au sein des différentes plateformes, et donc de déterminer une forme d'autorité propre à chaque plateforme.\footcite{mayer_autorite_2017}. 
 	Enfin, une dernière comparaison apparait comme féconde : à défaut d'avoir une indication quantitative du succès des publications sur le fandom, une donnée qualitative (le caractère "historique") va nous permettre d'isoler un sous-corpus.  L'existence de ce corpus nous permettra de tester les hypothèses d'évolutions plus en profondeur: est-ce que ces CP ont émergé au sein d'une tendance, ou est-ce qu'au contraire, ce sont elles qui ont permis l'émergence d'une tendance ? 
 	
-	
-	\section*{Récupération des données}
+	%% PROBLÉMATIQUES
+	%% DOubles => caractérisation du fond et  de la forme d'un genre hybride, entre codes littéraires et viralité. => explication de la viralité :  Peut-on expliquer le succès de ces histoires à travers leurs caractéristiques textuelles ? 
+	%% Un genre fortement codifié : (plus tard) comme on a les règles est il possible de voir comment les histoires à succès se contrsuient par rapport à elles ? Sont-elles à l'origines des règles ou au contraire est-ce que les règles entraînent l'émergence de poit de référence ? 
+		\part{Récupération des données}
 	
 	La récupération des données a nécessité une méthode différente pour chacune des plateformes.  En effet, le moissonnage des données présentes sur le web est dépendant à la fois de la forme de la plateforme et des données qui y sont présentes tout comme de la potentielle politique d'utilisation et de récupération de celle-ci. 
 	
@@ -230,9 +325,9 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	La base de données se présente en premier lieu sous la forme d'une base SQL, que nous avons converti en un format tabulaire (csv à nouveau) pour une utilisation plus facile. 
 
 		
-	\section*{Premiers résultats}
+	\part{Premiers résultats}
 	
-	\subsubsection*{Exploration et visualisation}
+	\chapter{Exploration et visualisation}
 	%Exploration
 	%% Nombre, répartitions, longueur moyenne, taille des phrase, évolution du nombre dans le temps. 
 	
@@ -255,7 +350,58 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	
 	% La taille comme élément distinctifs principal
 	%topic modelling
-	\subsubsection*{Topic Modelling}
+	\chapter{Topic Modelling}
+	
+	Afin de caractériser au mieux les productions, un bon moyen est d'identifier puis d'analyser les thèmes les plus fréquents. Comme nous l'avons mentionné précédemment, les CP se démarquent d'une part par leur forme, mais aussi les thèmes précis (numérique, vie de tous les jours...). Ainsi cette analyse va nous permettre de vérifier cette hypothèse à l'échelle du corpus et non pas de quelques exemples marquants. 
+
+	Pour ce faire, nous avons employé une méthode de Topic Modelling basée sur une vectorisation TF-IDF des textes du corpus puis d'une détection de communauté en utilisant de l'algorithme de Louvain afin d'isoler les communautés sémantiques comptant le plus de documents. 
+	
+	Par cette méthode nous avons isolé douze thèmes suivants (cf. figure 4.1) : 
+	\begin{itemize}
+		\item le sommeil
+		\item la douleur physique
+		\item les animaux de compagnie
+		\item la voiture, transport automobile
+		\item l'enfance
+		\item la famille
+		\item la jeunesse (école, amitié...)
+		\item les jeux-vidéos, la technologie
+		\item la forêt
+		\item miroir et reflet
+		\item les araignés
+		\item expériences traumatiques\\
+	\end{itemize}
+
+		\begin{figure}
+		\centering
+		\begin{minipage}[b]{0.45\textwidth}
+			\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/tf_idf_topic_corpus_variables.png}
+			\caption{Topic les plus fréquents sur l'ensemble du corpus}
+			\label{fig:image3}
+		\end{minipage}
+		\hfill
+		\begin{minipage}[b]{0.45\textwidth}
+			\includegraphics[width=\textwidth]{//Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/tf_idf_topic_tmdb.png}
+			\caption{Topic les plus fréquents des films d'horreur de \emph{TheMovieDataBase}}
+			\label{fig:image4}
+		\end{minipage}
+	\end{figure}
+
+
+	Parmi ces thèmes, on remarque ceux précédemment évoqués : la technologie et les jeux-vidéos et l'enfance à travers la famille. D'autres thèmes néanmoins sont peut être moins attendu, plus surprenant pour des productions à vocation horrifiques : si les araignées et la souffrance physique, le traumatisme sont attendus, l'importance de la famille par deux thèmes distincts ou bien les animaux de compagnie sont remarquables. 
+	Ces thèmes apparaissent comme ayant un point commun : un rapport étroit avec l'expérience personnelle. La famille, la souffrance, et le foyer sont autant d'élément relevant de l'intime. 
+	De la même façon le miroir ou la forêt mobilisent un symbolisme assez proche : le miroir d'abord est un lieu de révélation, de prise de conscience, voire d'affrontement \footcite[voir p.639, article "Miroir"]{chevalier_dictionnaire_1990}, là où la forêt est un lieu symbole de l'inconscient et de la crainte de celui-ci, comme plus prosaïquement, un lieu de mystère \footcite[voir p.455, article "Forêt"]{chevalier_dictionnaire_1990}
+	
+	Afin de souligner à quel point ces thèmes sont caractéristiques de ce genre de littérature d'horreur, nous avons chercher à identifier les thèmes les plus récurrents des productions cinématographiques d'horreur.
+	Pour ce faire, nous avons suivi la même méthode d'extraction des thèmes cette fois-ci sur un ensemble de description de films d'horreur extraits de la base de données \textit{The Movie Data Base}\footnote{\url{https://www.themoviedb.org/}} (cf. Figure 4.2)	
+	La différence entre les thèmes est flagrante : si les CP évoquent en filigrane l'expérience personnelle, le foyer, l'intimité , les films d'horreurs sont plus facilement tournés vers le spectaculaire et le surnaturel (zombie, expérience scientifique, religion, vampire). 
+	Ainsi l'hypothèse d'un genre caractérisé par un lien étroit avec l'intimité et l'expérience semble se confirmer : le frisson de l'horeur ne passe que rarement par des effusions de sang, mais bien par quelque chose de plus subtil.
+	
+	Notons aussi que cette caractérisation n'est pas dépendante de la plateforme d'origine : à quelques différences près, les thèmes présents sur les deux plateformes sont les mêmes (cf. Figure 4.3 et Figure 4.4). 
+	
+	
+	
+
 	
 		\begin{figure}
 			\centering
@@ -271,52 +417,32 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 				\label{fig:image2}
 			\end{minipage}
 		\end{figure}
+
 		
-	
+		
+
 	% richesse lexicale et lisibilité
-	\subsubsection*{Richesse Lexicale et indice de lisibilité}
+	\chapter{Richesse Lexicale et indice de lisibilité}
 	
-	%Lisibilité stable au cours du temps, pas d'évolution de ce côté là
+% Lisibilité : une score faible => une littérature accessible
+	Une manière de mesurer le caractère littéraire d'une oeuvre réside dans la mesure de sa complexité. Mesurer la complexité d'un texte peut se faire de plusieurs manière. Dans une perspective quantitative, nous avons selectionné deux types d'indicateurs : les indices de lisibilités et les indices de richesses lexicales. 
+	Pour rendre l'étude de ces indices plus pertinentes, les résultats seront comparés à nouveau au corpus Web et de littérature anglaise.
 	
-	%Relativemetn peu de différence entre les plateformes
+	\section{Les indices de lisibilités} 
+	Les indices de lisibilités sont des indices calculé aafin de mesurer la difficulté de lire un texte. Le plus souvent, la valeur de ces indices est associées à un niveau scolaire : en effet, ces indices sont souvent un moyen de rendre compte de la diffuclté d'un texte dans le cadre scolaire. 
+	En ce qui nous concerne, notre but est d'une part de caractériser la lisibilité des CP, tout en rendant compte de la difficylté relative de lecture. Comme nous l'avons mentionné précédemment, nous faisons l'hypothèse d'une lisibilité relativement élevée, en lien avec une prétention grandissante à la littérarité. Nous nous attendons donc à voir apparaître une lisibilité plus élevés (c'est à dire une plus grande difficulté de lecture) vis à vis du corpus Web, mais plus fiable vis à vis du corpus littéraire.
 	
-	%Différence majuer avec un corpus du web
-	\begin{figure}
-		\centering
-		\begin{minipage}[b]{0.45\textwidth}
-			\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/indice_lisibilite_source.png}
-			\caption{Comparaison des indices de lisibilité en fonction de la plateforme}
-			\label{fig:image1}
-		\end{minipage}
-		\hfill
-		\begin{minipage}[b]{0.45\textwidth}
-			\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/indice_richess_lexicale_source.png}
-			\caption{Comparaison des indices de richesse lexicale en fonction de la plateforme}
-			\label{fig:image2}
-		\end{minipage}
-	\end{figure}
-	% La richesse lexicale
-	\begin{figure}
-		\centering
-		\begin{minipage}[b]{0.45\textwidth}
-			\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/indice_lisibilite_historique.png}
-			\caption{Comparaison des indices de lisibilité en fonction de la viralité}
-			\label{fig:image1}o
-		\end{minipage}
-		\hfill
-		\begin{minipage}[b]{0.45\textwidth}
-			\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/indice_richess_lexicale_historique.png}
-			\caption{Comparaison des indices de richesse lexicale en fonction de la viralité}
-			\label{fig:image2}
-		\end{minipage}
-	\end{figure}
+	
+	%Comparaison des richesse lexicales 
+	\section{Les indices de richesse lexicales}
+	%Comparaison de la lisibilité  => Plus facilement lisible que de la litt et que le web en moyenne (à nuancer)
+	Autres formes de mesure, les indices de richesse lexicale nous permettent d'entrevoir la littérarité à travers le prisme du vocabulaire :
+	CCL : pas ultra pertinent les hapax dans des textes courts sont pas top top .
+	%Une littérautre qui à tendance à ne pas se littérariser
+	
+	\chapter{Emotions}
 
-\begin{figure}
-	\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/comparaison_lisibilité_web.png}
-	\caption{Comparaison des indices de lisibilité entre les CP et un corpus Web}
-\end{figure}
-
-
+\chapter{Regression Logistiques  }
 	%A faire  
 	% En prenant certaine CP voir si on peut noter une plus grande proiximité entre les textes produit au même moment et les autres 
 	% Histoire de voire leur influence sur les productions (ou l'absence d'influence directe???)
@@ -328,8 +454,8 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	
 	\pagebreak
 
-	\section{Annexe}
-	\subsubsection{Les indices de lisibilité}
+	\part{Annexe}
+	\section*{Les indices de lisibilité}
 \begin{itemize}
 		
 	\item Flesch Reading Ease : Évalue la facilité de lecture en se basant sur le nombre de mots par phrase et de syllabes par mot. Un score élevé (de 0 à 100) indique une lecture plus facile, tandis qu'un score bas indique un texte plus difficile.
@@ -350,7 +476,7 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 
 \end{itemize}	
 
-	\subsubsection{Les indices de richesse lexicale}
+	\section*{Les indices de richesse lexicale}
 	\begin{itemize}
 		
 	\item Ratio Types/Tokens : Évalue la richesse lexicale en comparant le nombre total de mots distincts au nombre total de mots. Un ratio élevé indique une plus grande variété de mots utilisés.
