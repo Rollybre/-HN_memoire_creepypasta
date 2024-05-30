@@ -50,6 +50,35 @@
       \verb https://www.youtube.com/watch?v=C8d12w6pMos
       \endverb
     \endentry
+    \entry{king_anatomie_2020}{book}{}
+      \name{translator}{1}{}{%
+        {{hash=03d758a53613aca4f9242679b1054406}{%
+           family={Brèque},
+           familyi={B\bibinitperiod},
+           given={Jean-Daniel},
+           giveni={J\bibinithyphendelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Librairie Générale Française}%
+      }
+      \strng{translatorbibnamehash}{03d758a53613aca4f9242679b1054406}
+      \strng{translatornamehash}{03d758a53613aca4f9242679b1054406}
+      \strng{translatorfullhash}{03d758a53613aca4f9242679b1054406}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-253-26056-1}
+      \field{note}{OCLC: 1201255070}
+      \field{title}{Anatomie de l'horreur}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
     \entry{aron_litterature_1984}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=fda7a4d69482951bc33e6978f7a57c4c}{%
@@ -348,7 +377,6 @@
       \field{urlyear}{2024}
       \field{year}{2020}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.5281/ZENODO.3608134
       \endverb
@@ -2013,7 +2041,6 @@
       \field{labeltitlesource}{title}
       \field{title}{The {Blair} {Witch} {Project}}
       \field{year}{1999}
-      \true{nocite}
     \endentry
     \entry{noauthor_nosleep_nodate}{misc}{}
       \field{sortinit}{n}
@@ -2479,7 +2506,6 @@
       \field{series}{Collection {Poétique}}
       \field{title}{Introductin à la littérature fantastique}
       \field{year}{1992}
-      \true{nocite}
     \endentry
     \entry{tripathy_towards_2013}{article}{}
       \name{author}{3}{}{%

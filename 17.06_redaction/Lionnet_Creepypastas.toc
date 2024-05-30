@@ -1,1 +1,30 @@
 \babel@toc {french}{}\relax 
+\contentsline {chapter}{Résumé}{1}{Doc-Start}%
+\contentsline {chapter}{Abstract}{1}{Doc-Start}%
+\contentsline {chapter}{Remerciements}{2}{Doc-Start}%
+\contentsline {part}{I\hspace {1em}Qu'est-ce-qu'une Creepypasta ?}{7}{part.1}%
+\contentsline {chapter}{\numberline {1}Un genre hybride}{8}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Les CP : du pareil au mème ? }{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Les CP comme mème}{13}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Les différentes trajectoire d'une CP}{14}{subsection.2.1.1}%
+\contentsline {subsubsection}{Les super CP}{15}{subsection.2.1.1}%
+\contentsline {subsubsection}{Les CP historiques}{16}{figure.caption.4}%
+\contentsline {subsubsection}{Le reste des productions}{17}{figure.caption.4}%
+\contentsline {part}{II\hspace {1em}Récupération des données}{20}{part.2}%
+\contentsline {part}{III\hspace {1em}Premiers résultats}{24}{part.3}%
+\contentsline {chapter}{\numberline {3}Caractérisation des Creepypastas}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Topic Modelling}{25}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Richesse Lexicale et indice de lisibilité}{27}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Les indices de lisibilités}{28}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Les indices de richesse lexicales}{30}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Emotions}{30}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}La polarité}{31}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Les sentiments}{32}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Conclusion}{32}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Expliquer le succès}{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Identification des variables pertinentes}{33}{section.4.1}%
+\contentsline {section}{\numberline {4.2}résultats de la regression}{35}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Les scores globaux}{35}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Les variables explicatives}{35}{subsection.4.2.2}%
+\contentsline {part}{IV\hspace {1em}Conclusions, et perspectives futures}{37}{part.4}%
+\contentsline {part}{V\hspace {1em}Annexe}{38}{part.5}%

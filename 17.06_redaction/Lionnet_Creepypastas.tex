@@ -137,8 +137,12 @@
 
 
 \clearpage
+
 \thispagestyle{empty}
 \cleardoublepage
+
+\tableofcontents
+
 \chapter*{Introduction}
 
 Le début des années 2000 marque l’entrée d’Internet dans la seconde phase de son existence : le Web 2.0 correspond à une période de développement sans pareils pour l’époque de nouveaux canaux de communication. L’avènement des grands réseaux sociaux tout comme les grandes plateformes d’hébergement et de partage de contenus vont permettre une nouvelle façon de dialoguer. Et parmi les nouvelles pratiques permises par ceux-ci, on trouve de nouvelles formes d'écriture, qui renouvellent aussi bien la façon d’écrire que le but des productions : écriture collaborative, écriture fragmentaire, mais aussi une écriture qui peut, à la manière d'une trainée de poudre, se répandre bien au-delà de leurs sphères de productions. Parmi celle-ci, on trouve une écriture simple, et relativement courte, prenant la forme d'un court témoignage, qui rapidement vire au cauchemar : les creepypastas. 
@@ -165,7 +169,7 @@ Le début des années 2000 marque l’entrée d’Internet dans la seconde phase
 \par
 D’un point de vue formel, il est possible d’identifier deux caractéristiques prédominantes des CP : ce sont des productions écrites courtes et qui appuient leur narration sur la première personne. Le récit des CP prend souvent la forme d’un témoignage, d’une histoire rapportée, justifiant le rapprochement avec le folklore et les légendes urbaines\footcite{blank_slender_2018}. L’usage de la première personne est d’autant plus important car, à l’instar du folklore ou de la légende urbaine, l’histoire, et sa narration, joue avec la frontière située entre la fiction et la réalité. 
 \par
-La plupart des CP suivent un même schéma : un narrateur souvent intradiégétique rapporte une histoire qu’il aurait vécu. Cette histoire commence souvent de façon anodine voire trivial (vie de tous les jours, quotidien banal…), puis prend un tournant troublant voire terrifiant. 
+La plupart des CP suivent un même schéma : un narrateur souvent intradiégétique rapporte une histoire qu’il aurait vécu. Cette histoire commence généralement de façon anodine voire trivial (vie de tous les jours, quotidien banal…), puis prend un tournant troublant voire terrifiant. 
 Ce schéma n’est pas sans rappeler un autre genre littéraire: la littérature fantastique. La distance entre un personnage \emph{a priori} banal et un événement hors-du-commun est à la base aussi bien de la littérature fantastique que de l’esthétique des CP. \newline
 T. Todorov, dans son \emph{Introduction à la littérature fantastique}\footcite{todorov_introductin_1992} propose comme première définition du genre fantastique cette dichotomie: 
 
@@ -189,7 +193,7 @@ La perversion du numérique que cela soit du jeux-vidéo en passant par les vid�
 \par
 Ainsi la mobilisation du genre de l’\emph{Analog Horror }est assez fréquente. 
 
-Ce genre de l’horreur s’appuie sur une déformation et/ou sur la perversion de l’outil numérique dans toute sa diversité, dans le but de créer un climat dérangeant né du contraste entre l’aspect réconfortant du numérique et sa déformation\footcite{balanzategui_creepypasta_2019}. 
+Ce genre de l’horreur s’appuie sur une déformation et/ou sur la perversion de l’outil numérique dans toute sa diversité, dans le but de créer un climat dérangeant né du contraste entre l’aspect réconfortant du numérique et sa déformation\footcite{balanzategui_creepypasta_2019}. [CITER S. KING SUR LA PEUR ET LA TERREUR COMME ÉLÉMENT GÉNÉRALTIONNEL]
 \par
 On peut trouver une bonne illustration de ce phénomène dans les productions du type \textit{Found Footage}. Ces productions prennent la forme de vidéos, souvent déclarées comme des vidéos perdues puis retrouvées par un tiers. La vidéo réplique souvent le format VHS. Le format VHS est une norme d'enregistrement vidéo sur bande magnétique, en l'occurrence la cassette. Si la majorité des consommateurs (nous reviendrons plus tard sur ceux-ci) aujourd'hui n'ont pas connu directement l'âge d'or des VHS, celle-ci est facilement associé aux productions remontant à l'époque de leur parents, et donc potentiellement aux premières expériences de visualisation de contenu vidéo durant l'enfance, faisant ainsi du format VHS un vecteur de nostalgie.
 
@@ -332,8 +336,7 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	
 	S'il est possible de considérer que les presque 14000 produtions récupérées sont suffisantes, le désiquilibre important entre les corpus risque de biaiser les résultats. De plus, le fait d'avoir sélectionné les productions les mieux notées de la plateformer reddit est intéréssant, mais risque là encore de mener à un biais important quant à la cractérisation des corpus : on peut supposer que les caractéristiques textuelles des meilleures production ne refletenet pas nécéssairement les caractéristiques de toutes la plateforme.
 	
-	Une recherche plus approfondie nous a permis de découvrir la base de données Pushshift\footcite{baumgartner_pushshift_2020}, base de données recensant les productions de l'ensemble des subreddit de 2005 à 2019\footnote{Je tiens à remercier particulièrement M. Armin Pournaki pour m'avoir aiguillé dans mes recherches}. Ainsi de 1000 publications, nous avons été capable de récupérer pas loin de 190000 publications\footnote{le total de publication s'élève dans les fait à 385668 productions. Néanmoins plus la moitié a été supprimé ou retiré de la plateforme.}, nous permettant par la même de déterminer le nombre de production totale sur cette période.
-	
+	Une recherche plus approfondie nous a permis de découvrir la base de données Pushshift\footcite{baumgartner_pushshift_2020}, base de données recensant les productions de l'ensemble des subreddit de 2005 à 2019\footnote{Je tiens à remercier particulièrement M. Armin Pournaki pour m'avoir aiguillé dans mes recherches}. Ainsi de 1000 publications, nous avons été capable de récupérer pas loin de 190000 publications\footnote{le total de publication s'élève dans les fait à 385668 productions. Néanmoins plus la moitié a été supprimé ou retiré de la plateforme.}, nous permettant par la même de déterminer le nombre de production totale sur cette période. [ECHANTILLONANNAGE]	
 	La base de données se présente en premier lieu sous la forme d'une base SQL, que nous avons converti en un format tabulaire (csv à nouveau) pour une utilisation plus facile. 
 
 		
@@ -347,13 +350,15 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 		\centering
 		\caption{Comparaison des moyennes et écarts types de la taille moyenne des phrases dans les différents corpus}
 		\label{tab:corpus_comparison_metriques}
-		\begin{tabular}{|l|c|c|c|c|c|}
-			\hline
-			& Corpus\_CP & Reddit & CP\_fandom & Littérature Anglaise & Web\\ \hline
-			Moyenne & 14.55 & 14.75 & 14.28 & 20.63 & 19.27 \\ \hline
-			Écart type & 3.53 & 3.58 & 3.46 & 5.56 & 8.66 \\ \hline
-			Min & 4.50 & 4.50 & 4.53 & 11.01 & 2.60 \\ \hline
-			Max & 25.18 & 25.18 & 25.09 & 39.02 & 215.00 \\ \hline
+		\begin{tabular}{lccccc}
+			\toprule
+			& Corpus\_CP & Reddit & CP\_fandom & Littérature Anglaise & Web\\ 
+			\midrule
+			Moyenne & 14.55 & 14.75 & 14.28 & 20.63 & 19.27 \\ 
+			Écart type & 3.53 & 3.58 & 3.46 & 5.56 & 8.66 \\ 
+			Min & 4.50 & 4.50 & 4.53 & 11.01 & 2.60 \\ 
+			Max & 25.18 & 25.18 & 25.09 & 39.02 & 215.00 \\ 
+			\bottomrule
 		\end{tabular}
 	\end{table}
 	
@@ -362,6 +367,7 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	% La taille comme élément distinctifs principal
 	%topic modelling
 	\section{Topic Modelling}
+	\label{section_topic}
 	
 	Afin de caractériser au mieux les productions, un bon moyen est d'identifier puis d'analyser les thèmes les plus fréquents. Comme nous l'avons mentionné précédemment, les CP se démarquent d'une part par leur forme, mais aussi les thèmes précis (numérique, vie de tous les jours...). Ainsi cette analyse va nous permettre de vérifier cette hypothèse à l'échelle du corpus et non pas de quelques exemples marquants. 
 
@@ -522,19 +528,65 @@ Intuitivement nous avons cherché à utiliser cette mesure pour souligner, de la
 
 \subsection{La polarité}
 On remarque rapidement que, la polarité attendues, c'est à dire la polarité négative, n'est que très légèrement supérieur à la polarité positive :  la dispersion de la polarité est plus importante (il existe des textes qui sont "plus négatif" que le maximum de positif). 
-Une hypoth§se possible quant à cette répartition de la polarité presque égale tient au fonctionnement de ces histoires : les éléments négatifs caractéristiques, qui amènent la peur et le doute, n'apparaissent que relativement tard narrativement parlant, et ne 
+Une hypothèse possible quant à cette répartition de la polarité presque égale tient au fonctionnement de ces histoires : les éléments négatifs caractéristiques, qui amènent la peur et le doute, n'apparaissent que relativement tard narrativement parlant. A l'instar des nouvelles fantastiques, comme nous l'avons précédemment mentionné, le caractère horrifique des CP tient à une situation 'normale"  qui se voit perturbé. Comme nous l'avons noté aussi, la perturbation n'est pas des plus brutale, du moins en ce qui concerne le vocabulaire (cf \ref{section_topic}). ces éléments peuvent expliquer la question de la polarité.
 	
 
 \subsection{Les sentiments}
+Pour ce qui est des sentiments les résultats sont puet être plus attendu. On retrouve deux émotions forte : la peur naturellement, et l'anticipation.  Pour ce qui est l'anticipation on peut attribuer cette valeur à nouveau au fonctionnement des CP : une fois la perturbation ou l'élément déclencheur atteint, le doute et donc l'attente d'une résolution va venir prendre la place de la joie par exemple.
+La relative faiblesse des scores du dégout de la surprise ou de la colère nous permet d'étayer l'hypothèse selon laquelle les CP se construiraient presque en opposition aux stéréotypes de l'horreur : la surprise et le dégout, associé à un tueur sanguinaire assoifé de sang laisse sa place à l'attente et l'incompréhension.
 
 
-\chapter{Regression Logistique}
+\section{Conclusion}
+Ce panorama d'outil et de métriques obtenues par méthodes computationelles nous permet de mieux saisir certains éléments de caractérisation des CP. 
+\par
+D'un point de vue syntaxique et formel tout d'abord,  les CP brillent par leur simplicité : les productions sont très courtes, et accesible. Les phrases courtes et le vocabulaire simple rendent les texte lisibles par le plus grand nombre, ce qui est en accord avec un des éléments de définitions des CP : le rapport à la viralité.
+
+\par Concernant les thèmes, nous avons pu observer 
+
+\par Enfin ces différentes observations nous permettent d'avancer l'idée d'une certaine subtilité dans les productions : le but n'est pas tant de faire sursauter, d'en appeler au gore, mais bien de questionner, de déstabiliser, en mettant en scène le quotidien et l'expérience personelle, facilitant ainsi l'immersion du lecteur dans le texte.
+
+
+
+
+\chapter[Expliquer le succès]{Expliquer le succès : une tentative de regression logistique}
+
+Toutes les histoires ne se valent pas : au-delà des considérations esthétiques, certaines histoires ont connu une trajectoire plus importante que d'autres. Ce sont les CP historiques que nous avons mentionnés précédemment.
+
+Le but de cette partie est d'explorer les différences entre les deux corpus et de rechercher quels éléments quantitatifs pourraient expliquer le succès d'une histoire par rapport à une autre. Pour ce faire, nous avons procédé en deux temps:
+\begin{itemize}
+\item  Dans un premier temps, nous avons cherché à identifier parmis les les variables calculées précédemment les plus pertinentes pour comprendre les différences entre les histoires. 
+
+\item  Une fois les variables identifiées, nous avons procédé à une analyse statistique pour déterminer l'impact de ces variables sur le succès des histoires. Nous avons utilisé des techniques de régression pour modéliser les relations entre les variables indépendantes (les facteurs identifiés) et la variable dépendante (le succès de l'histoire). 
+\end{itemize}
+
+\section{Identification des variables pertinentes}
+Afin de réaliser une régression pertinente, il convient de sélectionner des variables à la fois pertinentes et décorrélées : en effet, la corrélation des variables peut entraîner des problèmes de multicolinéarité, rendant les coefficients de la régression instables et difficiles à interpréter. Pour ce faire il est nécessaire de réduire le nombre de variable pour ne garder qu'un nombre plus restreint mais plus explicatif. 
+Dans un premier temps nous avons agrégé les indices de lisibilités : après avoir normalisé les valeurs, nous en avons fait la moyenne géométrique afin de produire une nouvelle variables. Avant cela nous avons vérifié la corrélation de ces variables afin de vérifier la pertinence d'une telle agrégation : 
+\begin{figure}[htbp]
+	\centering
+\includegraphics[width=\textwidth]{/Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/corr_read.png}
+\caption{Matrice de corrélation des indices de lisibilités}
+\label{fig_corrread}
+\end{figure}
+
+On remarque que l'indice de Dale-Chall, les autres indices ont un score très élevé de corrélation : Les indices apparaissent donc comme produisant un résultat similaire. 
+Malgré cela,cette agrégation reste artificielle et problématique : une façon plus \og propre\fg{} de procéder consisterait à d'abord vérifier, en plus de la corrélation, la cohérence des indices afin de s'assurer, qu'au delà de la corrélation générale, les indices, au cas par cas, produisent des mesures similaires. Cette nouvelle variable dans notre cas peut être considéré comme un \og proxy \fg{} rapide, dans l'objectif de produire une première analyse statistique.
+
+%la richesse lexicale
+
+Une fois cette fusion opérée, la prochaine étape est de vérifier quelles variables sont les plus pertinentes  : cette fois ci la question se pose audelà des indices mesurant la même chose. Afin de sélectionner les variables les plus pertinentes, nous avons procédés à une première régression dite séquentielle (\emph{stepwise regression}).  Le principe de cette regression est le suivant :l'algorithme part d'une modèle vide et vient ajouter progressivement les variables, tout en mesurant l'effet de la nouvelle variable. Si celle-ci est statistiquement significative elle est conservée. Puis l'inverse est réalisée pour s'assurer de la pertinence des variables sélectionnées : les variables sont enlevées au fur et à mesure tout en suivant la même logique . 
+
+Cette méthode nous permet de réduire le nombre de varibles au nombre de  14 : la lisibilité, la longueur des phrases, la tristesse, la peur, la colère, la joie, la joie, la surprise, l'attente, le positif et les topics 2, 3, 4, 9 , 12 (respectivement  : la douleur physique, les animaux de compagnie, la voiture, la forêt et les expériences traumatiques). 
+
+Une fois ces variables selectionnées, on applique un algorithme de régression logistique sur notre corpus limités aux-dites variables.
 %Ou comment essayer de voir ce qui marque la différence entre les corpus
+% Aggrégation des variables : problématique, on y reviendra
 % Rapide explication du principe
 %Algorithme de stepwise méthode de recherche progressive pour sélectionner que certaines variables
 % Valeurs intéréssantes
 %Longueur des phrases et lisibilité => les deux points clés
 % Les topics
+\section{résultats de la regression}
 \begin{table}[htbp]
 	\centering
 	\caption{Résultats de la régression logistique}
@@ -543,20 +595,20 @@ Une hypoth§se possible quant à cette répartition de la polarité presque éga
 		& \textbf{Coefficient} & \textbf{Std. Err.} & \textbf{z} & \textbf{P>|z|} \\
 		\midrule
 		const                        & -5.8195 & 0.213 & -27.356 & 0.000 \\
-		mean\_geometric\_readability & 5.7874  & 0.463 & 12.503  & 0.000 \\
+		readability & 5.7874  & 0.463 & 12.503  & 0.000 \\
 		longueur\_phrase             & -2.5806 & 0.404 & -6.380  & 0.000 \\
-		topic\_1                     & -0.6548 & 0.322 & -2.032  & 0.042 \\
+		topic\_douleur\_physique                     & -0.6548 & 0.322 & -2.032  & 0.042 \\
 		sadness                      & 0.5662  & 0.149 & 3.802   & 0.000 \\
 		fear                         & -0.7814 & 0.184 & -4.252  & 0.000 \\
 		anger                        & 0.2779  & 0.147 & 1.888   & 0.059 \\
-		topic\_8                     & 1.0509  & 0.455 & 2.312   & 0.021 \\
-		topic\_3                     & -0.7302 & 0.462 & -1.579  & 0.114 \\
-		topic\_11                    & -1.2659 & 1.005 & -1.260  & 0.208 \\
+		topic\_forêt                     & 1.0509  & 0.455 & 2.312   & 0.021 \\
+		topic\_voiture                   & -0.7302 & 0.462 & -1.579  & 0.114 \\
+		topic\_trauma                 & -1.2659 & 1.005 & -1.260  & 0.208 \\
 		positive                     & -0.4414 & 0.185 & -2.389  & 0.017 \\
 		joy                          & 0.2468  & 0.145 & 1.700   & 0.089 \\
 		anticipation                 & -0.2893 & 0.166 & -1.745  & 0.081 \\
 		surprise                     & 0.1851  & 0.129 & 1.436   & 0.151 \\
-		topic\_2                     & -0.3851 & 0.285 & -1.349  & 0.177 \\
+		topic\_animaux                     & -0.3851 & 0.285 & -1.349  & 0.177 \\
 		\midrule
 		\textbf{Log-Likelihood}      & \multicolumn{4}{c}{-1724.7} \\
 		\textbf{Pseudo R-squared}    & \multicolumn{4}{c}{0.06516} \\
@@ -566,6 +618,12 @@ Une hypoth§se possible quant à cette répartition de la polarité presque éga
 	\label{table:logit}
 \end{table}
 
+\subsection{Les scores globaux}
+
+
+\subsection{Les variables explicatives}
+
+\part{Conclusions, et perspectives futures}
 	
 	\pagebreak
 
@@ -601,15 +659,16 @@ Une hypoth§se possible quant à cette répartition de la polarité presque éga
 		\centering
 		\caption{Équivalents Scolaires (France) et Indices de Lisibilité en Anglais - Partie 1}
 		\resizebox{\textwidth}{!}{%
-			\begin{tabular}{|c|c|c|c|}
-				\hline
-				\textbf{Équivalence Scolaire} & \textbf{Flesch Reading Ease} & \textbf{Flesch-Kincaid Grade Level} & \textbf{Gunning Fog Index} \\ \hline
-				CP - CE1                               & 90-100                           & 1.0-2.0                               & 6.0-7.0                           \\ \hline
-				CE2 - CM1                              & 80-89                            & 3.0-4.0                               & 7.0-8.0                           \\ \hline
-				CM2 - 6ème                              & 70-79                            & 5.0-6.0                               & 8.0-9.0                           \\ \hline
-				5ème - 4ème                             & 60-69                            & 7.0-8.0                               & 9.0-10.0                         \\ \hline
-				3ème - 2nde                             & 50-59                            & 9.0-10.0                              & 10.0-11.0                        \\ \hline
-				1ère - Terminale                        & 30-49                            & 11.0-12.0                             & 11.0-12.0                        \\ \hline
+			\begin{tabular}{cccc}
+				\toprule
+				\textbf{Équivalence Scolaire} & \textbf{Flesch Reading Ease} & \textbf{Flesch-Kincaid Grade Level} & \textbf{Gunning Fog Index} \\ \midrule
+				CP - CE1                               & 90-100                           & 1.0-2.0                               & 6.0-7.0                           \\ 
+				CE2 - CM1                              & 80-89                            & 3.0-4.0                               & 7.0-8.0                           \\ 
+				CM2 - 6ème                              & 70-79                            & 5.0-6.0                               & 8.0-9.0                           \\
+				5ème - 4ème                             & 60-69                            & 7.0-8.0                               & 9.0-10.0                         \\
+				3ème - 2nde                             & 50-59                            & 9.0-10.0                              & 10.0-11.0                        \\ 
+				1ère - Terminale                        & 30-49                            & 11.0-12.0                             & 11.0-12.0                        \\ 
+				\bottomrule
 			\end{tabular}%
 		}
 		\label{tab:readability_indices_part1}
@@ -619,15 +678,16 @@ Une hypoth§se possible quant à cette répartition de la polarité presque éga
 		\centering
 		\caption{Équivalents Scolaires (France) et Indices de Lisibilité en Anglais - Partie 2}
 		\resizebox{\textwidth}{!}{%
-			\begin{tabular}{|c|c|c|c|}
-				\hline
-				\textbf{Équivalence Scolaire} & \textbf{SMOG Index} & \textbf{Automated Readability Index} & \textbf{Coleman-Liau Index} \\ \hline
-				CP - CE1                               & 4.0                               & 1.0-2.0                                     & 1.3-2.8                                 \\ \hline
-				CE2 - CM1                              & 5.0                               & 3.0-4.0                                     & 3.0-4.5                                 \\ \hline
-				CM2 - 6ème                              & 6.0                               & 5.0-6.0                                     & 5.0-6.5                                 \\ \hline
-				5ème - 4ème                             & 7.0                               & 7.0-8.0                                     & 7.0-8.5                                 \\ \hline
-				3ème - 2nde                             & 8.0                               & 9.0-10.0                                    & 9.0-10.5                               \\ \hline
-				1ère - Terminale                        & 9.0                               & 11.0-12.0                                   & 11.0-12.5                             \\ \hline
+			\begin{tabular}{cccc}
+				\toprule
+				\textbf{Équivalence Scolaire} & \textbf{SMOG Index} & \textbf{Automated Readability Index} & \textbf{Coleman-Liau Index} \\ 
+				\midrule
+				CP - CE1                               & 4.0                               & 1.0-2.0                                     & 1.3-2.8                                 \\ 
+				CE2 - CM1                              & 5.0                               & 3.0-4.0                                     & 3.0-4.5                                 \\ 
+				CM2 - 6ème                              & 6.0                               & 5.0-6.0                                     & 5.0-6.5                                 \\ 
+				5ème - 4ème                             & 7.0                               & 7.0-8.0                                     & 7.0-8.5                                 \\ 
+				3ème - 2nde                             & 8.0                               & 9.0-10.0                                    & 9.0-10.5                               \\ 
+				1ère - Terminale                        & 9.0                               & 11.0-12.0                                   & 11.0-12.5                             \\ \bottomrule
 			\end{tabular}%
 		}
 		\label{tab:readability_indices_part2}

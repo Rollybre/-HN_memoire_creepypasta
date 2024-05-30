@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Lionnet_Creepypastas.blg'
-[50] biber-darwin:340> INFO - === Thu May 30, 2024, 14:06:22
-[60] Biber.pm:419> INFO - Reading 'Lionnet_Creepypastas.bcf'
-[124] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[136] Biber.pm:4419> INFO - Processing section 0
-[143] Biber.pm:4610> INFO - Looking for bibtex file 'bibliographie/Creepypasta.bib' for section 0
-[148] bibtex.pm:1713> INFO - LaTeX decoding ...
-[219] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliographie/Creepypasta.bib'
-[439] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[439] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[439] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'fr-FR'
-[439] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
-[492] bbl.pm:660> INFO - Writing 'Lionnet_Creepypastas.bbl' with encoding 'UTF-8'
-[519] bbl.pm:763> INFO - Output to Lionnet_Creepypastas.bbl
+[55] biber-darwin:340> INFO - === Thu May 30, 2024, 19:36:04
+[67] Biber.pm:419> INFO - Reading 'Lionnet_Creepypastas.bcf'
+[132] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[144] Biber.pm:4419> INFO - Processing section 0
+[152] Biber.pm:4610> INFO - Looking for bibtex file 'bibliographie/Creepypasta.bib' for section 0
+[158] bibtex.pm:1713> INFO - LaTeX decoding ...
+[230] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliographie/Creepypasta.bib'
+[460] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[460] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[460] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'fr-FR'
+[460] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
+[516] bbl.pm:660> INFO - Writing 'Lionnet_Creepypastas.bbl' with encoding 'UTF-8'
+[543] bbl.pm:763> INFO - Output to Lionnet_Creepypastas.bbl

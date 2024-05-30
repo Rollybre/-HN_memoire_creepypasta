@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  30 MAY 2024 16:12
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  30 MAY 2024 23:23
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1170,108 +1170,115 @@ Package lettrine.sty Info: Targeted height = 27.918pt
  [2
 
 
-]
+] (./Lionnet_Creepypastas.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 148.
+(Font)              <12> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 148.
+(Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 148.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 148.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 148.
+(Font)              <6> on input line 8.
  [3
 
 
 
+])
+\tf@toc=\write6
+\openout6 = `Lionnet_Creepypastas.toc'.
+
+ [4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 152.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 152.
+ [5
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
-[4] [5
+[6] [7
 
 ]
 Chapitre 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
-[6
+[8
 
-] [7]
+] [9]
 File: ../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustr
 ation/ben_drowned1.jpg Graphic file (type bmp)
 <../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustration
 /ben_drowned1.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--205
+Underfull \hbox (badness 10000) in paragraph at lines 203--209
 \TU/lmr/m/n/12 sur Internet destinées à la diffusion sur Internet.
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 207--208
+Underfull \hbox (badness 1648) in paragraph at lines 211--212
 \TU/lmr/m/n/12 la forme qu’ils prennent : Il n’est pas rare que les
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
-[8] [9] [10]
+[10] [11] [12]
 Chapitre 2.
 
-LaTeX Warning: Citation 'dawkins_gene_2003' on page 11 undefined on input line 
-225.
+LaTeX Warning: Citation 'dawkins_gene_2003' on page 13 undefined on input line 
+229.
 
 
-LaTeX Warning: Citation 'dawkins_gene_2003' on page 11 undefined on input line 
-230.
+LaTeX Warning: Citation 'dawkins_gene_2003' on page 13 undefined on input line 
+234.
 
-[11
+[13
 
-] [12]
+] [14]
 File: ../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustr
 ation/SCP_173.jpg Graphic file (type bmp)
 <../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustration
 /SCP_173.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--259
+Underfull \hbox (badness 10000) in paragraph at lines 263--263
 [][][]\TU/lmr/m/n/10 .[][][]Laura []Goudet[], «   Agentivité de l’horreur, cree
 pypastas et jeu vidéo » (, 2021),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--259
+Underfull \hbox (badness 10000) in paragraph at lines 263--263
 \TU/lmr/m/n/10 Artwork Size : 13 pages, pages 57-69 ISBN : 9782406125488 Medium
  : applica-
  []
 
-[13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 281--281
 [][][]\TU/lmr/m/n/10 .[]Voir par exemple []$[][][][][] [] [] [] [][][] [] [][][
 ][][][][] [] [][][] [] [][][][][] [] [] [] [][][][][][][][][][][] [] [][] []
  []
 
-[15] [16] [17] [18
+[17] [18] [19] [20
 
-] [19]
-Overfull \hbox (1.67664pt too wide) in paragraph at lines 330--332
+] [21]
+Overfull \hbox (1.67664pt too wide) in paragraph at lines 334--336
 []\TU/lmr/m/n/12 Pour le premier moissonnage,nous avons décidé de récolter les 
 publications au nombre
  []
 
-[20] [21] [22
+[22] [23] [24
 
 ]
 Chapitre 3.
-[23
+[25
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 
  []
 
@@ -1283,7 +1290,7 @@ File: //Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05
 image/tf_idf_topic_tmdb.png Graphic file (type bmp)
 <//Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image
 /tf_idf_topic_tmdb.png>
-[24]
+[26]
 File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
 mage/tf-idf_topic_fandom.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
@@ -1292,17 +1299,17 @@ File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_
 mage/tf-idf_topic_reddit.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
 tf-idf_topic_reddit.png>
- [25]
+ [27]
 File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
 mage/comparaison_lisibilite_source.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
 comparaison_lisibilite_source.png>
- [26]
+ [28]
 File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
 mage/boxplot_readability_V2.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
 boxplot_readability_V2.png>
- [27] [28]
+ [29] [30]
 File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
 mage/emotions.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
@@ -1311,54 +1318,73 @@ File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_
 mage/emotions_corrected.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
 emotions_corrected.png>
- [29] [30]
+ [31] [32]
 Chapitre 4.
-[31
+File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
+mage/corr_read.png Graphic file (type bmp)
+</Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
+corr_read.png>
+[33
 
-] [32
+] [34]
+! Too many }'s.
+l.623 \subsection{Les variables explicatives}}
+                                              
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
-] [33] [34] [35
+[35] [36] [37
 
-] [36]
-Overfull \hbox (282.66286pt too wide) in paragraph at lines 658--658
+] [38
+
+] [39] [40] [41
+
+] [42]
+Overfull \hbox (282.66286pt too wide) in paragraph at lines 717--717
 \TU/lmr/m/n/12 Size : 13 pages, pages 57-69 ISBN : 9782406125488 Medium : appli
 cation/xhtml+xml,application/pdf,online,database,application/xhtml+xml ;
  []
 
-[37]
-Overfull \hbox (35.04774pt too wide) in paragraph at lines 658--658
+[43]
+Overfull \hbox (35.04774pt too wide) in paragraph at lines 717--717
 [][][]\TU/lmr/m/sc/12 Koolen []\TU/lmr/m/n/12 (Corina), []\TU/lmr/m/sc/12 Dalen
 -Oskam []\TU/lmr/m/n/12 (Karina van), []\TU/lmr/m/sc/12 Cranenburgh []\TU/lmr/m
 /n/12 (Andreas van) et []\TU/lmr/m/sc/12 Nagelhout
  []
 
 
-Overfull \hbox (17.63498pt too wide) in paragraph at lines 658--658
+Overfull \hbox (17.63498pt too wide) in paragraph at lines 717--717
 [][][]\TU/lmr/m/sc/12 Mirvoda []\TU/lmr/m/n/12 (T. A.), []\TU/lmr/m/sc/12 Strog
 anov []\TU/lmr/m/n/12 (M. V.), []\TU/lmr/m/sc/12 A. M. Gorky Institute of World
  literature
  []
 
-[38]
-Overfull \hbox (0.10312pt too wide) in paragraph at lines 658--658
+[44]
+Overfull \hbox (0.10312pt too wide) in paragraph at lines 717--717
 \TU/lmr/m/it/12 of Qualitative Methods\TU/lmr/m/n/12 , 3–2 (juin 2004), p. 45-5
 1, \TU/lmr/m/sc/12 doi \TU/lmr/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][]
 [][][][][][][][][][]$[]. 
  []
 
 
-Overfull \hbox (11.90863pt too wide) in paragraph at lines 658--658
+Overfull \hbox (11.90863pt too wide) in paragraph at lines 717--717
 [][]\TU/lmr/m/it/12 The Movie Database (TMDB)\TU/lmr/m/n/12 , \TU/lmr/m/sc/12 u
 rl \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][] [] []
 [][][]$[] (visité le 28/05/2024). 
  []
 
-[39] [40] (./Lionnet_Creepypastas.aux)
+[45] [46] (./Lionnet_Creepypastas.aux)
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `Lionnet_Creepypastas.out' has not changed.
-(rerunfilecheck)             Checksum: 122295A882A302B59704DB968C83C6CB;3272.
+
+Package rerunfilecheck Warning: File `Lionnet_Creepypastas.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Lionnet_Creepypastas.out':
+(rerunfilecheck)             Before: 6BFA711623D2950F68BC8F12E00CE604;4078
+(rerunfilecheck)             After:  706DFA9F914F0028FDB8DC4683F361EF;4434.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                Lionnet_Creepypastas
@@ -1369,12 +1395,12 @@ Package logreq Info: Writing requests to 'Lionnet_Creepypastas.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37434 strings out of 476683
- 754614 string characters out of 5804047
+ 37459 strings out of 476683
+ 755727 string characters out of 5804047
  1865018 words of memory out of 5000000
- 57165 multiletter control sequences out of 15000+600000
+ 57186 multiletter control sequences out of 15000+600000
  515607 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,9n,89p,4577b,5347s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Lionnet_Creepypastas.pdf (41 pages).
+Output written on Lionnet_Creepypastas.pdf (47 pages).
