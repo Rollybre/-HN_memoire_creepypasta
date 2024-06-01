@@ -77,7 +77,6 @@
       \field{note}{OCLC: 1201255070}
       \field{title}{Anatomie de l'horreur}
       \field{year}{2020}
-      \true{nocite}
     \endentry
     \entry{aron_litterature_1984}{book}{}
       \name{author}{2}{}{%
@@ -203,66 +202,6 @@
       \verb http://journals.sagepub.com/doi/10.1177/1470412919841018
       \endverb
     \endentry
-    \entry{barre_operationalizing_2023-1}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=e353f6a44189c8c08ffa82ce813ca560}{%
-           family={Barré},
-           familyi={B\bibinitperiod},
-           given={Jean},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=16d4f02e5493261103bfb3611317d21d}{%
-           family={Camps},
-           familyi={C\bibinitperiod},
-           given={Jean-Baptiste},
-           giveni={J\bibinithyphendelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c933b283c1d58d5ab7644f32fb5713be}{%
-           family={Poibeau},
-           familyi={P\bibinitperiod},
-           given={Thierry},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{3a682a9c1e558e134895de877d9c1ff3}
-      \strng{fullhash}{3a682a9c1e558e134895de877d9c1ff3}
-      \strng{bibnamehash}{3a682a9c1e558e134895de877d9c1ff3}
-      \strng{authorbibnamehash}{3a682a9c1e558e134895de877d9c1ff3}
-      \strng{authornamehash}{3a682a9c1e558e134895de877d9c1ff3}
-      \strng{authorfullhash}{3a682a9c1e558e134895de877d9c1ff3}
-      \field{extraname}{1}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{This article delves into the literary canon, a concept shaped by social biases and influenced by successive receptions. The canonization process is a multifaceted phenomenon, emerging from the intricate interplay of sociological, economic, and political factors. Our objective is to detect the underlying textual dynamics that grant certain works exceptional longevity while jeopardizing the transmission of the majority. Drawing on various criteria, we present an operational framework for defining the French literary canon, centered on its contemporary reception and emphasizing the role of institutions, particularly schools, in its formation. Leveraging natural language processing and machine learning techniques, we unveil an intrinsic norm inherent to the literary canon. Through statistical modeling, we achieve predictive outcomes with accuracy ranging from 70\% to 74\%, contingent on the chosen scale of canonicity. We believe that these findings detect what Charles Altieri calls a “cultural grammar”, referring to the idea that canonical works in literature serve as foundational texts that shape the norms, values, and conventions of a particular cultural tradition. We posit that this linguistic norm arises from biased latent selection mechanisms linked to the role of the educational system in the canon-formation process.}
-      \field{journaltitle}{Journal of Cultural Analytics}
-      \field{note}{Publisher: Department of Languages, Literatures, and Cultures at McGill University}
-      \field{number}{1}
-      \field{title}{Operationalizing {Canonicity}}
-      \field{urlday}{3}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{volume}{8}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{88113}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.22148/001c.88113
-      \endverb
-      \verb{file}
-      \verb HAL PDF Full Text:/Users/rolly/Zotero/storage/CF2WNQ2H/Barré et al. - 2023 - Operationalizing Canonicity.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://hal.science/hal-04252997
-      \endverb
-      \verb{url}
-      \verb https://hal.science/hal-04252997
-      \endverb
-      \keyw{Canon studies,Computational Literary Studies,distant reading,French Literature,Literary history,machine learning,natural language processing,stylometry,text mining}
-    \endentry
     \entry{barre_operationalizing_2023}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e353f6a44189c8c08ffa82ce813ca560}{%
@@ -293,7 +232,6 @@
       \strng{authorbibnamehash}{3a682a9c1e558e134895de877d9c1ff3}
       \strng{authornamehash}{3a682a9c1e558e134895de877d9c1ff3}
       \strng{authorfullhash}{3a682a9c1e558e134895de877d9c1ff3}
-      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
@@ -540,6 +478,60 @@
       \field{title}{Slender {Man} is coming: creepypasta and contemporary legends on the {Internet}}
       \field{year}{2018}
       \keyw{Horror tales,Contagion (Social psychology),Folklore and the Internet,Memes,Slender Man,Urban folklore}
+    \endentry
+    \entry{bonvin_exploration_2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e19af6c5580accd53af6ec2bcc62a79e}{%
+           family={Bonvin},
+           familyi={B\bibinitperiod},
+           given={Audrey},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0b87ebefcd9ddab93a9109b0010475f}{%
+           family={Lambelet},
+           familyi={L\bibinitperiod},
+           given={Amelia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bfcf69a6d43f5105120f3be87a74791c}
+      \strng{fullhash}{bfcf69a6d43f5105120f3be87a74791c}
+      \strng{bibnamehash}{bfcf69a6d43f5105120f3be87a74791c}
+      \strng{authorbibnamehash}{bfcf69a6d43f5105120f3be87a74791c}
+      \strng{authornamehash}{bfcf69a6d43f5105120f3be87a74791c}
+      \strng{authorfullhash}{bfcf69a6d43f5105120f3be87a74791c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We investigate how untrained readers perceive the lexical richness of short texts written by 8 to 10-year-olds in French, German and Portuguese. Seven untrained adults rated the lexical richness of a set of argumentative and narrative texts on Likert Scales while performing on a Think Aloud Protocol (TAP) task. Results show that raters consider other criteria than solely vocabulary in their assessments. Coherence, grammar and content seem to have a particular impact. Concerning vocabulary per se, (non-)repetition is mentioned regularly and other characteristics such as register, length of words, number of words appear as well. For this kind of texts, word frequency does not seem to be as salient as expected.}
+      \field{issn}{1615-3014}
+      \field{journaltitle}{Linguistik Online}
+      \field{month}{12}
+      \field{number}{7}
+      \field{shorttitle}{Exploration empirique de la richesse lexicale}
+      \field{title}{Exploration empirique de la richesse lexicale: la perception humaine}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{100}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{65\bibrangedash 94}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.13092/lo.100.6018
+      \endverb
+      \verb{file}
+      \verb Texte intégral:/Users/rolly/Zotero/storage/ZX8YVA55/Bonvin et Lambelet - 2019 - Exploration empirique de la richesse lexicale la .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://bop.unibe.ch/linguistik-online/article/view/6018
+      \endverb
+      \verb{url}
+      \verb https://bop.unibe.ch/linguistik-online/article/view/6018
+      \endverb
     \endentry
     \entry{brzostek_praktyka_2016}{article}{}
       \name{author}{1}{}{%
@@ -955,31 +947,6 @@
       \endverb
       \verb{url}
       \verb https://aclanthology.org/W15-0707
-      \endverb
-    \endentry
-    \entry{noauthor_rumeur_nodate}{misc}{}
-      \list{language}{1}{%
-        {fr}%
-      }
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Martine Roberge est connue comme ethnographe et historienne. Consultante sur Canal “D” pour la série télévisée sur es légendes urbaines. Style très accessible. Même à l’heure d’Internet et des nouvelles technologies, les légendes ne sont pas aussi nouvelles qu’elles paraissent. Petit livre pour ceux et celles qui veulent en savoir plus sur ce que sont ces légendes urbaines, agrémenté d’un petit catalogue des légendes.}
-      \field{journaltitle}{Presse de l'Université Laval}
-      \field{title}{De la rumeur à la légende urbaine}
-      \field{urlday}{13}
-      \field{urlmonth}{10}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{file}
-      \verb Snapshot:/Users/rolly/Zotero/storage/I64W3LSQ/de-la-rumeur-a-la-legende-urbaine.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.pulaval.com/livres/de-la-rumeur-a-la-legende-urbaine
-      \endverb
-      \verb{url}
-      \verb https://www.pulaval.com/livres/de-la-rumeur-a-la-legende-urbaine
       \endverb
     \endentry
     \entry{duncan_human_2018}{article}{}
@@ -1591,7 +1558,6 @@
       \field{urlyear}{2024}
       \field{year}{2022}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.youtube.com/watch?v=H4dGpz6cnHo
       \endverb
@@ -1852,6 +1818,37 @@
       \field{urldateera}{ce}
       \true{nocite}
     \endentry
+    \entry{marble_hornets_introduction_2009}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80d464913b0ee413dd8d3647c2515013}{%
+           family={{Marble Hornets}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{80d464913b0ee413dd8d3647c2515013}
+      \strng{fullhash}{80d464913b0ee413dd8d3647c2515013}
+      \strng{bibnamehash}{80d464913b0ee413dd8d3647c2515013}
+      \strng{authorbibnamehash}{80d464913b0ee413dd8d3647c2515013}
+      \strng{authornamehash}{80d464913b0ee413dd8d3647c2515013}
+      \strng{authorfullhash}{80d464913b0ee413dd8d3647c2515013}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{0}
+      \field{month}{6}
+      \field{title}{Introduction}
+      \field{urlday}{13}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=Wmhfn3mgWUI
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=Wmhfn3mgWUI
+      \endverb
+    \endentry
     \entry{mayer_autorite_2017}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=2252c4869eaf83e871ff7083660a7f7f}{%
@@ -2041,6 +2038,63 @@
       \field{labeltitlesource}{title}
       \field{title}{The {Blair} {Witch} {Project}}
       \field{year}{1999}
+    \endentry
+    \entry{neeman_culture_2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=68253567bfc899515c224ee24526c53a}{%
+           family={Neeman},
+           familyi={N\bibinitperiod},
+           given={Elsa},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aed14a8e9a5aa2db4d12e2639de7726a}{%
+           family={Clivaz},
+           familyi={C\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \strng{namehash}{d543e0b01af14cec75802580f1235cde}
+      \strng{fullhash}{d543e0b01af14cec75802580f1235cde}
+      \strng{bibnamehash}{d543e0b01af14cec75802580f1235cde}
+      \strng{authorbibnamehash}{d543e0b01af14cec75802580f1235cde}
+      \strng{authornamehash}{d543e0b01af14cec75802580f1235cde}
+      \strng{authorfullhash}{d543e0b01af14cec75802580f1235cde}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{RésuméCet article se propose de prendre acte de l’événement que constitue l’entrée dans le numérique pour la littérature. Pour ce faire, c’est la notion d’« auctorialité » qui sera examinée: le changement au niveau du support du texte (on passe du livre à l’écran) a des conséquences sur le statut de l’auteur, le lien qu’il entretient avec sa production ou encore l’autorité qu’il possède sur celle-ci. Un large panorama de la notion?–?de l’Antiquité à l’époque moderne, en passant par la critique française des années 1960?–?permettra de mesurer ces conséquences.}
+      \field{issn}{1660-7880}
+      \field{journaltitle}{A contrario}
+      \field{note}{Place: Bangkok Publisher: BSN Press}
+      \field{number}{1}
+      \field{shorttitle}{Culture numérique et auctorialité}
+      \field{title}{Culture numérique et auctorialité : réflexions sur un bouleversement}
+      \field{urlday}{30}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{volume}{17}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 36}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.3917/aco.121.0003
+      \endverb
+      \verb{file}
+      \verb Neeman_Clivaz_2012_Culture numérique et auctorialité.pdf:/Users/rolly/Zotero/storage/C29SEJXT/Neeman_Clivaz_2012_Culture numérique et auctorialité.pdf:application/pdf;Snapshot:/Users/rolly/Zotero/storage/PA2LKWGX/revue-a-contrario-2012-1-page-3.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cairn.info/revue-a-contrario-2012-1-page-3.htm
+      \endverb
+      \verb{url}
+      \verb https://www.cairn.info/revue-a-contrario-2012-1-page-3.htm
+      \endverb
     \endentry
     \entry{noauthor_nosleep_nodate}{misc}{}
       \field{sortinit}{n}
@@ -2235,30 +2289,6 @@
       \field{urldateera}{ce}
       \true{nocite}
     \endentry
-    \entry{noauthor_rumeurs_nodate}{misc}{}
-      \list{language}{1}{%
-        {fr}%
-      }
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Ce numéro sera consacré au thème « Rumeurs, légendes urbaines et théories du complot au prisme des sciences sociales. Enjeux, méthodes, perspectives ». Ce numéro de la revue Émulations se propose d...}
-      \field{title}{Rumeurs, légendes urbaines et théories du complot au prisme des sci...}
-      \field{urlday}{11}
-      \field{urlmonth}{10}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{file}
-      \verb Snapshot:/Users/rolly/Zotero/storage/FGAP7D6G/391424.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://calenda.org/391424
-      \endverb
-      \verb{url}
-      \verb https://calenda.org/391424
-      \endverb
-    \endentry
     \entry{sade-beck_internet_2004}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5adcf9ee5397ab02c36d106aef00228c}{%
@@ -2310,6 +2340,55 @@
       \verb http://journals.sagepub.com/doi/10.1177/160940690400300204
       \endverb
     \endentry
+    \entry{saemmer_litterature_2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62d5302467092c7953c36dcd38dd97cc}{%
+           family={Saemmer},
+           familyi={S\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fr}%
+      }
+      \strng{namehash}{62d5302467092c7953c36dcd38dd97cc}
+      \strng{fullhash}{62d5302467092c7953c36dcd38dd97cc}
+      \strng{bibnamehash}{62d5302467092c7953c36dcd38dd97cc}
+      \strng{authorbibnamehash}{62d5302467092c7953c36dcd38dd97cc}
+      \strng{authornamehash}{62d5302467092c7953c36dcd38dd97cc}
+      \strng{authorfullhash}{62d5302467092c7953c36dcd38dd97cc}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The status of digital literature between legitimation, institutionalization and canonization, and highly problematic but necessary establishment of criteria to evaluate the «literariness » of digital literary works, are the main subjects of this article. In order to gather the most frequently mentioned criteria of «value » , I will first put into perspective the definition of «legitimation » , «institutionalization » and «canonization » in critical discourse, and the points of view put forward by four project managers in the field. A comparison of the collections proposed by two founding initiatives, will help me to establish a corpus of works commonly considered as «valid » . By mobilizing a semio-rhetoric method, I will finally locate in this corpus the potential «inter-semiotic tension » and «aesthetic distance » , often mentioned as major criteria of literariness.}
+      \field{issn}{1766-2923}
+      \field{journaltitle}{Culture \& Musées}
+      \field{number}{1}
+      \field{title}{La littérature numérique entre légitimation et canonisation}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{volume}{18}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{201\bibrangedash 223}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.3406/pumus.2011.1635
+      \endverb
+      \verb{file}
+      \verb Saemmer - 2011 - La littérature numérique entre légitimation et can.pdf:/Users/rolly/Zotero/storage/KPF6NJLV/Saemmer - 2011 - La littérature numérique entre légitimation et can.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.persee.fr/doc/pumus_1766-2923_2011_num_18_1_1635
+      \endverb
+      \verb{url}
+      \verb https://www.persee.fr/doc/pumus_1766-2923_2011_num_18_1_1635
+      \endverb
+    \endentry
     \entry{sanchez_folklore_2018}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9982444a2d47aba88683a8cbd082562b}{%
@@ -2357,58 +2436,6 @@
       \verb https://revistas.unc.edu.ar/index.php/heterotopias/article/view/19993
       \endverb
       \keyw{creepypasta,collaborative writing,digital folklore,discourse analysis}
-    \endentry
-    \entry{noauthor_selenium_nodate}{misc}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeltitlesource}{title}
-      \field{title}{Selenium with {Python} — {Selenium} {Python} {Bindings} 2 documentation}
-      \field{urlday}{21}
-      \field{urlmonth}{4}
-      \field{urlyear}{2024}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{file}
-      \verb Selenium with Python — Selenium Python Bindings 2 documentation:/Users/rolly/Zotero/storage/WBH4GKJC/selenium-python.readthedocs.io.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://selenium-python.readthedocs.io/
-      \endverb
-      \verb{url}
-      \verb https://selenium-python.readthedocs.io/
-      \endverb
-    \endentry
-    \entry{skyyart_introduction_2009}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e701d6325629f10d62d80326153c8f15}{%
-           family={{Skyyart}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{e701d6325629f10d62d80326153c8f15}
-      \strng{fullhash}{e701d6325629f10d62d80326153c8f15}
-      \strng{bibnamehash}{e701d6325629f10d62d80326153c8f15}
-      \strng{authorbibnamehash}{e701d6325629f10d62d80326153c8f15}
-      \strng{authornamehash}{e701d6325629f10d62d80326153c8f15}
-      \strng{authorfullhash}{e701d6325629f10d62d80326153c8f15}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{0}
-      \field{month}{6}
-      \field{title}{Introduction}
-      \field{urlday}{13}
-      \field{urlmonth}{1}
-      \field{urlyear}{2024}
-      \field{year}{2009}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.youtube.com/watch?v=Wmhfn3mgWUI
-      \endverb
-      \verb{url}
-      \verb https://www.youtube.com/watch?v=Wmhfn3mgWUI
-      \endverb
     \endentry
     \entry{noauthor_backrooms_nodate}{misc}{}
       \field{sortinit}{T}
@@ -2473,7 +2500,7 @@
       \verb https://theslenderman.fandom.com/wiki/The_Slender_Man_Wiki
       \endverb
     \endentry
-    \entry{todorov_introductin_1992}{book}{}
+    \entry{todorov_introduction_1992}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=eda0cab55cb1d5efa208513b9b9e0b8e}{%
            family={Todorov},
@@ -2504,8 +2531,9 @@
       \field{edition}{Repr}
       \field{isbn}{978-2-02-002035-0}
       \field{series}{Collection {Poétique}}
-      \field{title}{Introductin à la littérature fantastique}
+      \field{title}{Introduction à la littérature fantastique}
       \field{year}{1992}
+      \true{nocite}
     \endentry
     \entry{tripathy_towards_2013}{article}{}
       \name{author}{3}{}{%

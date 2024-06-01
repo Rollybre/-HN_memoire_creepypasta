@@ -32,9 +32,6 @@
 \addbibresource{bibliographie/Creepypasta.bib}
 \usepackage{titlesec}
 
-\author{Alexandre Lionnet-Rollin\\
-	\texttt{alexandre.lionnet@chartes.psl.eu} \and \url{https://github.com/Rollybre/memoire-creepypasta}}
-\title{Etude quantitative des Creepypasta : définition et caractérisation}
 
 
 
@@ -43,7 +40,7 @@
 
 \setstretch{1,5}
 \begin{document}
-
+\frontmatter
 %Page de titre
 \begin{titlepage}
 	\begin{center}
@@ -71,12 +68,12 @@
 		\bigskip
 		
 		\begin{Huge}
-			\textbf{Définition et caractérisation d'un genre de littérature numérique : les Creepypastas}\\
+			\textbf{Quand la peur devient virale}\\
 		\end{Huge}
 		\bigskip
 		\bigskip
 		\begin{LARGE}
-		\textbf{Exploration du rapport entre littérarité et viralité}\\
+		\textbf{Exploration d'un genre de littérature numérique virale : les creepypastas}\\
 		\end{LARGE}
 		
 		\bigskip
@@ -103,26 +100,30 @@
 \section*{Résumé}
 \addcontentsline{toc}{chapter}{Résumé}
 
-[FAIRE LE RÉSUMÉ]
+Ce mémoire explore le genre des Creepypastas, un type particulier de littérature numérique, en mettant en lumière leur double nature de littérarité et de viralité. L'étude se penche sur l'évolution des Creepypastas en tant que phénomène culturel et littéraire, en analysant comment ces récits, souvent effrayants et mystérieux, parviennent à captiver et à se propager rapidement sur internet.
+
+Les résultats et analyses préliminaires montrent que cette littérature de l'horreur se caractérise dans un premier temps par une simplicité de la construction et les thèmes de l'intimes et de l'expérience en opposition avec les stéréotypes de l'horreur. Cette hypothèse est appuyée par les valences émotionnelles qui tendent à montrer la présence moins marqué du vocable de l'horreur. Une tentative de régression logistique afin d'expliquer la viralité montre la prévalence des variables de lisibilité et longueurs des phrase, au détriment des thèmes ou de la peur.
 
 \medskip
 
-\textbf{Mots-clés:} Creepypasta, viralité, TAL, littérarité, 
+\textbf{Mots-clés:} Creepypasta, littérature numérique, viralité, TAL, littérarité, internet
 
-\textbf{Informations bibliographiques:} Alexandre Lionnet-Rollin, \textit{Titre du mémoire: sous-titre}, mémoire de master 1 \og Humanités numériques et computationnelles\fg{}, dir. Florian Cafiero et Valérie Beaudouin, Université Paris, Sciences \& Lettres, 2024.
+\textbf{Informations bibliographiques:} Alexandre Lionnet-Rollin, \textit{Quand la peur devient virale: exploration d'un genre de littérature numérique, les Creepypastas}, mémoire de Master 1 \og Humanités numériques et computationnelles\fg{}, dir. Florian Cafiero et Valérie Beaudouin, Université Paris, Sciences \& Lettres, 2024.
 
-%TODO: demander résumé et mots-clés en anglais.
+
 
 \section*{Abstract}
 \addcontentsline{toc}{chapter}{Abstract}
 
-[FAIRE LE RÉSUMÉ]
+This M.A thesis explores the genre of Creepypastas, a particular type of digital literature, highlighting their dual nature of literariness and virality. The study looks at the evolution of Creepypastas as a cultural and literary phenomenon, analyzing how these often frightening and mysterious narratives manage to captivate and spread rapidly on the internet.
+
+Preliminary results and analyses show that this horror literature is initially characterized by a simplicity of construction and themes of intimacy and experience in opposition to horror stereotypes. This hypothesis is supported by the emotional valences, which tend to show a less marked presence of the horror lexicon. An attempt at logistic regression to explain virality shows the prevalence of readability and sentence length variables, to the detriment of themes or fear.
 
 \medskip
 
-\textbf{Keywords:} Liste d'une dizaine de mots-clés, séparés par des points-virgules.
+\textbf{Keywords:} Creepypastas, 
 
-\textbf{Bibliographic Information:} Forename Last-Name, \textit{Title: Subtitle}, M.A. thesis \og Digital and computational humanities\fg{}, dir. John Smith  and Marie Schmitt, Université Paris, Sciences \& Lettres, 2018.
+\textbf{Bibliographic Information:} Alexandre Lionnet-Rollin, \textit{When fear goes viral: exploring a genre of digital literature, creepypastas}, M.A. thesis \og Digital and computational humanities\fg{}, dir. Florian Cafiero and Valérie Beaudouin, Université Paris, Sciences \& Lettres, 2024.
 
 
 \clearpage
@@ -134,6 +135,11 @@
 \addcontentsline{toc}{chapter}{Remerciements}
 
 \lettrine{M}{es remerciements} vont tout d'abord…
+%Mes directeurs
+% Armin Pournaki
+%Ma maman
+%Mathoux
+%Mes potos sur
 
 
 \clearpage
@@ -142,35 +148,50 @@
 \cleardoublepage
 
 \tableofcontents
-
+\newpage
+\listoffigures
+\listoftables
+\newpage
+\pagenumbering{arabic}
 \chapter*{Introduction}
 
 Le début des années 2000 marque l’entrée d’Internet dans la seconde phase de son existence : le Web 2.0 correspond à une période de développement sans pareils pour l’époque de nouveaux canaux de communication. L’avènement des grands réseaux sociaux tout comme les grandes plateformes d’hébergement et de partage de contenus vont permettre une nouvelle façon de dialoguer. Et parmi les nouvelles pratiques permises par ceux-ci, on trouve de nouvelles formes d'écriture, qui renouvellent aussi bien la façon d’écrire que le but des productions : écriture collaborative, écriture fragmentaire, mais aussi une écriture qui peut, à la manière d'une trainée de poudre, se répandre bien au-delà de leurs sphères de productions. Parmi celle-ci, on trouve une écriture simple, et relativement courte, prenant la forme d'un court témoignage, qui rapidement vire au cauchemar : les creepypastas. 
-	
 
+Puisant à la fois dans le numérique et dans la tradition littéraire, cet objet à la frontière des définitions des genres littéraires numérique ou non est problématique et nous invite à questionner le lien entre ces deux pôles.
+
+La prolifération des Creepypastas soulève des questions cruciales sur la nature de la littérarité et de la viralité à l'ère du Web 2.0. Comment ces récits, souvent écrits par des amateurs, parviennent-ils à captiver et à se diffuser aussi largement ? Quel est l'impact de leur viralité sur leur qualité littéraire : est-il possible de caractériser ce qui différencie les histoires virales de toutes les autres ? 
+
+Ainsi l'objectif de cette étude est de proposer une caractérisation double : d'abord caractériser les CP comme genre à part entière, puis chercher à caractériser les histoires qui sortent du lot, qui ont marqué plus que les autres. 
+Pour ce faire, nous proposons une étude en trois temps  : premièrement, nous prendrons le temps de définir ces productions à la frontière des genres et des définitions, ainsi que les différentes trajectoires que ces histoires peuvent prendre. Dans un second temps, nous expliqueront notre méthodologie de récupération et de traitement de donnée avant d'analyser, dans un troisième temps les résultats des différentes analyses textuelles ;
+
+	
+	
+\mainmatter
+\part{Qu'est-ce-qu'une Creepypasta ?}
+
+\chapter{Un genre hybride}
 	\par
 	La première occurrence du terme remonte au mois de juillet 2007 sur le forum \emph{4Chan}\footnote{Le post a depuis longtemps été supprimé. On peut néanmoins en trouver une archive au lien suivant : \url{https://web.archive.org/web/20111207000647/http://chanarchive.org/4chan/b/257/creepypasta}}. Cette dénomination est le fruit de la rencontre entre l'adjectif \emph{creepy} (litt. effrayant) et l'expression \emph{copypasta}, elle-même contraction des verbes \emph{copy} et \emph{paste} (litt. copier, coller), désignant un bloc de texte copié et collé sur différents forums afin de le partager. Si les \emph{copypastas} peuvent traiter de tous les sujets, aussi bien de blagues que de nouvelles et autres informations, les creepypastas sont quant à elles cantonnées au domaine du frisson : les creepypastas sont des copypastas dont le but est d'effrayer le lecteur. Ainsi nous nous appuierons sur cette définition de Joe Ondrak pour amorcer notre réflexion : 
-
-
-
-\begin{quotation}
-	[copypastas are] short pieces of prose, sometimes accompanied by an image or a video […] meant to be copied
-			and pasted […] and spread on the Internet via social media, e-mails, and message boards […]
-			whereas copypasta can be about almost any subject, creepypasta is usually aimed at scaring
-			the reader and/or viewer.\footnote{\emph{Les [copypastas sont] de courts morceaux de prose, parfois accompagnés d'une image ou d'une vidéo [...] destinés à être copiés et collés [...] et diffusés sur Internet via les médias sociaux, les courriels et les tableaux d'affichage [...]Alors que le copypasta peut porter sur presque tous les sujets, le creepypasta vise généralement à effrayer le lecteur et/ou le spectateur.}}(Ondrak, 2018 p.162)\footcite{ondrak_spectres_2018}
-\end{quotation}
+	
+	
+	
+	\begin{quotation}
+		[copypastas are] short pieces of prose, sometimes accompanied by an image or a video […] meant to be copied
+		and pasted […] and spread on the Internet via social media, e-mails, and message boards […]
+		whereas copypasta can be about almost any subject, creepypasta is usually aimed at scaring
+		the reader and/or viewer.\footnote{\emph{Les [copypastas sont] de courts morceaux de prose, parfois accompagnés d'une image ou d'une vidéo [...] destinés à être copiés et collés [...] et diffusés sur Internet via les médias sociaux, les courriels et les tableaux d'affichage [...]Alors que le copypasta peut porter sur presque tous les sujets, le creepypasta vise généralement à effrayer le lecteur et/ou le spectateur.}}(Ondrak, 2018 p.162)\footcite{ondrak_spectres_2018}
+	\end{quotation}
 	\par
 	Cette première définition permet de souligner la dualité intrinsèque des CP : d'une part elles sont définies par leur aptitude à effrayer le lecteur (le caractère horrifique), et d'autre part par leur capacité à être transmise sur différents canaux. \\
-	
-	[REVOIR INTRODUCTION]
-\part{Qu'est-ce-qu'une Creepypasta ?}
-\chapter{Un genre hybride}
-	
 \par
 D’un point de vue formel, il est possible d’identifier deux caractéristiques prédominantes des CP : ce sont des productions écrites courtes et qui appuient leur narration sur la première personne. Le récit des CP prend souvent la forme d’un témoignage, d’une histoire rapportée, justifiant le rapprochement avec le folklore et les légendes urbaines\footcite{blank_slender_2018}. L’usage de la première personne est d’autant plus important car, à l’instar du folklore ou de la légende urbaine, l’histoire, et sa narration, joue avec la frontière située entre la fiction et la réalité. 
 \par
 La plupart des CP suivent un même schéma : un narrateur souvent intradiégétique rapporte une histoire qu’il aurait vécu. Cette histoire commence généralement de façon anodine voire trivial (vie de tous les jours, quotidien banal…), puis prend un tournant troublant voire terrifiant. 
-Ce schéma n’est pas sans rappeler un autre genre littéraire: la littérature fantastique. La distance entre un personnage \emph{a priori} banal et un événement hors-du-commun est à la base aussi bien de la littérature fantastique que de l’esthétique des CP. \newline
+Ce schéma n’est pas sans rappeler un autre genre littéraire: la littérature fantastique. La distance entre un personnage \emph{a priori} banal et un événement hors-du-commun est à la base aussi bien de la littérature fantastique que de l’esthétique des CP. 
+
+\section{Une littérature à la frontière des genres}
+\subsection{La littérature fantastique}
+
 T. Todorov, dans son \emph{Introduction à la littérature fantastique}\footcite{todorov_introductin_1992} propose comme première définition du genre fantastique cette dichotomie: 
 
 	\begin{quotation}
@@ -183,23 +204,25 @@ Cette "hésitation" se trouve aussi bien du côté du personnage que du lecteur 
 \end{quotation}
 
 Hésitation qu'on retrouve sous la forme de l'effet recherché par la CP sur le lecteur: la peur.
-[REVOIR TRANSITION]
 \par
-En plus de la façon de raconter, les thèmes en eux même sont proches de ceux employés par ces genres « littéraires » : il est question de monstres sanguinaires, d’objets retrouvés, et souvent de l’enfance, le narrateur se rappelant d’évènements de sa propre jeunesse, ou faisant appel à une certaine nostalgie. Et les monstres traditionnels, s’ils sont souvent présents, laissent place dans de nombreux cas à des éléments tout aussi effrayants, mais beaucoup plus pernicieux : des éléments de notre quotidien, et particulièrement l’outil numérique. 
+En plus de la façon de raconter, les thèmes en eux même sont proches de ceux employés par ces genres « littéraires » : il est question de monstres sanguinaires, d’objets retrouvés, et souvent de l’enfance, le narrateur se rappelant d’évènements de sa propre jeunesse, ou faisant appel à une certaine nostalgie. Et les monstres traditionnels, s’ils sont souvent présents, laissent place dans de nombreux cas à des éléments tout aussi effrayants, mais beaucoup plus pernicieux : des éléments de notre quotidien, et particulièrement l’outil numérique, plaçant les histoires en adéquation avec des thèmes de sa génération\footcite{king_anatomie_2020}.
 \par
 Notons par exemple la CP \emph{Candle Cove} qui prend la forme d’une discussion sur un forum entre plusieurs utilisateurs se remémorant une émission dérangeante de leur jeunesse. Les souvenirs des uns et des autres s’ajoutent, aussi bien que les détails perturbants, jusqu’à ce qu’un utilisateur souligne le fait que sa mère s’inquiétait de le voir regarder la statique de la télévision lorsque celui-ci prétendait y voir ladite émission. 
 \par
-La perversion du numérique que cela soit du jeux-vidéo en passant par les vidéos et le plus souvent Internet, prolonge la remarque sur une frontière réalité/fiction friable : les objets les plus terrifiants sont souvent des objets qu’on côtoie au jour le jour sans se rendre compte de leur « potentiel horrifique ».
+La perversion du numérique que cela soit du jeux-vidéo en passant par les vidéos et le plus souvent Internet, prolonge la remarque sur une frontière réalité/fiction friable\footcite{balanzategui_creepypasta_2019} : les objets les plus terrifiants sont souvent des objets qu’on côtoie au jour le jour sans se rendre compte de leur « potentiel horrifique ».
 \par
-Ainsi la mobilisation du genre de l’\emph{Analog Horror }est assez fréquente. 
+\subsection{Le genre de l'analog horror}
 
-Ce genre de l’horreur s’appuie sur une déformation et/ou sur la perversion de l’outil numérique dans toute sa diversité, dans le but de créer un climat dérangeant né du contraste entre l’aspect réconfortant du numérique et sa déformation\footcite{balanzategui_creepypasta_2019}. [CITER S. KING SUR LA PEUR ET LA TERREUR COMME ÉLÉMENT GÉNÉRALTIONNEL]
+Ainsi la mobilisation du genre de l’\emph{Analog Horror} est assez fréquente. 
+
+Ce genre de l’horreur s’appuie sur une déformation et/ou sur la perversion de l’outil numérique dans toute sa diversité, dans le but de créer un climat dérangeant né du contraste entre l’aspect réconfortant du numérique et sa déformation\footcite{balanzategui_creepypasta_2019}. 
 \par
 On peut trouver une bonne illustration de ce phénomène dans les productions du type \textit{Found Footage}. Ces productions prennent la forme de vidéos, souvent déclarées comme des vidéos perdues puis retrouvées par un tiers. La vidéo réplique souvent le format VHS. Le format VHS est une norme d'enregistrement vidéo sur bande magnétique, en l'occurrence la cassette. Si la majorité des consommateurs (nous reviendrons plus tard sur ceux-ci) aujourd'hui n'ont pas connu directement l'âge d'or des VHS, celle-ci est facilement associé aux productions remontant à l'époque de leur parents, et donc potentiellement aux premières expériences de visualisation de contenu vidéo durant l'enfance, faisant ainsi du format VHS un vecteur de nostalgie.
 
 
-Si les exemples sont nombreux dans le domaine du cinéma (on peut ici penser aux films \emph{The Blair Witch Project}\footcite{myrick_blair_1999}, ou bien encore \emph{Paranormal Activity} plus récemment), on en retrouve plusieurs occurrences parmi les CP les plus iconiques : les séries de vidéos inspirées par des CP comme la série \emph{Marble Hornets} ou\emph{ The Backrooms} en sont les parfaits représentantes.
+Si les exemples sont nombreux dans le domaine du cinéma (on peut ici penser aux films \emph{The Blair Witch Project}\footcite{myrick_blair_1999}, ou bien encore \emph{Paranormal Activity} plus récemment), on en retrouve plusieurs occurrences parmi les CP les plus iconiques : les séries de vidéos inspirées par des CP comme la série \emph{Marble Hornets}\footcite{marble_hornets_introduction_2009} ou\emph{ The Backrooms}\footcite{kane_pixels_backrooms_2022} en sont les parfaits représentantes.
 
+\subsection{une littérature multimodale}
 Or en plus d’un thème, le numérique fait partie intégrante de l’identité des CP. Rappelons ainsi notre définition de départ : les CP sont avant tout des productions littéraires sur Internet destinées à la diffusion sur Internet. 
 	\begin{wrapfigure}{r}{5cm}
 	\centering
@@ -217,15 +240,16 @@ S'ajoute à cela la forme de cette CP : le récit du narrateur est entrecoupé d
 
 Cette CP est emblématique car elle met en lumière la dualité fondamentale des creepypastas : puisant à la fois dans le folklore et la tradition littéraire fantastique, ainsi que dans une culture numérique, tant par ses thèmes que par sa forme assumant cette modernité numérique, les creepypastas opèrent comme un carrefour entre deux univers distincts. En s'érigeant comme récit recombinant\footcite{jacobs_character_1990} mêlant le neuf au vieux, cette convergence peut être analysée à la lumière du concept de culture de la convergence, développé par Henry Jenkins\footcite{jenkins_convergence_2006}.
 
+\section{Les Creepypasta comme lieu de convergence}
+
 Henry Jenkins a principalement exploré la convergence entre une culture industrielle traditionnelle, dominée par de grandes sociétés, et une culture numérique émergente, caractérisée par la collaboration et la participation active des individus. Toutefois, dans le contexte des creepypastas, cette hiérarchie traditionnelle n'est pas aussi pertinente. En effet, les creepypastas sont des œuvres nativement numériques, voire intrinsèquement connectées, où le rôle des médias traditionnels n'est pas aussi central. Ainsi, la dynamique de convergence se manifeste davantage à travers une analogie entre les médias et canaux traditionnels d'une part, et les grandes creepypastas qui agissent comme un canon de la culture numérique, d'autre part.
 
 Il est essentiel de souligner la distinction du cadre théorique entre la culture de la convergence traditionnellement étudiée par Jenkins et la convergence observée dans le contexte des creepypastas. Alors que Jenkins se concentre sur la fusion entre les industries médiatiques traditionnelles et les nouvelles formes de médias numériques, l'analyse des creepypastas révèle une convergence plus subtile entre les traditions narratives anciennes et les formes d'expression contemporaines, façonnées par l'ère numérique. Ainsi, la convergence dans le domaine des creepypastas offre un exemple unique et éclairant de l'évolution des cultures narratives à l'ère numérique.
 
 
+\chapter[Les CP : du pareil au mème ? ]{Les CP, du pareil au mème ?  :  un mème aux trajectoires multiples}
 
-\chapter[Les CP : du pareil au mème ? ]{Les CP, du pareil au mème ?  :  un genre aux trajectoire multiples}
 
-	[REVOIR DÉCOUPAGE DES PARTIES]
 	Cette notion de parcours, de trajectoire nous permet de revenir au second élément de définition d’une CP. Nous avons mentionné jusqu’ici l’importance de la forme, du caractère terrifiant, percutant et facilement réplicable. Ce dernier élément rentre dans les faits à son tour dans une définition des CP comme une production qui est faite pour être partagé et copié. Cette définition d’un élément textuel ou plus globalement culturel qui existe dans le but d’être copié, est celle d’un même comme défini par Richard Dawkins dans les années 1970.\footcite{dawkins_gene_2003}
 	
 	\section{Les CP comme mème}
@@ -237,13 +261,13 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 
  Les deux autres caractéristiques sont toutes aussi importantes : est-il possible de mesurer cette fécondité ? Si la fécondité d’un mème scientifique est mesurée par son nombre de citation, est-il possible d’identifier de quoi quantifier cette fécondité pour les CP ? De même pour la fidélité, il serait intéressant de voir comment une ou plusieurs CP ont pu subir transformations et changements au cours de leur existence. Enfin, toujours dans le cadre théorique du mème, il serait intéressant de voir si la fécondité est liée à certaines caractéristiques textuelles. Autrement dit, il serait intéressant de voir s’il existe certains tropes ou façon de faire d’un point de vue littéraire qui agissent sur la survie ou réussite d’une CP.
 	
-	\subsection{Les différentes trajectoire d'une CP}
+	\section{Les différentes trajectoire d'une CP}
 	
 	Ces 3 caractéristiques constituent une première base, mais ne représente pas une fin en soi. En effet, ces caractéristiques assez générales ne permettent pas de rendre compte de la diversité des trajectoires potentielles d’un mème et par extension d’une CP .
 	
 	Par définition, la CP est transmise par simple copier-coller : une fois produite sur un forum donné (par exemple \emph{4Chan}), celle-ci se retrouve copiée puis collée sur le même forum, ou dans le cas échéant sur d’autres forums. Cette forme de transmission (forme historique du genre) était particulièrement pertinente à une époque où les forums ne pouvaient archiver indéfiniment les publications (c’est le cas de \emph{4Chan}, berceau de bon nombre de CP devenue aujourd’hui incontournable, où les posts, après 24h d'inactivité, se voient supprimé) : le copier-coller était donc un moyen de survie pour les CP. 
 	
-	\subsubsection{Les super CP}
+	\subsection{Les super CP}
 	
 	Afin d'illustrer ce principe, prenons l'exemple d'une des CP les plus emblématiques : SCP-173\footnote{\url{http://fondationscp.wikidot.com/scp-173}}
 	
@@ -273,44 +297,36 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	Il n'existe que trois exemples de cette trajectoire : SCP-173 et la \emph{Fondation SCP}, les \emph{Backrooms} et \emph{Slenderman}. 
 	Ces trois cas suivent une trajectoire similaire: une première publication sur un forum (respectivement \emph{4Chan} et \emph{SomethingAwful}), une vague importante de réaction sur ce même forum, puis une "exportation" vers une plateforme dédiée. Si la trajectoire globale est la même, chacune de ces CP a des caractéristiques formelles et "trajectorielle" propre (changement de forme et/ou de média).
 	
-	\subsubsection{Les CP historiques}
+	\subsection{Les CP historiques}
 	
 	Alors que toutes les CP ne suivent pas la même trajectoire qui restent largement exceptionnelles, certaines productions, dès les débuts de ce genre, ont laissé une empreinte indélébile sur le lectorat. Elles se sont hissées au rang de références, d'histoires marquantes qui ont contribué à définir le genre. 
 	
-	Ces CP, que nous qualifierons de CP \textbf{historique}, ont suivi un début de trajectoire similaire, mais ne se sont pas hissées au rang de canon. Malgré cela elles ont connus un franc succès. Ce succès ne prend pas la forme d'histoires liées mais par des reproductions sur d'autres formes. Au delà d'un simple copier-coller, ces histoires ont été narré sur d'autres plateformes,ou bien illustré sous différentes formes (animations, dessin...). 
+	Ces CP, que nous qualifierons de CP \textbf{historique}, ont suivi un début de trajectoire similaire, mais ne se sont pas hissées au rang de canon. Malgré cela, elles ont connu un franc succès. Ce succès ne prend pas la forme d'histoires liées mais de reproductions sur d'autres formes. Au delà d'un simple copier-coller, ces histoires ont été narré sur d'autres plateformes,ou bien illustré sous différentes formes (animations, dessin...). 
 	\textit{Ben Drowned}, que nous avons mentionné plus tôt, est un exemple de cette trajectoire : en plus de sa navigation sur différents forums, de nombreux utilisateurs, sur Youtube par exemple, utilise les images du jeux présentes dans la CP originale pour illustrer tout en narrant l'histoire associée\footnote{Voir par exemple \url{https://www.youtube.com/watch?v=2o7lcKHjdoQ\&pp=ygULYmVuIGRyb3duZWQ\%3D}}, ou ont cherché à expliquer, approfondir l'expérience\footnote{\url{https://www.youtube.com/watch?v=QJlqY1O4B00}}.
-	On peut citer, à titre d'exemple, les CP \emph{le syndrome de Lavanville} \footnote{\url{https://creepypasta.fandom.com/wiki/Lavender_Town_Syndrome}} qui évoque une rumeur sur la musique d'une version d'un jeu Pokémon, ou encore \emph{Squidward's Suicide} \footnote{\url{https://creepypasta.fandom.com/wiki/Squidward\%27s_Suicide}}, histoire d'un épisode disparu du dessin-animé \emph{Bob l'Éponge}.
+	On peut citer, à titre d'exemple, les CP \emph{le Syndrome de Lavanville} \footnote{\url{https://creepypasta.fandom.com/wiki/Lavender_Town_Syndrome}} qui évoque une rumeur sur la musique d'une version d'un jeu Pokémon, ou encore \emph{Squidward's Suicide} \footnote{\url{https://creepypasta.fandom.com/wiki/Squidward\%27s_Suicide}}, histoire d'un épisode disparu du dessin-animé \emph{Bob l'Éponge}.
 
-	\subsubsection{Le reste des productions}
+	\subsection{Le reste des productions}
 	
-	Aujourd’hui néanmoins les différentes plateformes ne sont plus assujetties à une telle limite : ce faisant le mode de production et de diffusion des CP a évolué.
+	Aujourd’hui néanmoins les différentes plateformes ne sont plus assujetties à une limite de maintien des données: ce faisant le mode de production et de diffusion des CP a évolué, et le copier-coller n'est plus un moyen de survie.
+	
 	Désormais, l’écrasante majorité des CP est produite sur des forums et sites dédiés (sans que cela soit néanmoins nécessaire, comme le montre l'exemple récent des \emph{Backrooms}, apparu la première fois sur \emph{4Chan}). Les deux pôles principaux de productions de CP sont aujourd'hui le \emph{subreddit} r/nosleep \footnote{\url{https://www.reddit.com/r/nosleep/}} et le fandom Creepypasta \footnote{\url{https://creepypasta.fandom.com/}}. 
 	
-	Ces deux plateformes voient  quotidiennement de nouvelles histoires apparaître : ainsi si la diffusion et la viralité était un moyen de survie, les histoires produites sont désormais assujetties à des règles et des méthodes biens différentes. Ce faisant une nouvelle façon d'exister, une nouvelle trajectoire, s'est développée avec la sédimentation du "genre" au cours de ces dernières années. 
+	Ces deux plateformes voient quotidiennement de nouvelles histoires apparaître : ainsi si la diffusion et la viralité était un moyen de survie, les histoires produites sont désormais assujetties à des règles et des méthodes biens différentes. Ce faisant une nouvelle façon d'exister, une nouvelle trajectoire, s'est développée avec la sédimentation du "genre" au cours de ces dernières années. 
+	Cette sédimentation à un double effet : avec l'affirmation du genre, est apparu la nécéssité de prendre en compte les auteurs de ces productions. Les production anonymes laissent leur place à des productions signés, voire en série, qui place les CP à nouveau dans une dynamique d'auctorialité plus traditionnelle, où l'auteur est replacé au centre \footnote{Il convient de noter néanmoins que ce régime d'auctorialité n'est pas le même dans le cadre des productions autour des super CP, qui forment, comme mentionné plus tôt une sorte de fanon, et donc diffuse l'auctorialité par la même.}.
 	
 	Il convient néanmoins de noter dès maintenant une différence cruciale dans le fonctionnement de ces deux plateformes : en plus d'accueillir du contenu produit régulièrement le fandom Creepypasta joue aussi un rôle d'"archive" des CP historiques. 
 	
-	Cette sédimentation, liée à la production massive de CP \footnote{Le Fandom compte près de 14 000 pages} , entraîne aussi une attente différente vis à vis de la qualité des productions : d'un genre spontané, la CP s'est construite au fur et à mesure comme un genre travaillé. \footcite{garcia_roca_creepypasta_2021}
+	Cette sédimentation, liée à la production massive de CP \footnote{Le Fandom compte près de 14 000 pages}, entraîne aussi une attente différente vis à vis de la qualité des productions : d'un genre spontané, la CP s'est construite au fur et à mesure comme un genre travaillé. \footcite{garcia_roca_creepypasta_2021}
 	
 	Les plateformes accueillant ces productions ont donc développé des standards de création devant être respectés sous peine de ne pas pouvoir publier. 
-	Avant de rentrer dans la description des règles de ces plateformes, l'existence même de celles-ci est intéressante : il existe désormais une attente liée à la littérarité des CP. Cette littérarité, comme nous l'avons laissé sous-entendre, n'est pas évidente : des productions anonymes sur des canaux de diffusion nouveaux et souffrant encore d'un manque de légitimité sont autant d'indice quant à un décalage entre les productions littéraires patrimoniales et les productions numériques.
+	A défaut de rentrer dans la description des règles de ces plateformes, l'existence même de celles-ci est intéressante : il existe désormais une attente liée à la qualité et littérarité des CP. Cette littérarité, comme nous l'avons laissé sous-entendre, n'est pas évidente : des productions anonymes sur des canaux de diffusion nouveaux et souffrant encore d'un manque de légitimité \footcite{saemmer_litterature_2011} sont autant d'indice quant à un décalage entre les productions littéraires patrimoniales et les productions numériques.
 	
-	La question de la littérarité ("c'est-à-dire ce qui fait d'une œuvre donnée une œuvre littéraire" \footcite{aron_litterature_1984}) est, d'un point de vue quantitatif (et donc du point de vue de la forme et non du fond), définissable sous différentes formes: le but est de mettre en avant une complexité textuelle caractéristique des œuvres littéraires, des caractéristiques qui différencieraient les textes de simple publication sur un forum.
-	De précédentes recherches ont montré à la fois la capacité à modéliser la littérarité\footcite{koolen_literary_2020} et quels éléments du texte pouvaient servir à l'évaluation de la littérarité\footcite{van_cranenburgh_identifying_2015}. Dans le cadre de notre étude, nous commencerons par voir si des indices plus simples et plus facilement obtenables suffisent à caractériser le caractère littéraire des productions, sans exclure la possibilité future d'appliquer les dites méthodes.
-
-	La première hypothèse qu'il est possible d'émettre tiens à la sédimentation du genre : avec l'apparition d'attentes liées à la qualité, on peut conjecturer l'apparition ou la croissance de la littérarité des textes avec le temps.
 	
-	%Il y a mélange entre qualité et longévité : une CP qui reste dans le temps (enfin qui existe) est une CP qui respecte des règles .
-
-	Ainsi une première étape dans la perspective d'une analyse génétique se dessine : peut on voir se dessiner des tendances dans la littérarité des production littéraires ? 
-
-%% Modifier cette partie. Arriver ici nous permet de prendre le temps de problématiser. Pour ce qui ets méthdoe on décale ça plus loin.
-	Pour ce faire, il est possible de mobiliser et de comparer des métriques comme la longueur des texte, la taille des phrases, la complexité du vocabulaire ou des indices lisibilité (\textit{readability}). 
-	En plus de l'étude de l'évolution dans le temps, il peut être intéressant de déterminer si ces différents indices de littérarité évoluent ou sont présents/absents de la même manière sur les différentes plateformes : cette analyse permettra de dresser la présence ou l'absence de similarité dans la forme au sein des différentes plateformes, et donc de déterminer une forme d'autorité propre à chaque plateforme.\footcite{mayer_autorite_2017}. 
-	Enfin, une dernière comparaison apparait comme féconde : à défaut d'avoir une indication quantitative du succès des publications sur le fandom, une donnée qualitative (le caractère "historique") va nous permettre d'isoler un sous-corpus.  L'existence de ce corpus nous permettra de tester les hypothèses d'évolutions plus en profondeur: est-ce que ces CP ont émergé au sein d'une tendance, ou est-ce qu'au contraire, ce sont elles qui ont permis l'émergence d'une tendance ? 
 	
-	[CLARIFIER PROBLÉMATISATION : UN AXE CARACTÉRISATION, UN AXE VIRALITÉ ET CARACTÉRISATION DES PRODUCTIONS À SUCCÈS, AVEC RELÉGATION APPROCHE GÉNÉTIQUE À UNE POSSIBLITÉ FUTURE]
-		\part{Récupération des données}
+
+		\part{Récupération et traitement des données}
+		
+		\chapter{Récupération}
 	
 	La récupération des données a nécessité une méthode différente pour chacune des plateformes.  En effet, le moissonnage des données présentes sur le web est dépendant à la fois de la forme de la plateforme et des données qui y sont présentes tout comme de la potentielle politique d'utilisation et de récupération de celle-ci. 
 	
@@ -334,12 +350,29 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	Pour le premier moissonnage,nous avons décidé de récolter les publications au nombre de vote le plus élevé, indépendemment de la date. En effet, contrairement à la plateforme \textit{Fandom}, reddit dispose d'un indicateur quantitatif quant à la réception d'une publication : cette information nous permettra par la suite d'explorer les inférences entre réussite et forme.
 	De cette manière , nous avons récupéré un millier de pages. 
 	
-	S'il est possible de considérer que les presque 14000 produtions récupérées sont suffisantes, le désiquilibre important entre les corpus risque de biaiser les résultats. De plus, le fait d'avoir sélectionné les productions les mieux notées de la plateformer reddit est intéréssant, mais risque là encore de mener à un biais important quant à la cractérisation des corpus : on peut supposer que les caractéristiques textuelles des meilleures production ne refletenet pas nécéssairement les caractéristiques de toutes la plateforme.
+	S'il est possible de considérer que les presque 14000 produtions récupérées sont suffisantes, le désiquilibre important entre les corpus risque de biaiser les résultats. De plus, le fait d'avoir sélectionné les productions les mieux notées de la plateforme reddit est intéressant, mais risque là encore de mener à un biais important quant à la caractérisation des corpus : on peut supposer que les caractéristiques textuelles des meilleures production ne refletent pas nécéssairement les caractéristiques de toute la plateforme.
 	
-	Une recherche plus approfondie nous a permis de découvrir la base de données Pushshift\footcite{baumgartner_pushshift_2020}, base de données recensant les productions de l'ensemble des subreddit de 2005 à 2019\footnote{Je tiens à remercier particulièrement M. Armin Pournaki pour m'avoir aiguillé dans mes recherches}. Ainsi de 1000 publications, nous avons été capable de récupérer pas loin de 190000 publications\footnote{le total de publication s'élève dans les fait à 385668 productions. Néanmoins plus la moitié a été supprimé ou retiré de la plateforme.}, nous permettant par la même de déterminer le nombre de production totale sur cette période. [ECHANTILLONANNAGE]	
-	La base de données se présente en premier lieu sous la forme d'une base SQL, que nous avons converti en un format tabulaire (csv à nouveau) pour une utilisation plus facile. 
-
+	Néanmoins, une recherche plus approfondie nous a permis de découvrir la base de données Pushshift\footcite{baumgartner_pushshift_2020}, base de données recensant les productions de l'ensemble des subreddit de 2005 à 2019. Ainsi de 1000 publications, nous avons été capable de récupérer pas loin de 190000 publications\footnote{le total de publication s'élève dans les fait à 385668 productions. Néanmoins plus la moitié a été supprimé ou retiré de la plateforme.}, nous permettant par la même de déterminer le nombre de production totale sur cette période. 
+	Or un tel nombre de production n'est pas sans problème : de pas assez nous sommes arrivés à trop. Cette masse de données considérables rend les computations beaucoup plus gourmandes, trop pour l'ordinateur utilisé du moins, et représente un obstacle conséquent. Ainsi pour palier à cette limite, nous avons sélectionné des échantillons afin d'équilibrer le corpus. Pour construire cet échantillon nous avons procédé en deux temps, en sélctionant une première partie de l'échantillon en fonction de la date, puis en selectionnant l'échanitllon en fonction de la note. En sélectionnant resepctivement 7500 publications réparties équitablement sur l'ensemble du corpus, nous avons réussi à obtenir un corpus mieux équilibré et suivant la même répartition dans le temps et sur les notes. 
+	
+	
+	
+	
+	
+	\chapter{Traitement}
+		La question de la littérarité ("c'est-à-dire ce qui fait d'une œuvre donnée une œuvre littéraire" \footcite{aron_litterature_1984}) est, d'un point de vue quantitatif (et donc du point de vue de la forme et non du fond), définissable sous différentes formes: le but est de mettre en avant une complexité textuelle caractéristique des œuvres littéraires, des caractéristiques qui différencieraient les textes de simple publication sur un forum.
 		
+		De précédentes recherches ont montré à la fois la capacité à modéliser la littérarité\footcite{koolen_literary_2020} et quels éléments du texte pouvaient servir à l'évaluation de la littérarité\footcite{van_cranenburgh_identifying_2015}. Dans le cadre de notre étude, nous commencerons par voir si des indices plus simples et plus facilement obtenables suffisent à caractériser le caractère littéraire des productions, sans exclure la possibilité future d'appliquer les dites méthodes.
+		%% Citer barré et al pour la canonis
+		
+		La première hypothèse qu'il est possible d'émettre tient à la sédimentation du genre : avec l'apparition d'attentes liées à la qualité, on peut conjecturer l'apparition ou la croissance de la littérarité des textes avec le temps.
+		
+			
+		%% Modifier cette partie. Arriver ici nous permet de prendre le temps de problématiser. Pour ce qui ets méthdoe on décale ça plus loin.
+		Pour ce faire, il est possible de mobiliser et de comparer des métriques comme la longueur des texte, la taille des phrases, la complexité du vocabulaire ou des indices lisibilité (\textit{readability}). 
+		En plus de l'étude de l'évolution dans le temps, il peut être intéressant de déterminer si ces différents indices de littérarité évoluent ou sont présents/absents de la même manière sur les différentes plateformes : cette analyse permettra de dresser la présence ou l'absence de similarité dans la forme au sein des différentes plateformes, et donc de déterminer une forme d'autorité propre à chaque plateforme.\footcite{mayer_autorite_2017}. 
+		Enfin, une dernière comparaison apparait comme féconde : à défaut d'avoir une indication quantitative du succès des publications sur le fandom, une donnée qualitative (le caractère "historique") va nous permettre d'isoler un sous-corpus.  
+		L'existence de ce corpus nous permettra de tester les hypothèses d'évolutions et de caractérisation plus en profondeur: est-ce que ces CP ont émergé au sein d'une tendance, ou est-ce qu'au contraire, ce sont elles qui ont permis l'émergence d'une tendance ? 
 	\part{Premiers résultats}
 	
 	\chapter{Caractérisation des Creepypastas}
@@ -415,7 +448,9 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	Afin de souligner à quel point ces thèmes sont caractéristiques de ce genre de littérature d'horreur, nous avons chercher à identifier les thèmes les plus récurrents des productions cinématographiques d'horreur.
 	Pour ce faire, nous avons suivi la même méthode d'extraction des thèmes cette fois-ci sur un ensemble de description de films d'horreur extraits de la base de données \textit{The Movie Data Base}\footnote{\url{https://www.themoviedb.org/}} (cf. Figure \ref{fig:topic_tmdb})	
 	La différence entre les thèmes est flagrante : si les CP évoquent en filigrane l'expérience personnelle, le foyer, l'intimité , les films d'horreurs sont plus facilement tournés vers le spectaculaire et le surnaturel (zombie, expérience scientifique, religion, vampire). 
-	Ainsi l'hypothèse d'un genre caractérisé par un lien étroit avec l'intimité et l'expérience semble se confirmer : le frisson de l'horeur ne passe que rarement par des effusions de sang, mais bien par quelque chose de plus subtil.
+	Ainsi l'hypothèse d'un genre caractérisé par un lien étroit avec l'intimité et l'expérience semble se confirmer : le frisson de l'horreur ne passe que rarement par des effusions de sang, mais bien par quelque chose de plus subtil.
+	Les thèmes des CP sont doubles, étant à la fois élément de cadre et potentiellement éléments déclencheurs de la peur. Cette dualité n'est pas présente, ou dans une dimension moindre dans un film d'horreur par exemple . Un zombie, élément déclencheur n'est pas nécéssairement un élément cadrant du récit, du moins pas au même titre que la famille par exemple, qui peut aussi bien être un thème cadre, et ce qui, une fois pervertie ou distordues, apporte l'élément horrifique. Ainsi, on peut supposer que la subtilité des thèmes et de l'horreur est double : la peur n'est pas issue d'élément spectaculaire et infuse donc le récit.
+	
 	
 	Notons aussi que cette caractérisation n'est pas dépendante de la plateforme d'origine : à quelques différences près, les thèmes présents sur les deux plateformes sont les mêmes (cf. Figure \ref{fig:topic_CP} et Figure \ref{fig:topic_reddit}). 
 	
@@ -443,7 +478,7 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 		
 
 	% richesse lexicale et lisibilité
-	\section{Richesse Lexicale et indice de lisibilité}
+	\section{Mesurer la complexité d'un texte : Richesse Lexicale et indice de lisibilité}
 	
 % Lisibilité : une score faible => une littérature accessible
 	Une manière de mesurer le caractère littéraire d'une oeuvre réside dans la mesure de sa complexité. Mesurer la complexité d'un texte peut se faire de plusieurs manière. Dans une perspective quantitative, nous avons selectionné deux types d'indicateurs : les indices de lisibilités et les indices de richesses lexicales. 
@@ -451,7 +486,7 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 
 
 	\subsection{Les indices de lisibilités} 
-	Les indices de lisibilités sont des indices calculé aafin de mesurer la difficulté de lire un texte. Le plus souvent, la valeur de ces indices est associées à un niveau scolaire : en effet, ces indices sont souvent un moyen de rendre compte de la diffuclté d'un texte dans le cadre scolaire. 
+	Les indices de lisibilités sont des indices calculé aafin de mesurer la difficulté de lire un texte. Le plus souvent, la valeur de ces indices est associées à un niveau scolaire : en effet, ces indices sont souvent un moyen de rendre compte de la difficulté d'un texte dans le cadre scolaire. 
 	En ce qui nous concerne, notre but est d'une part de caractériser la lisibilité des CP, tout en rendant compte de la difficylté relative de lecture. Comme nous l'avons mentionné précédemment, nous faisons l'hypothèse d'une lisibilité relativement élevée, en lien avec une prétention grandissante à la littérarité. Nous nous attendons donc à voir apparaître une lisibilité plus élevés (c'est à dire une plus grande difficulté de lecture) vis à vis du corpus Web, mais plus fiable vis à vis du corpus littéraire.
 	
 	\begin{figure}
@@ -484,10 +519,12 @@ Il est essentiel de souligner la distinction du cadre théorique entre la cultur
 	
 	%Comparaison des richesse lexicales 
 	\subsection{Les indices de richesse lexicales}
-	%Comparaison de la lisibilité  => Plus facilement lisible que de la litt et que le web en moyenne (à nuancer)
+
 Allant de pair avec la difficulté de lecture, les indices des mesures lexicales sont, comme leur nom l'indique, des mesures de la richesse du vocabulaire. Si chacune des indices fonctionnent différement (cf. Partie  \ref{annexe_richesse_lex}), le principe est analogue à chaque fois: on compare le nombre total de mot ou de token à un élément. 
 
-Intuitivement nous avons cherché à utiliser cette mesure pour souligner, de la même façon que les indices de lisibilité, une certaine littérarité : un texte littéraire, et donc plus complexe, en plus de structure grammaticale plus complexe, va utiliser des mots plus rares, ou plus nombreux. 
+Intuitivement nous avons cherché à utiliser cette mesure pour souligner, de la même façon que les indices de lisibilité, une certaine littérarité : un texte littéraire, et donc plus complexe, en plus de structure grammaticale plus complexe, va utiliser des mots plus rares,et ou plus nombreux. 
+
+Néanmoins cette approche s'est révélé peu fructueurse : 
 
 [A FINIR => ne pas]
 % Problème : 
@@ -528,7 +565,7 @@ Intuitivement nous avons cherché à utiliser cette mesure pour souligner, de la
 
 \subsection{La polarité}
 On remarque rapidement que, la polarité attendues, c'est à dire la polarité négative, n'est que très légèrement supérieur à la polarité positive :  la dispersion de la polarité est plus importante (il existe des textes qui sont "plus négatif" que le maximum de positif). 
-Une hypothèse possible quant à cette répartition de la polarité presque égale tient au fonctionnement de ces histoires : les éléments négatifs caractéristiques, qui amènent la peur et le doute, n'apparaissent que relativement tard narrativement parlant. A l'instar des nouvelles fantastiques, comme nous l'avons précédemment mentionné, le caractère horrifique des CP tient à une situation 'normale"  qui se voit perturbé. Comme nous l'avons noté aussi, la perturbation n'est pas des plus brutale, du moins en ce qui concerne le vocabulaire (cf \ref{section_topic}). ces éléments peuvent expliquer la question de la polarité.
+Une hypothèse possible quant à cette répartition de la polarité presque égale tient au fonctionnement de ces histoires : les éléments négatifs caractéristiques, qui amènent la peur et le doute, n'apparaissent que relativement tard narrativement parlant. A l'instar des nouvelles fantastiques, comme nous l'avons précédemment mentionné, le caractère horrifique des CP tient à une situation 'normale"  qui se voit perturbé. Comme nous l'avons noté aussi, la perturbation n'est pas des plus brutale, du moins en ce qui concerne le vocabulaire (cf \ref{section_topic}). Ces éléments peuvent expliquer la question de la polarité.
 	
 
 \subsection{Les sentiments}
@@ -576,17 +613,11 @@ Malgré cela,cette agrégation reste artificielle et problématique : une façon
 
 Une fois cette fusion opérée, la prochaine étape est de vérifier quelles variables sont les plus pertinentes  : cette fois ci la question se pose audelà des indices mesurant la même chose. Afin de sélectionner les variables les plus pertinentes, nous avons procédés à une première régression dite séquentielle (\emph{stepwise regression}).  Le principe de cette regression est le suivant :l'algorithme part d'une modèle vide et vient ajouter progressivement les variables, tout en mesurant l'effet de la nouvelle variable. Si celle-ci est statistiquement significative elle est conservée. Puis l'inverse est réalisée pour s'assurer de la pertinence des variables sélectionnées : les variables sont enlevées au fur et à mesure tout en suivant la même logique . 
 
-Cette méthode nous permet de réduire le nombre de varibles au nombre de  14 : la lisibilité, la longueur des phrases, la tristesse, la peur, la colère, la joie, la joie, la surprise, l'attente, le positif et les topics 2, 3, 4, 9 , 12 (respectivement  : la douleur physique, les animaux de compagnie, la voiture, la forêt et les expériences traumatiques). 
+Cette méthode nous permet de réduire le nombre de variables au nombre de  14 : la lisibilité, la longueur des phrases, la tristesse, la peur, la colère, la joie, la joie, la surprise, l'attente, le positif et les topics 2, 3, 4, 9 , 12 (respectivement  : la douleur physique, les animaux de compagnie, la voiture, la forêt et les expériences traumatiques). 
 
-Une fois ces variables selectionnées, on applique un algorithme de régression logistique sur notre corpus limités aux-dites variables.
-%Ou comment essayer de voir ce qui marque la différence entre les corpus
-% Aggrégation des variables : problématique, on y reviendra
-% Rapide explication du principe
-%Algorithme de stepwise méthode de recherche progressive pour sélectionner que certaines variables
-% Valeurs intéréssantes
-%Longueur des phrases et lisibilité => les deux points clés
-% Les topics
-\section{résultats de la regression}
+Une fois ces variables sélectionnées, on applique un algorithme de régression logistique sur notre corpus limités aux-dites variables.
+
+\section{Résultats de la régression}
 \begin{table}[htbp]
 	\centering
 	\caption{Résultats de la régression logistique}
@@ -619,15 +650,56 @@ Une fois ces variables selectionnées, on applique un algorithme de régression 
 \end{table}
 
 \subsection{Les scores globaux}
+Afin de mesurer la qualité de la régression, il convient, avant de regarder les variables respectivement, d'analyser les scores globaux de celle-ci. 
+Ces 3 scores (\texttt{Log-Likelihood, Pseudo R-squared, LLR p-value}) mesurent respectivement la qualité de l'ajustement aux observées, la proportion de la variance des données explicatives, et si le modèle est significatif par rapport au modèle nul. 
+Si le premier score est dure à analyser ( la valeur, sans comparaison ne nous apportent rien), les deux suivants, le \texttt{pseudo R-squared} et la \texttt{LLR p-value} sont elles significative ne soi : la valeur du \texttt{pseudo R-squared} signifie que le modèle explique environ 6.5\% de la variation des données. Cette valeur est faible, sans pour autant qu'elle invalide les résultats. 
+En revanche, la valeur du LLR p-value nous indique que le modèle est significatif : le seuil admis pour considérer qu'un modèle est significatif est généralement de 0.05. Ici la valeur de 2,744e-43\footnote{0.00000000000000000000000000000000000000002744} est bien inférieur à ce seuil : les variables explicatives apportent une amélioration substantielle à l'ajustement du modèle par rapport à un modèle nul.
 
+Ces deux conclusions ensemble suggèrent que, bien que le modèle actuel puisse être amélioré en incluant d'autres variables explicatives ou en modifiant la structure du modèle, les variables incluses actuellement sont importantes et apportent une contribution significative à la compréhension du phénomène étudié.
 
 \subsection{Les variables explicatives}
+Afin d'analyser les variable explicatives, nous prendrons en compte les valeurs des coefficients et les p-values (\texttt{P>|z|}). Ces deux éléments nous indiquent respectivement le poids de la variable (si le coefficient est positif, la probabilité pour que le texte soit viral augmente, et inversement pour une valeur négative), et si la variable est statistiquement significative (à nouveau le seuil à partir duquel on considérera la variable significative est 0.05 : au-dessus la variable n'est pas considéré comme statistiquement significative).  Ainsi les variables qui vont nous intéresser sont naturellement les variables avec un haut coefficient et une p-value très faible. 
+Et deux variables semblent remplir ces conditions : la longueur moyenne des phrases et la lisibilité. D'après le modèle, les histoires virales sont caractérisées d'abord par deux phrases plus courtes (coefficient négatif), mais des indices de lisibilités plus élevés (c'est à dire des textes plus difficile à lire). 
+Si ces deux résultats peuvent apparaître comme contradictoire, l'explication possible n'est pas insensée. Une lisibilité accrue signifie une augmentation des mots longs et complexe. Ainsi les histoires virales tendent à concentrer les éléments syntaxiques. Une hypothèse que l'on pourrait émettre teindrait à un travail plus poussé du style de la part des auteurs, où cherchant à produire des phrases simples (dans un soucis d'expression ou de simplicité), on assiste à une sorte  de concentration de la complexité. 
+
+Cette hypothèse va de paire avec l'hypothèse de la subtilité des thèmes et des émotions : la concentration du style irait de paire avec cette subtilité, où plus serait dit avec moins.
+
+Les autres variables, malgré leur faible coefficients restent intéressantes à explorer : Dans un premier temps il convient de noter la quasi absence des topics dans les varaibles explicatives pertinentes. Les thèmes n'apparaissent pas comme un élément vraiment caractéristiques. Cette idée est confirmée à la fois par les valeurs des coefficients et par les valeurs relativement élevées des p-value. 
+
+Concernant les émotions, le constat est plus nuancé. Surprise mise à part, les émotions semblent être relativement significative. On peut noter l'absence de la valence négative parmi les variables, tout comme une légère pénalité pour la peur et l'anticipation. Ces éléments étaye notre hypothèse : le vocable de la peur ou bien plus négatif n'explique pas le succès, renforçant donc l'idée d'une peur plus subtile.
+
+
+\subsection{Évolution des variables explicatives les plus significatives}
+Enfin en guise de conclusion des computations nous avons voulu vérifier une dernière hypothèse, concernant le statut canonique de ces histoires : peut-on repérer dans l'évolution de ces métriques un comportement particulier ?
+Ces histoires, comme nous l'avons vu précédemment, ont agi comme référence pour les autres histoires. Dès lors, peut-on retrouver cette référentilaité dans les métriques que nous avons sélectionnées ? Autrement dit, est-il possible de voir une convergence des métriques dans le temps vers les valeurs des productions hitoriques ? 
+Pour ce faire nous avons calculé le carré de la distance entre la moyenne de l'indice de lisibilité et de longueur de phrase des histoires virales et la valeur de chaque histoire. 
+Pour les deux métriques, le schéma est relativement proche : on assiste à une convergence vers la valeur moyenne des histoires virales pour ensuite diverger. 
+ \begin{figure}[htbp]
+	\centering
+	\begin{subfigure}[b]{0.45\textwidth}
+		\includegraphics[width=\textwidth]{illustration/distance_lisibilite.png}
+		\caption{Évolution de la distance entre la lisibilité et la valeur moyenne des histoires virales}
+		\label{fig:distance_lisibilité}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}[b]{0.45\textwidth}
+		\includegraphics[width=\textwidth]{illustration/distance_phrases.png}
+		\caption{évolution de la distance entre la longueur des phrases et la valeur moyenne des histoires virales}
+		\label{fig:distance_phrases}
+	\end{subfigure}
+\end{figure}
+
+Ainsi au cours du temps les histoires vont s'approcher de la forme (une valeur plus basse indique une plus grande proximité) des histoires virales avant de s'en détacher. Si ce ne sont pas des distances entre textes à proprement parler, ces distances permettent d'illustrer, au moins en partie ce phénomène. 
 
 \part{Conclusions, et perspectives futures}
-	
+%conclusion
+%Retour au mème et à la question de la reproductibilité et de la longévité
+%perspetives : d'autres variables, de meilleure qualité, et lesrègles (cf théâtre classique)
+Ces travaux ne représentent qu'un premier pas,un peu hésitant vers une étude plus approfondie. Outre la qualité des métriques et des aggrégations que nous avons évoqué précédemment, 
 	\pagebreak
 
 
+\backmatter
 	\part{Annexe}
 	\section*{Les indices de lisibilité}
 \begin{itemize}

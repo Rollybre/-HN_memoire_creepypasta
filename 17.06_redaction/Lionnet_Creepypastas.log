@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  30 MAY 2024 23:23
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  1 JUN 2024 16:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1002,104 +1002,104 @@ Package csquotes Info: Redefining alias 'default' -> 'french'.
 (./Lionnet_Creepypastas.aux)
 \openout1 = `Lionnet_Creepypastas.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
-5.
+2.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 45.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 45
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 42
 .
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 45.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 45.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 45.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 45.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 45.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 45.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 45.
-LaTeX Font Info:    Redeclaring math accent \check on input line 45.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 45.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 45.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 45.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 45.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 42.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 42.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 42.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 42.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 42.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 42.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 42.
+LaTeX Font Info:    Redeclaring math accent \check on input line 42.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 42.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 42.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 42.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 42.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 45.
+(Font)              `operators' in the math version `normal' on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 45.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 42.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 45.
+(Font)              `operators' in the math version `bold' on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 45.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 45.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 45.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 45.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 45.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 45.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 45.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 45.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 45.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 45.
-Package hyperref Info: Link coloring OFF on input line 45.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 42.
+Package hyperref Info: Link coloring OFF on input line 42.
 
 (./Lionnet_Creepypastas.out) (./Lionnet_Creepypastas.out)
 \@outlinefile=\write5
 \openout5 = `Lionnet_Creepypastas.out'.
 
-LaTeX Info: Redefining \up on input line 45.
+LaTeX Info: Redefining \up on input line 42.
 Package biblatex Info: Trying to load language 'french'...
 Package biblatex Info: ... file 'french.lbx' found.
 
@@ -1116,8 +1116,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Lionnet_Creepypastas.bbl' found.
 
 (./Lionnet_Creepypastas.bbl)
-Package biblatex Info: Reference section=0 on input line 45.
-Package biblatex Info: Reference segment=0 on input line 45.
+Package biblatex Info: Reference section=0 on input line 42.
+Package biblatex Info: Reference segment=0 on input line 42.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: wrapfig package is loaded.
@@ -1160,24 +1160,25 @@ Package caption Info: End \AtBeginDocument code.
 [1
 
 
+
 ] [1
 
-]
+] [2]
 Package lettrine.sty Info: Targeted height = 27.918pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 27.91795pt (M);
-(lettrine.sty)             reported on input line 136.
- [2
+(lettrine.sty)             reported on input line 137.
+ [3
 
 
 ] (./Lionnet_Creepypastas.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 8.
+(Font)              <12> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 8.
- [3
+(Font)              <6> on input line 7.
+ [4
 
 
 
@@ -1185,100 +1186,127 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write6
 \openout6 = `Lionnet_Creepypastas.toc'.
 
- [4]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 152.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 152.
- [5
+ [5]
+(./Lionnet_Creepypastas.lof)
+\tf@lof=\write7
+\openout7 = `Lionnet_Creepypastas.lof'.
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+ [6
 
- []
+] (./Lionnet_Creepypastas.lot)
+\tf@lot=\write8
+\openout8 = `Lionnet_Creepypastas.lot'.
 
-[6] [7
+ [7
+
+] [1
+
+] [2]
+[1
+
 
 ]
 Chapitre 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 174.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 174.
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
-[8
+[2
 
-] [9]
+]
+
+LaTeX Warning: Citation 'todorov_introductin_1992' on page 3 undefined on input
+ line 195.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+[3] [4]
 File: ../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustr
 ation/ben_drowned1.jpg Graphic file (type bmp)
 <../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustration
 /ben_drowned1.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--209
+Underfull \hbox (badness 10000) in paragraph at lines 226--232
 \TU/lmr/m/n/12 sur Internet destinées à la diffusion sur Internet.
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 211--212
+Underfull \hbox (badness 1648) in paragraph at lines 234--235
 \TU/lmr/m/n/12 la forme qu’ils prennent : Il n’est pas rare que les
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--212
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
  []
 
-[10] [11] [12]
+[5] [6] [7]
 Chapitre 2.
 
-LaTeX Warning: Citation 'dawkins_gene_2003' on page 13 undefined on input line 
-229.
+LaTeX Warning: Citation 'dawkins_gene_2003' on page 8 undefined on input line 2
+53.
 
 
-LaTeX Warning: Citation 'dawkins_gene_2003' on page 13 undefined on input line 
-234.
+LaTeX Warning: Citation 'dawkins_gene_2003' on page 8 undefined on input line 2
+58.
 
-[13
+[8
 
-] [14]
+] [9]
 File: ../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustr
 ation/SCP_173.jpg Graphic file (type bmp)
 <../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustration
 /SCP_173.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--263
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
 [][][]\TU/lmr/m/n/10 .[][][]Laura []Goudet[], «   Agentivité de l’horreur, cree
 pypastas et jeu vidéo » (, 2021),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--263
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
 \TU/lmr/m/n/10 Artwork Size : 13 pages, pages 57-69 ISBN : 9782406125488 Medium
  : applica-
  []
 
-[15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 281--281
+[10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
 [][][]\TU/lmr/m/n/10 .[]Voir par exemple []$[][][][][] [] [] [] [][][] [] [][][
 ][][][][] [] [][][] [] [][][][][] [] [] [] [][][][][][][][][][][] [] [][] []
  []
 
-[17] [18] [19] [20
+[12] [13] [14
 
-] [21]
-Overfull \hbox (1.67664pt too wide) in paragraph at lines 334--336
+]
+Chapitre 3.
+[15
+
+]
+Overfull \hbox (1.67664pt too wide) in paragraph at lines 350--352
 []\TU/lmr/m/n/12 Pour le premier moissonnage,nous avons décidé de récolter les 
 publications au nombre
  []
 
-[22] [23] [24
+[16] [17]
+Chapitre 4.
+[18
+
+] [19] [20
 
 ]
-Chapitre 3.
-[25
+Chapitre 5.
+[21
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
 
  []
 
@@ -1290,7 +1318,7 @@ File: //Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05
 image/tf_idf_topic_tmdb.png Graphic file (type bmp)
 <//Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image
 /tf_idf_topic_tmdb.png>
-[26]
+[22]
 File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
 mage/tf-idf_topic_fandom.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
@@ -1299,17 +1327,17 @@ File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_
 mage/tf-idf_topic_reddit.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
 tf-idf_topic_reddit.png>
- [27]
+ [23] [24]
 File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
 mage/comparaison_lisibilite_source.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
 comparaison_lisibilite_source.png>
- [28]
+ [25]
 File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
 mage/boxplot_readability_V2.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
 boxplot_readability_V2.png>
- [29] [30]
+ [26]
 File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
 mage/emotions.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
@@ -1318,56 +1346,55 @@ File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_
 mage/emotions_corrected.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
 emotions_corrected.png>
- [31] [32]
-Chapitre 4.
+ [27] [28] [29]
+Chapitre 6.
 File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
 mage/corr_read.png Graphic file (type bmp)
 </Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
 corr_read.png>
-[33
+[30
 
-] [34]
-! Too many }'s.
-l.623 \subsection{Les variables explicatives}}
-                                              
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
+] [31] [32] [33]
+File: illustration/distance_lisibilite.png Graphic file (type bmp)
+<illustration/distance_lisibilite.png>
+File: illustration/distance_phrases.png Graphic file (type bmp)
+<illustration/distance_phrases.png>
+ [34] [35] [36
 
-[35] [36] [37
+] [37] [38
 
-] [38
 
 ] [39] [40] [41
 
 ] [42]
-Overfull \hbox (282.66286pt too wide) in paragraph at lines 717--717
+Overfull \hbox (282.66286pt too wide) in paragraph at lines 790--790
 \TU/lmr/m/n/12 Size : 13 pages, pages 57-69 ISBN : 9782406125488 Medium : appli
 cation/xhtml+xml,application/pdf,online,database,application/xhtml+xml ;
  []
 
 [43]
-Overfull \hbox (35.04774pt too wide) in paragraph at lines 717--717
+Overfull \hbox (35.04774pt too wide) in paragraph at lines 790--790
 [][][]\TU/lmr/m/sc/12 Koolen []\TU/lmr/m/n/12 (Corina), []\TU/lmr/m/sc/12 Dalen
 -Oskam []\TU/lmr/m/n/12 (Karina van), []\TU/lmr/m/sc/12 Cranenburgh []\TU/lmr/m
 /n/12 (Andreas van) et []\TU/lmr/m/sc/12 Nagelhout
  []
 
 
-Overfull \hbox (17.63498pt too wide) in paragraph at lines 717--717
+Overfull \hbox (17.63498pt too wide) in paragraph at lines 790--790
 [][][]\TU/lmr/m/sc/12 Mirvoda []\TU/lmr/m/n/12 (T. A.), []\TU/lmr/m/sc/12 Strog
 anov []\TU/lmr/m/n/12 (M. V.), []\TU/lmr/m/sc/12 A. M. Gorky Institute of World
  literature
  []
 
 [44]
-Overfull \hbox (0.10312pt too wide) in paragraph at lines 717--717
+Overfull \hbox (0.10312pt too wide) in paragraph at lines 790--790
 \TU/lmr/m/it/12 of Qualitative Methods\TU/lmr/m/n/12 , 3–2 (juin 2004), p. 45-5
 1, \TU/lmr/m/sc/12 doi \TU/lmr/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][]
 [][][][][][][][][][]$[]. 
  []
 
 
-Overfull \hbox (11.90863pt too wide) in paragraph at lines 717--717
+Overfull \hbox (11.90863pt too wide) in paragraph at lines 790--790
 [][]\TU/lmr/m/it/12 The Movie Database (TMDB)\TU/lmr/m/n/12 , \TU/lmr/m/sc/12 u
 rl \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][] [] []
 [][][]$[] (visité le 28/05/2024). 
@@ -1383,8 +1410,8 @@ Package rerunfilecheck Warning: File `Lionnet_Creepypastas.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Lionnet_Creepypastas.out':
-(rerunfilecheck)             Before: 6BFA711623D2950F68BC8F12E00CE604;4078
-(rerunfilecheck)             After:  706DFA9F914F0028FDB8DC4683F361EF;4434.
+(rerunfilecheck)             Before: 336BE5BA54B89030E70A8BC4AB534AD7;6760
+(rerunfilecheck)             After:  2F8BEA8E73AB9D767B915BD984311BCC;6956.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                Lionnet_Creepypastas
@@ -1395,12 +1422,12 @@ Package logreq Info: Writing requests to 'Lionnet_Creepypastas.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37459 strings out of 476683
- 755727 string characters out of 5804047
+ 37494 strings out of 476683
+ 756638 string characters out of 5804047
  1865018 words of memory out of 5000000
- 57186 multiletter control sequences out of 15000+600000
+ 57212 multiletter control sequences out of 15000+600000
  515607 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 84i,9n,89p,4577b,5347s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,9n,89p,4577b,5349s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Lionnet_Creepypastas.pdf (47 pages).
+Output written on Lionnet_Creepypastas.pdf (56 pages).
