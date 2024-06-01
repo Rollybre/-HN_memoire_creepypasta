@@ -50,34 +50,6 @@
       \verb https://www.youtube.com/watch?v=C8d12w6pMos
       \endverb
     \endentry
-    \entry{king_anatomie_2020}{book}{}
-      \name{translator}{1}{}{%
-        {{hash=03d758a53613aca4f9242679b1054406}{%
-           family={Brèque},
-           familyi={B\bibinitperiod},
-           given={Jean-Daniel},
-           giveni={J\bibinithyphendelim D\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {fre}%
-      }
-      \list{location}{1}{%
-        {Paris}%
-      }
-      \list{publisher}{1}{%
-        {Librairie Générale Française}%
-      }
-      \strng{translatorbibnamehash}{03d758a53613aca4f9242679b1054406}
-      \strng{translatornamehash}{03d758a53613aca4f9242679b1054406}
-      \strng{translatorfullhash}{03d758a53613aca4f9242679b1054406}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-2-253-26056-1}
-      \field{note}{OCLC: 1201255070}
-      \field{title}{Anatomie de l'horreur}
-      \field{year}{2020}
-    \endentry
     \entry{aron_litterature_1984}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=fda7a4d69482951bc33e6978f7a57c4c}{%
@@ -249,7 +221,6 @@
       \field{volume}{8}
       \field{year}{2023}
       \field{urldateera}{ce}
-      \true{nocite}
       \verb{doi}
       \verb 10.22148/001c.88113
       \endverb
@@ -608,7 +579,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Rise and {Fall} of {Theatrical} {Genres} in {Early} {Modern} {France}}
-      \true{nocite}
       \verb{file}
       \verb Cafiero et Gabay - Rise and Fall of Theatrical Genres in Early Modern.pdf:/Users/rolly/Zotero/storage/DBM8RMS5/Cafiero et Gabay - Rise and Fall of Theatrical Genres in Early Modern.pdf:application/pdf
       \endverb
@@ -948,6 +918,37 @@
       \verb{url}
       \verb https://aclanthology.org/W15-0707
       \endverb
+    \endentry
+    \entry{dawkins_selfish_1989}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e4bf161272e948cc189fac2d9b7415a5}{%
+           family={Dawkins},
+           familyi={D\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford ; New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{fullhash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{bibnamehash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{authorbibnamehash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{authornamehash}{e4bf161272e948cc189fac2d9b7415a5}
+      \strng{authorfullhash}{e4bf161272e948cc189fac2d9b7415a5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{New ed}
+      \field{isbn}{978-0-19-217773-5 978-0-19-286092-7}
+      \field{title}{The selfish gene}
+      \field{year}{1989}
+      \keyw{Evolution (Biology),Genetics,Sociobiology}
     \endentry
     \entry{duncan_human_2018}{article}{}
       \name{author}{1}{}{%
@@ -1564,6 +1565,49 @@
       \verb{url}
       \verb https://www.youtube.com/watch?v=H4dGpz6cnHo
       \endverb
+    \endentry
+    \entry{king_anatomie_2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e9ed4ffe164211fdba14a55166020fa1}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=03d758a53613aca4f9242679b1054406}{%
+           family={Brèque},
+           familyi={B\bibinitperiod},
+           given={Jean-Daniel},
+           giveni={J\bibinithyphendelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Librairie Générale Française}%
+      }
+      \strng{namehash}{e9ed4ffe164211fdba14a55166020fa1}
+      \strng{fullhash}{e9ed4ffe164211fdba14a55166020fa1}
+      \strng{bibnamehash}{e9ed4ffe164211fdba14a55166020fa1}
+      \strng{authorbibnamehash}{e9ed4ffe164211fdba14a55166020fa1}
+      \strng{authornamehash}{e9ed4ffe164211fdba14a55166020fa1}
+      \strng{authorfullhash}{e9ed4ffe164211fdba14a55166020fa1}
+      \strng{translatorbibnamehash}{03d758a53613aca4f9242679b1054406}
+      \strng{translatornamehash}{03d758a53613aca4f9242679b1054406}
+      \strng{translatorfullhash}{03d758a53613aca4f9242679b1054406}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-253-26056-1}
+      \field{note}{OCLC: 1201255070}
+      \field{title}{Anatomie de l'horreur}
+      \field{year}{2020}
     \endentry
     \entry{koiva_contemporary_nodate}{article}{}
       \name{author}{2}{}{%
@@ -2373,7 +2417,6 @@
       \field{volume}{18}
       \field{year}{2011}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{201\bibrangedash 223}
       \range{pages}{23}
       \verb{doi}
@@ -2502,11 +2545,11 @@
     \endentry
     \entry{todorov_introduction_1992}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=eda0cab55cb1d5efa208513b9b9e0b8e}{%
+        {{un=0,uniquepart=base,hash=d7c924e01d14798740b4b8a46a1593c1}{%
            family={Todorov},
            familyi={T\bibinitperiod},
-           given={Cvetan},
-           giveni={C\bibinitperiod},
+           given={Tzvetan},
+           giveni={T\bibinitperiod},
            givenun=0}}%
       }
       \list{language}{1}{%
@@ -2518,12 +2561,12 @@
       \list{publisher}{1}{%
         {Ed. du seuil}%
       }
-      \strng{namehash}{eda0cab55cb1d5efa208513b9b9e0b8e}
-      \strng{fullhash}{eda0cab55cb1d5efa208513b9b9e0b8e}
-      \strng{bibnamehash}{eda0cab55cb1d5efa208513b9b9e0b8e}
-      \strng{authorbibnamehash}{eda0cab55cb1d5efa208513b9b9e0b8e}
-      \strng{authornamehash}{eda0cab55cb1d5efa208513b9b9e0b8e}
-      \strng{authorfullhash}{eda0cab55cb1d5efa208513b9b9e0b8e}
+      \strng{namehash}{d7c924e01d14798740b4b8a46a1593c1}
+      \strng{fullhash}{d7c924e01d14798740b4b8a46a1593c1}
+      \strng{bibnamehash}{d7c924e01d14798740b4b8a46a1593c1}
+      \strng{authorbibnamehash}{d7c924e01d14798740b4b8a46a1593c1}
+      \strng{authornamehash}{d7c924e01d14798740b4b8a46a1593c1}
+      \strng{authorfullhash}{d7c924e01d14798740b4b8a46a1593c1}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -2533,7 +2576,6 @@
       \field{series}{Collection {Poétique}}
       \field{title}{Introduction à la littérature fantastique}
       \field{year}{1992}
-      \true{nocite}
     \endentry
     \entry{tripathy_towards_2013}{article}{}
       \name{author}{3}{}{%

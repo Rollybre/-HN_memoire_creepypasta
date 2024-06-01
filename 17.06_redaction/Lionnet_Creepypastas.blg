@@ -1,15 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Lionnet_Creepypastas.blg'
-[50] biber-darwin:340> INFO - === Sat Jun  1, 2024, 16:04:29
-[60] Biber.pm:419> INFO - Reading 'Lionnet_Creepypastas.bcf'
-[126] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[137] Biber.pm:4419> INFO - Processing section 0
-[145] Biber.pm:4610> INFO - Looking for bibtex file 'bibliographie/Creepypasta.bib' for section 0
-[150] bibtex.pm:1713> INFO - LaTeX decoding ...
-[224] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliographie/Creepypasta.bib'
-[452] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[452] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[452] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'fr-FR'
-[452] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
-[506] bbl.pm:660> INFO - Writing 'Lionnet_Creepypastas.bbl' with encoding 'UTF-8'
-[533] bbl.pm:763> INFO - Output to Lionnet_Creepypastas.bbl
+[55] biber-darwin:340> INFO - === Sat Jun  1, 2024, 20:49:35
+[66] Biber.pm:419> INFO - Reading 'Lionnet_Creepypastas.bcf'
+[131] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[144] Biber.pm:4419> INFO - Processing section 0
+[151] Biber.pm:4610> INFO - Looking for bibtex file 'bibliographie/Creepypasta.bib' for section 0
+[156] bibtex.pm:1713> INFO - LaTeX decoding ...
+[231] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliographie/Creepypasta.bib'
+[466] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[466] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[466] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'fr-FR'
+[466] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
+[522] bbl.pm:660> INFO - Writing 'Lionnet_Creepypastas.bbl' with encoding 'UTF-8'
+[549] bbl.pm:763> INFO - Output to Lionnet_Creepypastas.bbl
+[551] Biber.pm:131> WARN - ISBN '978-0-19-217773-5 978-0-19-286092-7' in entry 'dawkins_selfish_1989' is invalid - run biber with '--validate_datamodel' for details.
+[551] Biber.pm:133> INFO - WARNINGS: 1

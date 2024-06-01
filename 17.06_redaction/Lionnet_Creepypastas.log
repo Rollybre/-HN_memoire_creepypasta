@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  1 JUN 2024 17:14
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  1 JUN 2024 20:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1219,11 +1219,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--186
 [2
 
 ]
-
-LaTeX Warning: Citation 'todorov_introductin_1992' on page 3 undefined on input
- line 195.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
@@ -1248,33 +1243,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
 [5] [6] [7]
 Chapitre 2.
-
-LaTeX Warning: Citation 'dawkins_gene_2003' on page 8 undefined on input line 2
-53.
-
-
-LaTeX Warning: Citation 'dawkins_gene_2003' on page 8 undefined on input line 2
-58.
-
 [8
 
 ] [9]
 File: illustration/SCP_173.jpg Graphic file (type bmp)
 <illustration/SCP_173.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 [][][]\TU/lmr/m/n/10 .[][][]Laura []Goudet[], «   Agentivité de l’horreur, cree
 pypastas et jeu vidéo » (, 2021),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 \TU/lmr/m/n/10 Artwork Size : 13 pages, pages 57-69 ISBN : 9782406125488 Medium
  : applica-
  []
 
 [10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 [][][]\TU/lmr/m/n/10 .[]Voir par exemple []$[][][][][] [] [] [] [][][] [] [][][
 ][][][][] [] [][][] [] [][][][][] [] [] [] [][][][][][][][][][][] [] [][] []
  []
@@ -1283,123 +1270,140 @@ Underfull \hbox (badness 10000) in paragraph at lines 305--305
 
 ]
 Chapitre 3.
+File: illustration/site_edit.png Graphic file (type bmp)
+<illustration/site_edit.png>
 [15
 
-]
-Overfull \hbox (1.67664pt too wide) in paragraph at lines 350--352
+] [16]
+Overfull \hbox (1.67664pt too wide) in paragraph at lines 356--358
 []\TU/lmr/m/n/12 Pour le premier moissonnage,nous avons décidé de récolter les 
 publications au nombre
  []
 
-[16] [17]
+[17] [18]
 Chapitre 4.
-[18
 
-] [19] [20
+Package biblatex Warning: Nested notes on input line 373.
+
+[19
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[][][]\TU/lmr/m/n/10 .[][]$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][]
+[][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][
+][][] [] [][][][] [] [][][][][][] []
+ []
+
+[20] [21
 
 ]
 Chapitre 5.
-[21
+File: illustration/boxplot_nombre_mots.png Graphic file (type bmp)
+<illustration/boxplot_nombre_mots.png>
+[22
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 422--423
+File: illustration/boxplot_phrases.png Graphic file (type bmp)
+<illustration/boxplot_phrases.png>
+ [23]
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
 
  []
 
+[24]
 File: illustration/tf_idf_topic_corpus_variables.png Graphic file (type bmp)
 <illustration/tf_idf_topic_corpus_variables.png>
 File: illustration/tf_idf_topic_tmdb.png Graphic file (type bmp)
 <illustration/tf_idf_topic_tmdb.png>
-[22]
+ [25]
 File: illustration/tf-idf_topic_fandom.png Graphic file (type bmp)
 <illustration/tf-idf_topic_fandom.png>
 File: illustration/tf-idf_topic_reddit.png Graphic file (type bmp)
 <illustration/tf-idf_topic_reddit.png>
- [23] [24]
+ [26]
 File: illustration/comparaison_lisibilite_source.png Graphic file (type bmp)
 <illustration/comparaison_lisibilite_source.png>
- [25]
+ [27]
 File: illustration/boxplot_readability_V2.png Graphic file (type bmp)
 <illustration/boxplot_readability_V2.png>
- [26]
+ [28] [29]
 File: illustration/emotions.png Graphic file (type bmp)
 <illustration/emotions.png>
 File: illustration/emotions_corrected.png Graphic file (type bmp)
 <illustration/emotions_corrected.png>
- [27] [28] [29]
+ [30] [31] [32]
 Chapitre 6.
 File: illustration/corr_read.png Graphic file (type bmp)
 <illustration/corr_read.png>
-[30
+[33
 
-] [31] [32] [33]
+] [34] [35] [36] [37]
 File: illustration/distance_lisibilite.png Graphic file (type bmp)
 <illustration/distance_lisibilite.png>
 File: illustration/distance_phrases.png Graphic file (type bmp)
 <illustration/distance_phrases.png>
- [34] [35] [36
+ [38] [39
 
-] [37] [38
+] [40] [41
 
 
-] [39] [40] [41
+] [42] [43] [44
 
-] [42]
-Overfull \hbox (282.66286pt too wide) in paragraph at lines 790--790
+] [45]
+Overfull \hbox (282.66286pt too wide) in paragraph at lines 807--807
 \TU/lmr/m/n/12 Size : 13 pages, pages 57-69 ISBN : 9782406125488 Medium : appli
 cation/xhtml+xml,application/pdf,online,database,application/xhtml+xml ;
  []
 
-[43]
-Overfull \hbox (35.04774pt too wide) in paragraph at lines 790--790
+[46]
+Overfull \hbox (5.24065pt too wide) in paragraph at lines 807--807
+[][][]\TU/lmr/m/sc/12 King []\TU/lmr/m/n/12 (Stephen), \TU/lmr/m/it/12 Anatomie
+ de l’horreur\TU/lmr/m/n/12 , trad. par Jean-Daniel []Brèque[], OCLC : 12012550
+70,
+ []
+
+
+Overfull \hbox (35.04774pt too wide) in paragraph at lines 807--807
 [][][]\TU/lmr/m/sc/12 Koolen []\TU/lmr/m/n/12 (Corina), []\TU/lmr/m/sc/12 Dalen
 -Oskam []\TU/lmr/m/n/12 (Karina van), []\TU/lmr/m/sc/12 Cranenburgh []\TU/lmr/m
 /n/12 (Andreas van) et []\TU/lmr/m/sc/12 Nagelhout
  []
 
-
-Overfull \hbox (17.63498pt too wide) in paragraph at lines 790--790
+[47]
+Overfull \hbox (17.63498pt too wide) in paragraph at lines 807--807
 [][][]\TU/lmr/m/sc/12 Mirvoda []\TU/lmr/m/n/12 (T. A.), []\TU/lmr/m/sc/12 Strog
 anov []\TU/lmr/m/n/12 (M. V.), []\TU/lmr/m/sc/12 A. M. Gorky Institute of World
  literature
  []
 
-[44]
-Overfull \hbox (0.10312pt too wide) in paragraph at lines 790--790
+
+Overfull \hbox (0.10312pt too wide) in paragraph at lines 807--807
 \TU/lmr/m/it/12 of Qualitative Methods\TU/lmr/m/n/12 , 3–2 (juin 2004), p. 45-5
 1, \TU/lmr/m/sc/12 doi \TU/lmr/m/n/12 : []$[][] [] [][][][] [] [][][][][][][][]
 [][][][][][][][][][]$[]. 
  []
 
-
-Overfull \hbox (11.90863pt too wide) in paragraph at lines 790--790
+[48]
+Overfull \hbox (11.90863pt too wide) in paragraph at lines 807--807
 [][]\TU/lmr/m/it/12 The Movie Database (TMDB)\TU/lmr/m/n/12 , \TU/lmr/m/sc/12 u
 rl \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][] [] []
 [][][]$[] (visité le 28/05/2024). 
  []
 
-[45] [46] (./Lionnet_Creepypastas.aux)
-
-LaTeX Warning: There were undefined references.
-
+[49] (./Lionnet_Creepypastas.aux)
 Package rerunfilecheck Info: File `Lionnet_Creepypastas.out' has not changed.
-(rerunfilecheck)             Checksum: 2F8BEA8E73AB9D767B915BD984311BCC;6956.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Lionnet_Creepypastas
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 37D70BEEE2C30C0039B67664AC27DEAE;7766.
 Package logreq Info: Writing requests to 'Lionnet_Creepypastas.run.xml'.
 \openout1 = `Lionnet_Creepypastas.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37491 strings out of 476683
- 750452 string characters out of 5804047
- 1865018 words of memory out of 5000000
- 57212 multiletter control sequences out of 15000+600000
+ 37539 strings out of 476683
+ 751989 string characters out of 5804047
+ 1864018 words of memory out of 5000000
+ 57257 multiletter control sequences out of 15000+600000
  515607 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,9n,89p,4577b,5349s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Lionnet_Creepypastas.pdf (56 pages).
+Output written on Lionnet_Creepypastas.pdf (59 pages).

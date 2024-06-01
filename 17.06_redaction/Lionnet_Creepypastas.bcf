@@ -2136,7 +2136,7 @@
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">ondrak_spectres_2018</bcf:citekey>
     <bcf:citekey order="2" intorder="1">blank_slender_2018</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">todorov_introductin_1992</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">todorov_introduction_1992</bcf:citekey>
     <bcf:citekey order="4" intorder="1">king_anatomie_2020</bcf:citekey>
     <bcf:citekey order="5" intorder="1">balanzategui_creepypasta_2019</bcf:citekey>
     <bcf:citekey order="6" intorder="1">balanzategui_creepypasta_2019</bcf:citekey>
@@ -2145,8 +2145,8 @@
     <bcf:citekey order="9" intorder="1">kane_pixels_backrooms_2022</bcf:citekey>
     <bcf:citekey order="10" intorder="1">jacobs_character_1990</bcf:citekey>
     <bcf:citekey order="11" intorder="1">jenkins_convergence_2006</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">dawkins_gene_2003</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">dawkins_gene_2003</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">dawkins_selfish_1989</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">dawkins_selfish_1989</bcf:citekey>
     <bcf:citekey order="14" intorder="1">goudet_agentivite_2021</bcf:citekey>
     <bcf:citekey order="15" intorder="1">lata_du_2022</bcf:citekey>
     <bcf:citekey order="16" intorder="1">cook_canonicity_2013</bcf:citekey>
@@ -2156,11 +2156,13 @@
     <bcf:citekey order="20" intorder="1">aron_litterature_1984</bcf:citekey>
     <bcf:citekey order="21" intorder="1">koolen_literary_2020</bcf:citekey>
     <bcf:citekey order="22" intorder="1">van_cranenburgh_identifying_2015</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">mayer_autorite_2017</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">chevalier_dictionnaire_1990</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">barre_operationalizing_2023</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">mayer_autorite_2017</bcf:citekey>
     <bcf:citekey order="25" intorder="1">chevalier_dictionnaire_1990</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">mohammad_crowdsourcing_2013</bcf:citekey>
-    <bcf:citekey order="27" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">chevalier_dictionnaire_1990</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">mohammad_crowdsourcing_2013</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">cafiero_rise_nodate</bcf:citekey>
+    <bcf:citekey order="29" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
