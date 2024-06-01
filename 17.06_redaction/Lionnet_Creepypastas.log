@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  1 JUN 2024 16:27
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.2.21)  1 JUN 2024 17:14
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1229,10 +1229,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 198--199
  []
 
 [3] [4]
-File: ../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustr
-ation/ben_drowned1.jpg Graphic file (type bmp)
-<../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustration
-/ben_drowned1.jpg>
+File: illustration/ben_drowned1.jpg Graphic file (type bmp)
+<illustration/ben_drowned1.jpg>
 
 Underfull \hbox (badness 10000) in paragraph at lines 226--232
 \TU/lmr/m/n/12 sur Internet destinées à la diffusion sur Internet.
@@ -1261,10 +1259,8 @@ LaTeX Warning: Citation 'dawkins_gene_2003' on page 8 undefined on input line 2
 [8
 
 ] [9]
-File: ../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustr
-ation/SCP_173.jpg Graphic file (type bmp)
-<../../../10-19_Université_et_scolarité/17_Memoire/17.06_redaction/illustration
-/SCP_173.jpg>
+File: illustration/SCP_173.jpg Graphic file (type bmp)
+<illustration/SCP_173.jpg>
 
 Underfull \hbox (badness 10000) in paragraph at lines 287--287
 [][][]\TU/lmr/m/n/10 .[][][]Laura []Goudet[], «   Agentivité de l’horreur, cree
@@ -1310,48 +1306,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 422--423
 
  []
 
-File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
-mage/tf_idf_topic_corpus_variables.png Graphic file (type bmp)
-</Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
-tf_idf_topic_corpus_variables.png>
-File: //Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_
-image/tf_idf_topic_tmdb.png Graphic file (type bmp)
-<//Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image
-/tf_idf_topic_tmdb.png>
+File: illustration/tf_idf_topic_corpus_variables.png Graphic file (type bmp)
+<illustration/tf_idf_topic_corpus_variables.png>
+File: illustration/tf_idf_topic_tmdb.png Graphic file (type bmp)
+<illustration/tf_idf_topic_tmdb.png>
 [22]
-File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
-mage/tf-idf_topic_fandom.png Graphic file (type bmp)
-</Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
-tf-idf_topic_fandom.png>
-File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
-mage/tf-idf_topic_reddit.png Graphic file (type bmp)
-</Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
-tf-idf_topic_reddit.png>
+File: illustration/tf-idf_topic_fandom.png Graphic file (type bmp)
+<illustration/tf-idf_topic_fandom.png>
+File: illustration/tf-idf_topic_reddit.png Graphic file (type bmp)
+<illustration/tf-idf_topic_reddit.png>
  [23] [24]
-File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
-mage/comparaison_lisibilite_source.png Graphic file (type bmp)
-</Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
-comparaison_lisibilite_source.png>
+File: illustration/comparaison_lisibilite_source.png Graphic file (type bmp)
+<illustration/comparaison_lisibilite_source.png>
  [25]
-File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
-mage/boxplot_readability_V2.png Graphic file (type bmp)
-</Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
-boxplot_readability_V2.png>
+File: illustration/boxplot_readability_V2.png Graphic file (type bmp)
+<illustration/boxplot_readability_V2.png>
  [26]
-File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
-mage/emotions.png Graphic file (type bmp)
-</Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
-emotions.png>
-File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
-mage/emotions_corrected.png Graphic file (type bmp)
-</Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
-emotions_corrected.png>
+File: illustration/emotions.png Graphic file (type bmp)
+<illustration/emotions.png>
+File: illustration/emotions_corrected.png Graphic file (type bmp)
+<illustration/emotions_corrected.png>
  [27] [28] [29]
 Chapitre 6.
-File: /Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_i
-mage/corr_read.png Graphic file (type bmp)
-</Users/rolly/Documents/10-19_Université_et_scolarité/17_Memoire/17.05_image/
-corr_read.png>
+File: illustration/corr_read.png Graphic file (type bmp)
+<illustration/corr_read.png>
 [30
 
 ] [31] [32] [33]
@@ -1404,14 +1382,8 @@ rl \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][] [] []
 
 LaTeX Warning: There were undefined references.
 
-
-Package rerunfilecheck Warning: File `Lionnet_Creepypastas.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Lionnet_Creepypastas.out':
-(rerunfilecheck)             Before: 336BE5BA54B89030E70A8BC4AB534AD7;6760
-(rerunfilecheck)             After:  2F8BEA8E73AB9D767B915BD984311BCC;6956.
+Package rerunfilecheck Info: File `Lionnet_Creepypastas.out' has not changed.
+(rerunfilecheck)             Checksum: 2F8BEA8E73AB9D767B915BD984311BCC;6956.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                Lionnet_Creepypastas
@@ -1422,8 +1394,8 @@ Package logreq Info: Writing requests to 'Lionnet_Creepypastas.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37494 strings out of 476683
- 756638 string characters out of 5804047
+ 37491 strings out of 476683
+ 750452 string characters out of 5804047
  1865018 words of memory out of 5000000
  57212 multiletter control sequences out of 15000+600000
  515607 words of font info for 70 fonts, out of 8000000 for 9000
